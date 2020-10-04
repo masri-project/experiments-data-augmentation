@@ -1,0 +1,1036 @@
+2020-08-29 06:27:27,726 - INFO - Dataset loaded with 7.57 hours. Filtered 0.00 hours.
+2020-08-29 06:27:27,733 - INFO - Dataset loaded with 0.53 hours. Filtered 0.00 hours.
+2020-08-29 06:27:27,733 - INFO - PADDING: 16
+2020-08-29 06:27:30,134 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-08-29 06:27:30,134 - INFO - Starting .....
+2020-08-29 06:27:30,135 - INFO - Found 2 modules with weights:
+2020-08-29 06:27:30,135 - INFO - JasperDecoderForCTC
+2020-08-29 06:27:30,135 - INFO - JasperEncoder
+2020-08-29 06:27:30,135 - INFO - Total model parameters: 9967645
+2020-08-29 06:27:30,135 - WARNING - Checkpoint folder CHECKPOINTS not found!
+2020-08-29 06:27:30,135 - INFO - Starting epoch 0
+2020-08-29 06:27:30,655 - INFO - Step: 0
+2020-08-29 06:27:30,691 - INFO - Loss: 2577.84814453125
+2020-08-29 06:27:30,691 - INFO - training_batch_WER:  353.30%
+2020-08-29 06:27:30,691 - INFO - Prediction:  sosaojodjsfps ofqjythjd fitj'q tqtjdpt'jdajmaoja aosfj jltpfjastjtps jetl tjtjtqtj shit jtjtj ejtatjejafjatjhv soy j j ejautfjtmj a  m' ofq' koj jy t ahj jf tyajadja fppodfjp oftatdjpjasaja'tjokfo jj da a q'kblj djp hahftjhjvpsa j j jvhpdjpjyqfodfjovyaojptjvjkpajtjwtjejit t'rj maszdj jjpslieidsdjotjaajt qofjatdtjt  tjjijdjjajptjo jeaijdiks tj tftfvj'oaoet jpdjs mafjta aofujhjduoafpstwjipfhpf jjmomtfjfokealtaj sjadjaje eojqj j pd jko jajtj j j ol t sjt jiyjtwthyaospjt kja foftjsmfojojfjhfatjooajasojopfj tqompjdaojvfjf ayjz'j f'joj fjota fjtjf hsva fifaejotl j j o s jaqo otpsojj a asjuts
+2020-08-29 06:27:30,691 - INFO - Reference: as thus he strode along in anger putting together the words he would use to chide little john he heard of a sudden loud and angry voices
+2020-08-29 06:27:30,691 - INFO - Step time: 0.4810476303100586 seconds
+2020-08-29 06:27:30,692 - INFO - Doing Evaluation ..............................
+2020-08-29 06:27:31,798 - INFO - ==========>>>>>>Evaluation Loss TEST: 2131.978759765625
+2020-08-29 06:27:31,798 - INFO - ==========>>>>>>Evaluation WER TEST:  100.00%
+2020-08-29 06:27:31,798 - INFO - Evaluation time: 1.106269359588623 seconds
+2020-08-29 06:27:43,904 - INFO - Step: 25
+2020-08-29 06:27:43,908 - INFO - Loss: 490.7458190917969
+2020-08-29 06:27:43,908 - INFO - training_batch_WER:  100.00%
+2020-08-29 06:27:43,908 - INFO - Prediction: 
+2020-08-29 06:27:43,908 - INFO - Reference: poor mortals who wait for a happy day cheer up your hearts
+2020-08-29 06:27:43,909 - INFO - Step time: 0.42219996452331543 seconds
+2020-08-29 06:27:55,954 - INFO - Step: 50
+2020-08-29 06:27:55,958 - INFO - Loss: 454.4736633300781
+2020-08-29 06:27:55,958 - INFO - training_batch_WER:  100.00%
+2020-08-29 06:27:55,958 - INFO - Prediction: 
+2020-08-29 06:27:55,958 - INFO - Reference: at the bottom of the street however she looked back again and then not at a window but issuing from the door she saw miss tilney herself she was followed by a gentleman whom catherine believed to be her father and they turned up towards edgar's buildings
+2020-08-29 06:27:55,958 - INFO - Step time: 0.4194040298461914 seconds
+2020-08-29 06:28:05,261 - INFO - Finished epoch 0 in 35.12623405456543
+2020-08-29 06:28:05,262 - INFO - Starting epoch 1
+2020-08-29 06:28:07,478 - INFO - Step: 75
+2020-08-29 06:28:07,482 - INFO - Loss: 399.5580749511719
+2020-08-29 06:28:07,483 - INFO - training_batch_WER:  100.00%
+2020-08-29 06:28:07,483 - INFO - Prediction:  r      r  rr
+2020-08-29 06:28:07,483 - INFO - Reference: when juno to her handmaid gives command the one without born of the one within like to the speaking of that vagrant one whom love consumed as doth the sun the vapours
+2020-08-29 06:28:07,483 - INFO - Step time: 0.4148905277252197 seconds
+2020-08-29 06:28:18,870 - INFO - Step: 100
+2020-08-29 06:28:18,881 - INFO - Loss: 322.9604187011719
+2020-08-29 06:28:18,882 - INFO - training_batch_WER:  97.72%
+2020-08-29 06:28:18,882 - INFO - Prediction:  ws e   anr  bl an e 
+2020-08-29 06:28:18,882 - INFO - Reference: mesopotamia and syria sobal and libya
+2020-08-29 06:28:18,882 - INFO - Step time: 0.4328341484069824 seconds
+2020-08-29 06:28:18,882 - INFO - Creating CHECKPOINTS folder
+2020-08-29 06:28:18,934 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-100.pt
+2020-08-29 06:28:30,321 - INFO - Step: 125
+2020-08-29 06:28:30,335 - INFO - Loss: 327.21405029296875
+2020-08-29 06:28:30,335 - INFO - training_batch_WER:  96.28%
+2020-08-29 06:28:30,335 - INFO - Prediction: an thfrlin foran om sspons o b a  on sts amo thegr s a s monstrin tho pst torscr frscor s thers bn hea  brls oron isin o e f
+2020-08-29 06:28:30,335 - INFO - Reference: in the feeling for international responsibility and justice among the great civilized nations during the past threescore or fourscore years there has been a real growth of recognition of the fact
+2020-08-29 06:28:30,336 - INFO - Step time: 0.4364283084869385 seconds
+2020-08-29 06:28:37,245 - INFO - Finished epoch 1 in 31.982948303222656
+2020-08-29 06:28:37,245 - INFO - Starting epoch 2
+2020-08-29 06:28:41,308 - INFO - Step: 150
+2020-08-29 06:28:41,323 - INFO - Loss: 260.4034729003906
+2020-08-29 06:28:41,323 - INFO - training_batch_WER:  93.19%
+2020-08-29 06:28:41,323 - INFO - Prediction: an a perin s tali on ons enar se a e y in al l be abl ir s he garmistry u his on mis oions r h en s co s noin
+2020-08-29 06:28:41,323 - INFO - Reference: that a person so intelligent ingenious and clear sighted as the abbe might probably be able to solve the dark mystery of his own misfortunes where he himself could see nothing
+2020-08-29 06:28:41,324 - INFO - Step time: 0.43929076194763184 seconds
+2020-08-29 06:28:52,833 - INFO - Step: 175
+2020-08-29 06:28:52,850 - INFO - Loss: 273.781982421875
+2020-08-29 06:28:52,850 - INFO - training_batch_WER:  91.97%
+2020-08-29 06:28:52,850 - INFO - Prediction: a in  cr soery and sen to in o isi too iso  fere si l to wih his yo mian be gn bin  hso theinstl inte theon oly graoprer was malin w
+2020-08-29 06:28:52,850 - INFO - Reference: at an increased salary and sent to an office at columbus ohio there he settled down with his young wife and began buying a house on the installment plan the young telegraph operator was madly in love
+2020-08-29 06:28:52,850 - INFO - Step time: 0.4492194652557373 seconds
+2020-08-29 06:29:04,334 - INFO - Step: 200
+2020-08-29 06:29:04,352 - INFO - Loss: 262.8040771484375
+2020-08-29 06:29:04,352 - INFO - training_batch_WER:  90.19%
+2020-08-29 06:29:04,353 - INFO - Prediction:  is amit thas sa ecpac was te lalto thear moter i am prfi ley gray a s t ce ma gaten and wa yu isters wrcomr yu shli cles mn tho very gav the ml
+2020-08-29 06:29:04,353 - INFO - Reference: his answer to this sudden attack was delightful to their mother's ear i am perfectly ready i assure you to keep my engagement and when your sister is recovered you shall if you please name the very day of the ball
+2020-08-29 06:29:04,353 - INFO - Step time: 0.4380650520324707 seconds
+2020-08-29 06:29:04,403 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-200.pt
+2020-08-29 06:29:09,483 - INFO - Finished epoch 2 in 32.2377245426178
+2020-08-29 06:29:09,483 - INFO - Starting epoch 3
+2020-08-29 06:29:15,448 - INFO - Step: 225
+2020-08-29 06:29:15,463 - INFO - Loss: 209.90823364257812
+2020-08-29 06:29:15,463 - INFO - training_batch_WER:  87.07%
+2020-08-29 06:29:15,463 - INFO - Prediction:   bi a a loy be for m p darm the sanm on s that ba o at ou my ha nathing to compl n justis the for every thin
+2020-08-29 06:29:15,464 - INFO - Reference: ah i had eighty louis before me put down the same sum so that they who have lost may have nothing to complain of justice before everything
+2020-08-29 06:29:15,464 - INFO - Step time: 0.42891502380371094 seconds
+2020-08-29 06:29:27,336 - INFO - Step: 250
+2020-08-29 06:29:27,350 - INFO - Loss: 196.86825561523438
+2020-08-29 06:29:27,350 - INFO - training_batch_WER:  84.25%
+2020-08-29 06:29:27,350 - INFO - Prediction: hardidyisler ciht as atran she ever coldlan r anerstand ani thing beforso as tohtan som tams noin in thn for shas oa n in atenti an acainly stertid
+2020-08-29 06:29:27,350 - INFO - Reference: her abilities were quite as extraordinary she never could learn or understand anything before she was taught and sometimes not even then for she was often inattentive and occasionally stupid
+2020-08-29 06:29:27,350 - INFO - Step time: 0.43120527267456055 seconds
+2020-08-29 06:29:39,086 - INFO - Step: 275
+2020-08-29 06:29:39,099 - INFO - Loss: 198.96292114257812
+2020-08-29 06:29:39,099 - INFO - training_batch_WER:  86.25%
+2020-08-29 06:29:39,099 - INFO - Prediction: ol fyy becas i no no but e ma be o monment todos wo comeafto ma if thycoum to bebrout to the san distres and to the sain manor of making ter tis an therfor
+2020-08-29 06:29:39,100 - INFO - Reference: so fully because i know not but it may be of moment to those who come after me if they come to be brought to the same distress and to the same manner of making their choice and therefore
+2020-08-29 06:29:39,100 - INFO - Step time: 0.48738884925842285 seconds
+2020-08-29 06:29:42,397 - INFO - Finished epoch 3 in 32.89828038215637
+2020-08-29 06:29:42,397 - INFO - Starting epoch 4
+2020-08-29 06:29:50,624 - INFO - Step: 300
+2020-08-29 06:29:50,641 - INFO - Loss: 204.86997985839844
+2020-08-29 06:29:50,641 - INFO - training_batch_WER:  83.98%
+2020-08-29 06:29:50,641 - INFO - Prediction: and e so lef tembon with roles
+2020-08-29 06:29:50,641 - INFO - Reference: and so left him bound with ropes
+2020-08-29 06:29:50,641 - INFO - Step time: 0.5050606727600098 seconds
+2020-08-29 06:29:50,692 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-300.pt
+2020-08-29 06:30:02,440 - INFO - Step: 325
+2020-08-29 06:30:02,454 - INFO - Loss: 171.00244140625
+2020-08-29 06:30:02,454 - INFO - training_batch_WER:  80.86%
+2020-08-29 06:30:02,454 - INFO - Prediction: misuaan sa tatherin the netmryng whel ther beay ham an mi caln an mis tny to y i sha not be eaty tolive expla devything gl alnins midi u y qould on ta like gil mis tily alwys was wigt
+2020-08-29 06:30:02,454 - INFO - Reference: missus allen said catherine the next morning will there be any harm in my calling on miss tilney today i shall not be easy till i have explained everything go by all means my dear only put on a white gown miss tilney always wears white
+2020-08-29 06:30:02,454 - INFO - Step time: 0.46063852310180664 seconds
+2020-08-29 06:30:14,610 - INFO - Step: 350
+2020-08-29 06:30:14,626 - INFO - Loss: 176.66519165039062
+2020-08-29 06:30:14,626 - INFO - training_batch_WER:  78.47%
+2020-08-29 06:30:14,626 - INFO - Prediction: taanin himpes fomisi siiy widh srune himand bishis hos which ha seem to be extingwih ei ive in his wasim he rmember the affeion with which he had ben cous taly grted by the comin eu inton in contry
+2020-08-29 06:30:14,627 - INFO - Reference: taken an impress from the society which surrounded him ambitious hopes which had seemed to be extinguished revived in his bosom he remembered the affection with which he had been constantly greeted by the common people in town and country
+2020-08-29 06:30:14,627 - INFO - Step time: 0.4616060256958008 seconds
+2020-08-29 06:30:16,238 - INFO - Finished epoch 4 in 33.840344190597534
+2020-08-29 06:30:16,238 - INFO - Starting epoch 5
+2020-08-29 06:30:26,258 - INFO - Step: 375
+2020-08-29 06:30:26,273 - INFO - Loss: 159.92767333984375
+2020-08-29 06:30:26,273 - INFO - training_batch_WER:  73.32%
+2020-08-29 06:30:26,273 - INFO - Prediction: his tisit of the aye affor at is to ber manberd had ben very short and very  lital explikketive he font rviel in i joiyful mad he ad bout the keen ind qulein torming at the bal it is tr he cardnol had beent porti corly thiel tenpert
+2020-08-29 06:30:26,273 - INFO - Reference: his visit of the day before it is to be remembered had been very short and very little explicative he found treville in a joyful mood he had thought the king and queen charming at the ball it is true the cardinal had been particularly ill tempered
+2020-08-29 06:30:26,273 - INFO - Step time: 0.45957279205322266 seconds
+2020-08-29 06:30:38,061 - INFO - Step: 400
+2020-08-29 06:30:38,075 - INFO - Loss: 178.5290985107422
+2020-08-29 06:30:38,075 - INFO - training_batch_WER:  79.66%
+2020-08-29 06:30:38,075 - INFO - Prediction: sha ooud fon her a pinins and her maners it would bean intrsting andcertonly offary cind andertating ily be comming hear o sitation o lie herser and poer
+2020-08-29 06:30:38,075 - INFO - Reference: she would form her opinions and her manners it would be an interesting and certainly a very kind undertaking highly becoming her own situation in life her leisure and powers
+2020-08-29 06:30:38,076 - INFO - Step time: 0.4943389892578125 seconds
+2020-08-29 06:30:38,127 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-400.pt
+2020-08-29 06:30:49,771 - INFO - Step: 425
+2020-08-29 06:30:49,772 - INFO - Loss: 141.47967529296875
+2020-08-29 06:30:49,791 - INFO - training_batch_WER:  66.67%
+2020-08-29 06:30:49,791 - INFO - Prediction: it was now ramity fr the atsan of missis estan he was de lii totte her fother to conptao and very mach please with ther sel for contribing thing so wl
+2020-08-29 06:30:49,791 - INFO - Reference: it was no remedy for the absence of missus weston she was delighted to see her father look comfortable and very much pleased with herself for contriving things so well
+2020-08-29 06:30:49,791 - INFO - Step time: 0.05345416069030762 seconds
+2020-08-29 06:30:49,791 - INFO - Finished epoch 5 in 33.552539348602295
+2020-08-29 06:30:49,791 - INFO - Starting epoch 6
+2020-08-29 06:31:01,505 - INFO - Step: 450
+2020-08-29 06:31:01,520 - INFO - Loss: 144.6990203857422
+2020-08-29 06:31:01,520 - INFO - training_batch_WER:  70.77%
+2020-08-29 06:31:01,520 - INFO - Prediction:  but air tat i consay wi be af litl ofvil my wevinius of nomoen tou yat wioit be avice
+2020-08-29 06:31:01,520 - INFO - Reference: but all that i can say will be of little avail my revenge is of no moment to you yet while i allow it to be a vice
+2020-08-29 06:31:01,520 - INFO - Step time: 0.425060510635376 seconds
+2020-08-29 06:31:13,334 - INFO - Step: 475
+2020-08-29 06:31:13,350 - INFO - Loss: 149.98324584960938
+2020-08-29 06:31:13,350 - INFO - training_batch_WER:  72.48%
+2020-08-29 06:31:13,350 - INFO - Prediction: that it was execud this shid of her o andwrds narsmelaed sometime and iendeded anapsens of mii stil mor suled whos beiticunmanly greave te o moring nariansamearly sencur horse for what she hadsaid
+2020-08-29 06:31:13,350 - INFO - Reference: that it was exactly the shade of her own edward's embarrassment lasted some time and it ended in an absence of mind still more settled he was particularly grave the whole morning marianne severely censured herself for what she had said
+2020-08-29 06:31:13,350 - INFO - Step time: 0.45482611656188965 seconds
+2020-08-29 06:31:22,812 - INFO - Finished epoch 6 in 33.02116131782532
+2020-08-29 06:31:22,813 - INFO - Starting epoch 7
+2020-08-29 06:31:24,622 - INFO - Step: 500
+2020-08-29 06:31:24,638 - INFO - Loss: 153.54808044433594
+2020-08-29 06:31:24,638 - INFO - training_batch_WER:  71.21%
+2020-08-29 06:31:24,638 - INFO - Prediction: is tho word privla at desin wen fanly dovelliup was to slint i suppointmen to miser teply oiuspected iras of being afortreus
+2020-08-29 06:31:24,638 - INFO - Reference: is the word privilege the design when finally developed was a slight disappointment to monsieur deplis who had suspected icarus of being a fortress
+2020-08-29 06:31:24,638 - INFO - Step time: 0.42932915687561035 seconds
+2020-08-29 06:31:24,639 - INFO - Doing Evaluation ..............................
+2020-08-29 06:31:25,645 - INFO - ==========>>>>>>Evaluation Loss TEST: 117.57463073730469
+2020-08-29 06:31:25,645 - INFO - ==========>>>>>>Evaluation WER TEST:  72.77%
+2020-08-29 06:31:25,645 - INFO - Evaluation time: 1.0066862106323242 seconds
+2020-08-29 06:31:25,705 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-500.pt
+2020-08-29 06:31:37,799 - INFO - Step: 525
+2020-08-29 06:31:37,815 - INFO - Loss: 145.5379638671875
+2020-08-29 06:31:37,815 - INFO - training_batch_WER:  69.80%
+2020-08-29 06:31:37,815 - INFO - Prediction: the jage co hol meonesin metury wies he fix opart stif bal ta the lot a lorr was heridt bantin aa i him back ma clasr hair yon a min bobby tha ming the hi en gran an a wekant o gurgd dobby arpla the genginles
+2020-08-29 06:31:37,815 - INFO - Reference: the judge could hold me only as a material witness he fixed a pretty stiff bail but the local lawyer was there with a bondsman and i came back my clothes are here you don't mind bobby that moment in the hall when graham had awakened him urged bobby to reply with a genuine warmth
+2020-08-29 06:31:37,816 - INFO - Step time: 0.49097490310668945 seconds
+2020-08-29 06:31:49,834 - INFO - Step: 550
+2020-08-29 06:31:49,852 - INFO - Loss: 148.32861328125
+2020-08-29 06:31:49,852 - INFO - training_batch_WER:  72.65%
+2020-08-29 06:31:49,852 - INFO - Prediction: lat mapr kim theplanty in litle bas among the she bads she st oing upaper ba en ur and the ban was fil ges a fyou a ad tin sh han a me  seas
+2020-08-29 06:31:49,852 - INFO - Reference: late in april came the planting in the little paths among the seed beds she stood holding a paper bag in her hand the bag was filled with seeds a few at a time she handed me the seeds
+2020-08-29 06:31:49,852 - INFO - Step time: 0.4547617435455322 seconds
+2020-08-29 06:31:57,440 - INFO - Finished epoch 7 in 34.626781940460205
+2020-08-29 06:31:57,440 - INFO - Starting epoch 8
+2020-08-29 06:32:01,291 - INFO - Step: 575
+2020-08-29 06:32:01,307 - INFO - Loss: 131.027587890625
+2020-08-29 06:32:01,307 - INFO - training_batch_WER:  66.86%
+2020-08-29 06:32:01,307 - INFO - Prediction: that nover man wis so complete a master of his tom and of his pations when it was foun the tretryt could donothing orbrty poer was ased after vamly tin tot andvacl ock intoa fult
+2020-08-29 06:32:01,307 - INFO - Reference: that never man was so complete a master of his tongue and of his passions when it was found that treachery could do nothing arbitrary power was used after vainly trying to inveigle locke into a fault
+2020-08-29 06:32:01,307 - INFO - Step time: 0.4478635787963867 seconds
+2020-08-29 06:32:12,996 - INFO - Step: 600
+2020-08-29 06:32:13,010 - INFO - Loss: 121.4832534790039
+2020-08-29 06:32:13,010 - INFO - training_batch_WER:  66.50%
+2020-08-29 06:32:13,010 - INFO - Prediction: al ta villajers said it was af fin i de a so they stop working for oncse and began to plan ta selabration they thught that there oit to be s wioming races antre felling cantest
+2020-08-29 06:32:13,010 - INFO - Reference: all the villagers said it was a fine idea so they stopped working for once and began to plan the celebration they thought that there ought to be swimming races and tree felling contests
+2020-08-29 06:32:13,011 - INFO - Step time: 0.4541933536529541 seconds
+2020-08-29 06:32:13,070 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-600.pt
+2020-08-29 06:32:25,029 - INFO - Step: 625
+2020-08-29 06:32:25,046 - INFO - Loss: 141.56178283691406
+2020-08-29 06:32:25,046 - INFO - training_batch_WER:  66.28%
+2020-08-29 06:32:25,046 - INFO - Prediction: but the meting and concuras of these cases arizses from thatin eavitable chant of oardour which flowing from the founn hadt of provitane disposes al things in ther do time an plac
+2020-08-29 06:32:25,046 - INFO - Reference: but the meeting and concurrence of these causes arises from that inevitable chain of order which flowing from the fountain head of providence disposes all things in their due time and place
+2020-08-29 06:32:25,046 - INFO - Step time: 0.4599473476409912 seconds
+2020-08-29 06:32:30,804 - INFO - Finished epoch 8 in 33.36353278160095
+2020-08-29 06:32:30,804 - INFO - Starting epoch 9
+2020-08-29 06:32:36,535 - INFO - Step: 650
+2020-08-29 06:32:36,553 - INFO - Loss: 141.46755981445312
+2020-08-29 06:32:36,553 - INFO - training_batch_WER:  65.84%
+2020-08-29 06:32:36,553 - INFO - Prediction: he filte was torlhey so he tie es orcein the yart of te smal bright rier hotel and we evr to thestation hous the long plat for was alas diserted the oly living preeatrinsiht being a girl who wu siti on apie ofshinles of the xtre mend
+2020-08-29 06:32:36,553 - INFO - Reference: he thought he was too early so he tied his horse in the yard of the small bright river hotel and went over to the station house the long platform was almost deserted the only living creature in sight being a girl who was sitting on a pile of shingles at the extreme end
+2020-08-29 06:32:36,554 - INFO - Step time: 0.4572715759277344 seconds
+2020-08-29 06:32:48,492 - INFO - Step: 675
+2020-08-29 06:32:48,506 - INFO - Loss: 103.34034729003906
+2020-08-29 06:32:48,506 - INFO - training_batch_WER:  62.53%
+2020-08-29 06:32:48,506 - INFO - Prediction: but is emmience us gars mend had received
+2020-08-29 06:32:48,506 - INFO - Reference: that his eminence's guardsmen had received
+2020-08-29 06:32:48,506 - INFO - Step time: 0.46865296363830566 seconds
+2020-08-29 06:33:00,183 - INFO - Step: 700
+2020-08-29 06:33:00,198 - INFO - Loss: 111.47114562988281
+2020-08-29 06:33:00,198 - INFO - training_batch_WER:  61.34%
+2020-08-29 06:33:00,198 - INFO - Prediction: and reck to tod along and bede me concitterd the disperite betwine don fermone doon my self from which i might concloved that his intpentions whantever he might sayt to the countury head for therain his on pleasure ret or the mydvetage
+2020-08-29 06:33:00,198 - INFO - Reference: and rectitude alone and bade me consider the disparity between don fernando and myself from which i might conclude that his intentions whatever he might say to the contrary had for their aim his own pleasure rather than my advantage
+2020-08-29 06:33:00,198 - INFO - Step time: 0.446688175201416 seconds
+2020-08-29 06:33:00,256 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-700.pt
+2020-08-29 06:33:04,112 - INFO - Finished epoch 9 in 33.28544783592224
+2020-08-29 06:33:04,112 - INFO - Starting epoch 10
+2020-08-29 06:33:11,542 - INFO - Step: 725
+2020-08-29 06:33:11,557 - INFO - Loss: 105.32598876953125
+2020-08-29 06:33:11,557 - INFO - training_batch_WER:  56.45%
+2020-08-29 06:33:11,557 - INFO - Prediction: as for an da glar obsord in at intersting conversation with him cavial caunty he pade no itention to anything that was pasing
+2020-08-29 06:33:11,557 - INFO - Reference: as for m danglars absorbed in an interesting conversation with m cavalcanti he paid no attention to anything that was passing
+2020-08-29 06:33:11,557 - INFO - Step time: 0.443713903427124 seconds
+2020-08-29 06:33:23,359 - INFO - Step: 750
+2020-08-29 06:33:23,374 - INFO - Loss: 102.69686126708984
+2020-08-29 06:33:23,374 - INFO - training_batch_WER:  60.91%
+2020-08-29 06:33:23,374 - INFO - Prediction: that is take a sample or to love saky ming tn taleven be arli or states of the dener had wor olf the winelist had been comselted
+2020-08-29 06:33:23,374 - INFO - Reference: let us take a sample or two of saki nineteen eleven the earlier stages of the dinner had worn off the wine lists had been consulted
+2020-08-29 06:33:23,374 - INFO - Step time: 0.47861814498901367 seconds
+2020-08-29 06:33:35,393 - INFO - Step: 775
+2020-08-29 06:33:35,410 - INFO - Loss: 108.782958984375
+2020-08-29 06:33:35,410 - INFO - training_batch_WER:  58.30%
+2020-08-29 06:33:35,411 - INFO - Prediction: no new thougt nothing of the nature of a finner trning or better xpression of an ald fot nod even a proper histry of what is been preve iou sly fhought on the subject and impossible litterature
+2020-08-29 06:33:35,411 - INFO - Reference: no new thought nothing of the nature of a finer turning or better expression of an old thought not even a proper history of what has been previously thought on the subject an impossible literature
+2020-08-29 06:33:35,411 - INFO - Step time: 0.46997857093811035 seconds
+2020-08-29 06:33:37,325 - INFO - Finished epoch 10 in 33.21203827857971
+2020-08-29 06:33:37,325 - INFO - Starting epoch 11
+2020-08-29 06:33:46,685 - INFO - Step: 800
+2020-08-29 06:33:46,700 - INFO - Loss: 89.2581558227539
+2020-08-29 06:33:46,700 - INFO - training_batch_WER:  55.20%
+2020-08-29 06:33:46,700 - INFO - Prediction: doun to the boutmove au pond and sli in sighdt d door which leid to awindin howl
+2020-08-29 06:33:46,700 - INFO - Reference: down to the bottom of a pond and slip inside a door which led to a winding hall
+2020-08-29 06:33:46,700 - INFO - Step time: 0.4750370979309082 seconds
+2020-08-29 06:33:46,757 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-800.pt
+2020-08-29 06:33:58,815 - INFO - Step: 825
+2020-08-29 06:33:58,830 - INFO - Loss: 99.31304931640625
+2020-08-29 06:33:58,830 - INFO - training_batch_WER:  57.40%
+2020-08-29 06:33:58,830 - INFO - Prediction: thru it hartfeld befor crisness brought the nexfiit from is abello ind her hasbend
+2020-08-29 06:33:58,830 - INFO - Reference: through at hartfield before christmas brought the next visit from isabella and her husband
+2020-08-29 06:33:58,831 - INFO - Step time: 0.4468698501586914 seconds
+2020-08-29 06:34:10,493 - INFO - Step: 850
+2020-08-29 06:34:10,510 - INFO - Loss: 108.27851867675781
+2020-08-29 06:34:10,510 - INFO - training_batch_WER:  54.55%
+2020-08-29 06:34:10,510 - INFO - Prediction: his wotyintwould have been probably lost as  would av beeem posble for him to presen imsel before the king now as apon this odiance ind his gason amagiation do pended his puturlife he soluted earmess omporthus politely
+2020-08-29 06:34:10,510 - INFO - Reference: his audience would have been probably lost as it would have been impossible for him to present himself before the king now as upon this audience in his gascon imagination depended his future life he saluted aramis and porthos politely
+2020-08-29 06:34:10,510 - INFO - Step time: 0.44235944747924805 seconds
+2020-08-29 06:34:10,541 - INFO - Finished epoch 11 in 33.21534967422485
+2020-08-29 06:34:10,541 - INFO - Starting epoch 12
+2020-08-29 06:34:22,172 - INFO - Step: 875
+2020-08-29 06:34:22,186 - INFO - Loss: 98.14418029785156
+2020-08-29 06:34:22,187 - INFO - training_batch_WER:  61.36%
+2020-08-29 06:34:22,187 - INFO - Prediction: supose hat burgulary hi way robbery and wit slavery arroitable it is almos guselis to a tem to ar e with hese wel intention persons because they are suffering undern of sesion and o'r not open to reason
+2020-08-29 06:34:22,187 - INFO - Reference: suppose that burglary highway robbery and white slavery are profitable it is almost useless to attempt to argue with these well intentioned persons because they are suffering under an obsession and are not open to reason
+2020-08-29 06:34:22,187 - INFO - Step time: 0.4473838806152344 seconds
+2020-08-29 06:34:34,045 - INFO - Step: 900
+2020-08-29 06:34:34,062 - INFO - Loss: 90.58876037597656
+2020-08-29 06:34:34,062 - INFO - training_batch_WER:  53.58%
+2020-08-29 06:34:34,062 - INFO - Prediction: cleen shaved aind impacible looked eit him dedly pal between the read faces of the two notical acessers the lihte of a brod wendo under the ceeling fell ffrom a bov on the heads and sholders of the three men
+2020-08-29 06:34:34,062 - INFO - Reference: clean shaved and impassible looked at him deadly pale between the red faces of the two nautical assessors the light of a broad window under the ceiling fell from above on the heads and shoulders of the three men
+2020-08-29 06:34:34,063 - INFO - Step time: 0.457489013671875 seconds
+2020-08-29 06:34:34,120 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-900.pt
+2020-08-29 06:34:44,185 - INFO - Finished epoch 12 in 33.64389491081238
+2020-08-29 06:34:44,186 - INFO - Starting epoch 13
+2020-08-29 06:34:45,698 - INFO - Step: 925
+2020-08-29 06:34:45,713 - INFO - Loss: 94.73390197753906
+2020-08-29 06:34:45,713 - INFO - training_batch_WER:  59.43%
+2020-08-29 06:34:45,713 - INFO - Prediction: when they sow he multatutd of hem prostreated themselvs apon the ground
+2020-08-29 06:34:45,713 - INFO - Reference: when they saw the multitude of them prostrated themselves upon the ground
+2020-08-29 06:34:45,714 - INFO - Step time: 0.49347925186157227 seconds
+2020-08-29 06:34:57,701 - INFO - Step: 950
+2020-08-29 06:34:57,717 - INFO - Loss: 86.631103515625
+2020-08-29 06:34:57,717 - INFO - training_batch_WER:  51.59%
+2020-08-29 06:34:57,717 - INFO - Prediction: e ben bout a prol necgas for m voun sy cak tender but sheu marid somebyal tinstead
+2020-08-29 06:34:57,717 - INFO - Reference: i even bought a pearl necklace for my fiancee kate tender but she married somebody else instead
+2020-08-29 06:34:57,717 - INFO - Step time: 0.4548497200012207 seconds
+2020-08-29 06:35:09,790 - INFO - Step: 975
+2020-08-29 06:35:09,804 - INFO - Loss: 89.75950622558594
+2020-08-29 06:35:09,804 - INFO - training_batch_WER:  54.90%
+2020-08-29 06:35:09,804 - INFO - Prediction: i've ben ostin mysself sine he came mack grahamanswered if rs any quear powvera bot in his quie manner taybe he iss sit ict  be h nto thinces werdonton herstant ie wunderd if the had with at your nowing it
+2020-08-29 06:35:09,804 - INFO - Reference: i've been asking myself since he came back graham answered if there's any queer power behind his quiet manner maybe he is psychic maybe he can do things we don't understand i've wondered if he had without your knowing it
+2020-08-29 06:35:09,804 - INFO - Step time: 0.4669501781463623 seconds
+2020-08-29 06:35:17,694 - INFO - Finished epoch 13 in 33.508249282836914
+2020-08-29 06:35:17,694 - INFO - Starting epoch 14
+2020-08-29 06:35:21,138 - INFO - Step: 1000
+2020-08-29 06:35:21,151 - INFO - Loss: 72.93612670898438
+2020-08-29 06:35:21,151 - INFO - training_batch_WER:  50.50%
+2020-08-29 06:35:21,151 - INFO - Prediction: i'm im couronel he i m sid dowo poteticaly
+2020-08-29 06:35:21,151 - INFO - Reference: i'm i'm coronel here i am said udo pathetically
+2020-08-29 06:35:21,152 - INFO - Step time: 0.49530744552612305 seconds
+2020-08-29 06:35:21,152 - INFO - Doing Evaluation ..............................
+2020-08-29 06:35:22,178 - INFO - ==========>>>>>>Evaluation Loss TEST: 90.08670043945312
+2020-08-29 06:35:22,178 - INFO - ==========>>>>>>Evaluation WER TEST:  59.54%
+2020-08-29 06:35:22,191 - INFO - Evaluation time: 1.0392112731933594 seconds
+2020-08-29 06:35:22,254 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1000.pt
+2020-08-29 06:35:34,497 - INFO - Step: 1025
+2020-08-29 06:35:34,513 - INFO - Loss: 82.09567260742188
+2020-08-29 06:35:34,513 - INFO - training_batch_WER:  48.87%
+2020-08-29 06:35:34,513 - INFO - Prediction: which was on the port sid e moed as he ran he spok sloly the remembored swiftly in with extreeem vividness he could have reprotice like en eo tha moning o the enginear for the better in formation of these men
+2020-08-29 06:35:34,514 - INFO - Reference: which was on the port side he moaned as he ran he spoke slowly he remembered swiftly and with extreme vividness he could have reproduced like an echo the moaning of the engineer for the better information of these men
+2020-08-29 06:35:34,514 - INFO - Step time: 0.49024391174316406 seconds
+2020-08-29 06:35:46,305 - INFO - Step: 1050
+2020-08-29 06:35:46,320 - INFO - Loss: 76.82798767089844
+2020-08-29 06:35:46,320 - INFO - training_batch_WER:  51.64%
+2020-08-29 06:35:46,320 - INFO - Prediction: yeu sire as they allways do and howded the thing happen let us se for you know myg dear caption a juda must her both sits good lord in the mos cimple and natural manner possible
+2020-08-29 06:35:46,320 - INFO - Reference: yes sire as they always do and how did the thing happen let us see for you know my dear captain a judge must hear both sides good lord in the most simple and natural manner possible
+2020-08-29 06:35:46,320 - INFO - Step time: 0.48259973526000977 seconds
+2020-08-29 06:35:52,501 - INFO - Finished epoch 14 in 34.80589270591736
+2020-08-29 06:35:52,501 - INFO - Starting epoch 15
+2020-08-29 06:35:57,626 - INFO - Step: 1075
+2020-08-29 06:35:57,642 - INFO - Loss: 78.4383544921875
+2020-08-29 06:35:57,647 - INFO - training_batch_WER:  47.09%
+2020-08-29 06:35:57,647 - INFO - Prediction: but it was over to ouer sence we had ee en the cokcise am flifiteed suggested but a thaugsterful apeace
+2020-08-29 06:35:57,647 - INFO - Reference: but it was over two hours since we had eaten the cookies and felicity suggested that a saucerful apiece
+2020-08-29 06:35:57,647 - INFO - Step time: 0.4397602081298828 seconds
+2020-08-29 06:36:09,887 - INFO - Step: 1100
+2020-08-29 06:36:09,903 - INFO - Loss: 85.06716918945312
+2020-08-29 06:36:09,903 - INFO - training_batch_WER:  49.57%
+2020-08-29 06:36:09,903 - INFO - Prediction: was ki mackk inriched with the candid pel of sitrims with or inges lemmens pine aples postochonots and moke a calfey unadulterated with the bad coo of betavi or the merican islans
+2020-08-29 06:36:09,903 - INFO - Reference: with kaimak enriched with the candied peel of citrons with oranges lemons pine apples pistachio nuts and mocha coffee unadulterated with the bad coffee of batavia or the american islands
+2020-08-29 06:36:09,903 - INFO - Step time: 0.5022861957550049 seconds
+2020-08-29 06:36:09,962 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1100.pt
+2020-08-29 06:36:21,712 - INFO - Step: 1125
+2020-08-29 06:36:21,728 - INFO - Loss: 67.79866027832031
+2020-08-29 06:36:21,728 - INFO - training_batch_WER:  45.02%
+2020-08-29 06:36:21,728 - INFO - Prediction: and suout once the man from whoe scrutny hary birchad wornd them there was so much to be apprhended you have no case for alam lades said the officer pousing moment and contiplin the pale faces aound him
+2020-08-29 06:36:21,728 - INFO - Reference: and saw at once the man from whose scrutiny harvey birch had warned them there was so much to be apprehended you have no cause for alarm ladies said the officer pausing a moment and contemplating the pale faces around him
+2020-08-29 06:36:21,728 - INFO - Step time: 0.4474489688873291 seconds
+2020-08-29 06:36:25,988 - INFO - Finished epoch 15 in 33.48671865463257
+2020-08-29 06:36:25,988 - INFO - Starting epoch 16
+2020-08-29 06:36:33,021 - INFO - Step: 1150
+2020-08-29 06:36:33,037 - INFO - Loss: 69.55868530273438
+2020-08-29 06:36:33,037 - INFO - training_batch_WER:  46.37%
+2020-08-29 06:36:33,037 - INFO - Prediction: and how neurs ter through the veriousbilnesses of cilthond id largh det of graditeed was oing here but the in tercourse of the last seven yars the equoth fouting and perfick unriserve
+2020-08-29 06:36:33,037 - INFO - Reference: and how nursed her through the various illnesses of childhood a large debt of gratitude was owing here but the intercourse of the last seven years the equal footing and perfect unreserve
+2020-08-29 06:36:33,037 - INFO - Step time: 0.48746657371520996 seconds
+2020-08-29 06:36:45,387 - INFO - Step: 1175
+2020-08-29 06:36:45,403 - INFO - Loss: 65.32933044433594
+2020-08-29 06:36:45,403 - INFO - training_batch_WER:  42.48%
+2020-08-29 06:36:45,403 - INFO - Prediction: that apperson so e telligent inganous andclear sighted as the r might provably be able to sow the dark mistry of his own missorguene where he himself could se nohi
+2020-08-29 06:36:45,403 - INFO - Reference: that a person so intelligent ingenious and clear sighted as the abbe might probably be able to solve the dark mystery of his own misfortunes where he himself could see nothing
+2020-08-29 06:36:45,403 - INFO - Step time: 0.4822838306427002 seconds
+2020-08-29 06:36:57,311 - INFO - Step: 1200
+2020-08-29 06:36:57,328 - INFO - Loss: 72.51342010498047
+2020-08-29 06:36:57,328 - INFO - training_batch_WER:  42.52%
+2020-08-29 06:36:57,328 - INFO - Prediction: you se the villagers kapto making the dam wider and since it was built of stics ind mod the water some times  washet  bits of it away so it had to be captain repar if brownie beaver and his frians had noclecte their dim
+2020-08-29 06:36:57,328 - INFO - Reference: you see the villagers kept making the dam wider and since it was built of sticks and mud the water sometimes washed bits of it away so it had to be kept in repair if brownie beaver and his friends had neglected their dam
+2020-08-29 06:36:57,328 - INFO - Step time: 0.4439871311187744 seconds
+2020-08-29 06:36:57,386 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1200.pt
+2020-08-29 06:36:59,711 - INFO - Finished epoch 16 in 33.72227454185486
+2020-08-29 06:36:59,711 - INFO - Starting epoch 17
+2020-08-29 06:37:08,733 - INFO - Step: 1225
+2020-08-29 06:37:08,748 - INFO - Loss: 69.18779754638672
+2020-08-29 06:37:08,749 - INFO - training_batch_WER:  47.10%
+2020-08-29 06:37:08,749 - INFO - Prediction: i have no cold in my had i fancied ed then fromsee you had covered such hansim blagk loks withthat udly old waig it was my mystake you will please e pardo it
+2020-08-29 06:37:08,749 - INFO - Reference: i have no cold in my head i fancied it then from seeing you had covered such handsome black locks with that ugly old wig it was my mistake you will please to pardon it
+2020-08-29 06:37:08,749 - INFO - Step time: 0.483734130859375 seconds
+2020-08-29 06:37:20,441 - INFO - Step: 1250
+2020-08-29 06:37:20,456 - INFO - Loss: 73.79499816894531
+2020-08-29 06:37:20,456 - INFO - training_batch_WER:  46.47%
+2020-08-29 06:37:20,456 - INFO - Prediction: and he had been delibrating upon deth confound him he had foun that to meditat aboud because he thoughthe had sved hislife while all its glamor ad gown with the sip and the night what more natural
+2020-08-29 06:37:20,456 - INFO - Reference: and he had been deliberating upon death confound him he had found that to meditate about because he thought he had saved his life while all its glamour had gone with the ship in the night what more natural
+2020-08-29 06:37:20,456 - INFO - Step time: 0.4360814094543457 seconds
+2020-08-29 06:37:32,519 - INFO - Step: 1275
+2020-08-29 06:37:32,534 - INFO - Loss: 62.19782257080078
+2020-08-29 06:37:32,535 - INFO - training_batch_WER:  44.99%
+2020-08-29 06:37:32,535 - INFO - Prediction: that if i had been a stranter and at a lus for my way i might sometimes have gon the length of a whol street i mean of the by streets and seen no bodgy to diret te
+2020-08-29 06:37:32,535 - INFO - Reference: that if i had been a stranger and at a loss for my way i might sometimes have gone the length of a whole street i mean of the by streets and seen nobody to direct me
+2020-08-29 06:37:32,535 - INFO - Step time: 0.4394962787628174 seconds
+2020-08-29 06:37:33,069 - INFO - Finished epoch 17 in 33.35790252685547
+2020-08-29 06:37:33,070 - INFO - Starting epoch 18
+2020-08-29 06:37:44,194 - INFO - Step: 1300
+2020-08-29 06:37:44,211 - INFO - Loss: 58.96057891845703
+2020-08-29 06:37:44,211 - INFO - training_batch_WER:  40.42%
+2020-08-29 06:37:44,211 - INFO - Prediction: where he could gd eirr without being sean but no on could prut so he on the race a just the same mext came the tree felling conteset there weresix ing cluding brownie beaver that tok pardin it
+2020-08-29 06:37:44,211 - INFO - Reference: where he could get air without being seen but no one could prove it so he won the race just the same next came the tree felling contest there were six including brownie beaver that took part in it
+2020-08-29 06:37:44,211 - INFO - Step time: 0.47779202461242676 seconds
+2020-08-29 06:37:44,268 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1300.pt
+2020-08-29 06:37:56,158 - INFO - Step: 1325
+2020-08-29 06:37:56,175 - INFO - Loss: 62.92730712890625
+2020-08-29 06:37:56,175 - INFO - training_batch_WER:  39.79%
+2020-08-29 06:37:56,175 - INFO - Prediction: myself but lately down from sain james i was not to proud to take some slit but pitying interust in memn of other colleges the unusural name of a freshmen up and wesmenster a tracted my attenion
+2020-08-29 06:37:56,175 - INFO - Reference: myself but lately down from saint james i was not too proud to take some slight but pitying interest in men of other colleges the unusual name of a freshman up at westminster attracted my attention
+2020-08-29 06:37:56,175 - INFO - Step time: 0.5008795261383057 seconds
+2020-08-29 06:38:06,504 - INFO - Finished epoch 18 in 33.433836936950684
+2020-08-29 06:38:06,504 - INFO - Starting epoch 19
+2020-08-29 06:38:07,457 - INFO - Step: 1350
+2020-08-29 06:38:07,471 - INFO - Loss: 58.10369873046875
+2020-08-29 06:38:07,472 - INFO - training_batch_WER:  40.49%
+2020-08-29 06:38:07,472 - INFO - Prediction: had most of the people a cravilt donen so the plagu had not been carri into so many country towns and houses as it was to the great damage and andeed to the rinen of abundentce of people
+2020-08-29 06:38:07,472 - INFO - Reference: had most of the people that travelled done so the plague had not been carried into so many country towns and houses as it was to the great damage and indeed to the ruin of abundance of people
+2020-08-29 06:38:07,472 - INFO - Step time: 0.4569549560546875 seconds
+2020-08-29 06:38:19,496 - INFO - Step: 1375
+2020-08-29 06:38:19,514 - INFO - Loss: 69.64974975585938
+2020-08-29 06:38:19,514 - INFO - training_batch_WER:  41.86%
+2020-08-29 06:38:19,514 - INFO - Prediction: than you wult thin of building one in apond everybody likes his own way best and i never once acurd to brownie beaver that his way was the least bit strange
+2020-08-29 06:38:19,514 - INFO - Reference: than you would think of building one in a pond everybody likes his own way best and it never once occurred to brownie beaver that his way was the least bit strange
+2020-08-29 06:38:19,515 - INFO - Step time: 0.4892745018005371 seconds
+2020-08-29 06:38:31,178 - INFO - Step: 1400
+2020-08-29 06:38:31,195 - INFO - Loss: 62.460113525390625
+2020-08-29 06:38:31,195 - INFO - training_batch_WER:  36.88%
+2020-08-29 06:38:31,195 - INFO - Prediction: the ookness  of yor art if you have too coats you will give me one of them i used to divid my sup aend beas with you wene you were hungry trou said andrea
+2020-08-29 06:38:31,195 - INFO - Reference: the goodness of your heart if you have two coats you will give me one of them i used to divide my soup and beans with you when you were hungry true said andrea
+2020-08-29 06:38:31,195 - INFO - Step time: 0.4598402976989746 seconds
+2020-08-29 06:38:31,252 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1400.pt
+2020-08-29 06:38:39,954 - INFO - Finished epoch 19 in 33.44946241378784
+2020-08-29 06:38:39,954 - INFO - Starting epoch 20
+2020-08-29 06:38:42,848 - INFO - Step: 1425
+2020-08-29 06:38:42,865 - INFO - Loss: 59.48807144165039
+2020-08-29 06:38:42,865 - INFO - training_batch_WER:  42.65%
+2020-08-29 06:38:42,865 - INFO - Prediction: belie the lus leter to be a ti and yet that it should be anything else in tha house was a circumstanced to rase no comm integree of astonishment if not erigionally thenns by what straingeo vens could itive follun into the tilnefaily her farful curiospy
+2020-08-29 06:38:42,865 - INFO - Reference: believe the last letter to be a t and yet that it should be anything else in that house was a circumstance to raise no common degree of astonishment if not originally theirs by what strange events could it have fallen into the tilney family her fearful curiosity
+2020-08-29 06:38:42,866 - INFO - Step time: 0.4883866310119629 seconds
+2020-08-29 06:38:54,944 - INFO - Step: 1450
+2020-08-29 06:38:54,961 - INFO - Loss: 66.82890319824219
+2020-08-29 06:38:54,961 - INFO - training_batch_WER:  40.45%
+2020-08-29 06:38:54,961 - INFO - Prediction: or a hollow where wild plums hun out there filne blum be air was sweat with the breath of many apl orchards and the metdeus sloked away in the distance to harizon mists of parld and purple wile the littleburt saing as if itwer the one day of summrin al the yeare
+2020-08-29 06:38:54,961 - INFO - Reference: or a hollow where wild plums hung out their filmy bloom the air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple while the little birds sang as if it were the one day of summer in all the year
+2020-08-29 06:38:54,962 - INFO - Step time: 0.5099072456359863 seconds
+2020-08-29 06:39:06,880 - INFO - Step: 1475
+2020-08-29 06:39:06,897 - INFO - Loss: 55.94729995727539
+2020-08-29 06:39:06,897 - INFO - training_batch_WER:  36.87%
+2020-08-29 06:39:06,897 - INFO - Prediction: i suppose you have hurd of the hanc ome lutter mister fran curchall hus aritten to missus weston
+2020-08-29 06:39:06,897 - INFO - Reference: i suppose you have heard of the handsome letter mister frank churchill has written to missus weston
+2020-08-29 06:39:06,897 - INFO - Step time: 0.4549987316131592 seconds
+2020-08-29 06:39:13,647 - INFO - Finished epoch 20 in 33.693217515945435
+2020-08-29 06:39:13,648 - INFO - Starting epoch 21
+2020-08-29 06:39:18,379 - INFO - Step: 1500
+2020-08-29 06:39:18,396 - INFO - Loss: 50.44667053222656
+2020-08-29 06:39:18,396 - INFO - training_batch_WER:  38.72%
+2020-08-29 06:39:18,396 - INFO - Prediction: his vanity indused him to ripreset the fammily as yet more welty thand his veity and paverice had made him belieeve them with whom so e ver he was or was liktly to be connected
+2020-08-29 06:39:18,396 - INFO - Reference: his vanity induced him to represent the family as yet more wealthy than his vanity and avarice had made him believe them with whomsoever he was or was likely to be connected
+2020-08-29 06:39:18,396 - INFO - Step time: 0.44193196296691895 seconds
+2020-08-29 06:39:18,396 - INFO - Doing Evaluation ..............................
+2020-08-29 06:39:19,445 - INFO - ==========>>>>>>Evaluation Loss TEST: 91.48678588867188
+2020-08-29 06:39:19,445 - INFO - ==========>>>>>>Evaluation WER TEST:  53.81%
+2020-08-29 06:39:19,445 - INFO - Evaluation time: 1.0490813255310059 seconds
+2020-08-29 06:39:19,505 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1500.pt
+2020-08-29 06:39:31,459 - INFO - Step: 1525
+2020-08-29 06:39:31,475 - INFO - Loss: 53.04904556274414
+2020-08-29 06:39:31,475 - INFO - training_batch_WER:  40.71%
+2020-08-29 06:39:31,475 - INFO - Prediction: another question i declar i dontbelieve you evurtok a news payper before giou brownie beaver adgmitted that he never had then said mister crow thean don't inteupt megin please
+2020-08-29 06:39:31,475 - INFO - Reference: another question i declare i don't believe you ever took a newspaper before did you brownie beaver admitted that he never had then said mister crow then don't interrupt me again please
+2020-08-29 06:39:31,476 - INFO - Step time: 0.4623086452484131 seconds
+2020-08-29 06:39:43,298 - INFO - Step: 1550
+2020-08-29 06:39:43,311 - INFO - Loss: 51.704429626464844
+2020-08-29 06:39:43,311 - INFO - training_batch_WER:  36.48%
+2020-08-29 06:39:43,312 - INFO - Prediction: grandaddy beaver had picked out six trees of exactly the sam sais each person in the contest had to trita bring his tree of the grond first and that caused some troubled too because some clained to theira treas were o harder wood then others
+2020-08-29 06:39:43,312 - INFO - Reference: grandaddy beaver had picked out six trees of exactly the same size each person in the contest had to try to bring his tree to the ground first and that caused some trouble too because some claimed that their trees were of harder wood than others
+2020-08-29 06:39:43,312 - INFO - Step time: 0.4617772102355957 seconds
+2020-08-29 06:39:48,156 - INFO - Finished epoch 21 in 34.50801205635071
+2020-08-29 06:39:48,156 - INFO - Starting epoch 22
+2020-08-29 06:39:54,809 - INFO - Step: 1575
+2020-08-29 06:39:54,825 - INFO - Loss: 46.88459014892578
+2020-08-29 06:39:54,826 - INFO - training_batch_WER:  34.78%
+2020-08-29 06:39:54,826 - INFO - Prediction: hae despised us and have not come out to meet us
+2020-08-29 06:39:54,826 - INFO - Reference: have despised us and have not come out to meet us
+2020-08-29 06:39:54,826 - INFO - Step time: 0.4652554988861084 seconds
+2020-08-29 06:40:06,699 - INFO - Step: 1600
+2020-08-29 06:40:06,715 - INFO - Loss: 49.78920364379883
+2020-08-29 06:40:06,715 - INFO - training_batch_WER:  36.14%
+2020-08-29 06:40:06,715 - INFO - Prediction: is prsisly the perfection and ultimate ma tur ity in every culture anet the esentially noble in works and men their moment of smuith se and how cin theself soficiency
+2020-08-29 06:40:06,715 - INFO - Reference: is precisely the perfection and ultimate maturity in every culture and art the essentially noble in works and men their moment of smooth sea and halcyon self sufficiency
+2020-08-29 06:40:06,715 - INFO - Step time: 0.45551300048828125 seconds
+2020-08-29 06:40:06,774 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1600.pt
+2020-08-29 06:40:18,811 - INFO - Step: 1625
+2020-08-29 06:40:18,827 - INFO - Loss: 53.454978942871094
+2020-08-29 06:40:18,827 - INFO - training_batch_WER:  36.86%
+2020-08-29 06:40:18,827 - INFO - Prediction: it is desirible that as few peopleus possible should reflect upon morals and constecquently it is very desierable that moral should not some day become interesting
+2020-08-29 06:40:18,827 - INFO - Reference: it is desirable that as few people as possible should reflect upon morals and consequently it is very desirable that morals should not some day become interesting
+2020-08-29 06:40:18,827 - INFO - Step time: 0.5055241584777832 seconds
+2020-08-29 06:40:21,751 - INFO - Finished epoch 22 in 33.59455919265747
+2020-08-29 06:40:21,752 - INFO - Starting epoch 23
+2020-08-29 06:40:30,052 - INFO - Step: 1650
+2020-08-29 06:40:30,069 - INFO - Loss: 50.13594055175781
+2020-08-29 06:40:30,069 - INFO - training_batch_WER:  34.67%
+2020-08-29 06:40:30,069 - INFO - Prediction: and to every form of semi boarbarity that as at any time existed on orth and in sil far es the most considerable part of humancivilazation itherto has just beinsemi barbarity
+2020-08-29 06:40:30,069 - INFO - Reference: and to every form of semi barbarity that has at any time existed on earth and in so far as the most considerable part of human civilization hitherto has just been semi barbarity
+2020-08-29 06:40:30,069 - INFO - Step time: 0.45126938819885254 seconds
+2020-08-29 06:40:42,447 - INFO - Step: 1675
+2020-08-29 06:40:42,464 - INFO - Loss: 49.595184326171875
+2020-08-29 06:40:42,464 - INFO - training_batch_WER:  35.15%
+2020-08-29 06:40:42,464 - INFO - Prediction: hatred hedrased him that eivation it wis gecuse i saw you kising the lips a thet bell carpender that i tell you ms story he sai what happene to me manext heappen ty you
+2020-08-29 06:40:42,464 - INFO - Reference: hatred had raised him to that elevation it is because i saw you kissing the lips of that belle carpenter that i tell you my story he said what happened to me may next happen to you
+2020-08-29 06:40:42,464 - INFO - Step time: 0.4928624629974365 seconds
+2020-08-29 06:40:54,323 - INFO - Step: 1700
+2020-08-29 06:40:54,340 - INFO - Loss: 48.5682487487793
+2020-08-29 06:40:54,340 - INFO - training_batch_WER:  33.74%
+2020-08-29 06:40:54,340 - INFO - Prediction: have dispis tus and have not come out to med ous
+2020-08-29 06:40:54,340 - INFO - Reference: have despised us and have not come out to meet us
+2020-08-29 06:40:54,340 - INFO - Step time: 0.48617982864379883 seconds
+2020-08-29 06:40:54,398 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1700.pt
+2020-08-29 06:40:55,401 - INFO - Finished epoch 23 in 33.64911341667175
+2020-08-29 06:40:55,401 - INFO - Starting epoch 24
+2020-08-29 06:41:05,863 - INFO - Step: 1725
+2020-08-29 06:41:05,877 - INFO - Loss: 43.587249755859375
+2020-08-29 06:41:05,877 - INFO - training_batch_WER:  36.56%
+2020-08-29 06:41:05,877 - INFO - Prediction: goout agains all the keingdums of the west
+2020-08-29 06:41:05,877 - INFO - Reference: go out against all the kingdoms of the west
+2020-08-29 06:41:05,877 - INFO - Step time: 0.44986581802368164 seconds
+2020-08-29 06:41:18,181 - INFO - Step: 1750
+2020-08-29 06:41:18,195 - INFO - Loss: 40.67253112792969
+2020-08-29 06:41:18,195 - INFO - training_batch_WER:  32.94%
+2020-08-29 06:41:18,195 - INFO - Prediction: missus weston had of corse farme d a veryfevorable ide of the young man and such a pleting attention was and irisistable prf of his great good sens
+2020-08-29 06:41:18,195 - INFO - Reference: missus weston had of course formed a very favourable idea of the young man and such a pleasing attention was an irresistible proof of his great good sense
+2020-08-29 06:41:18,196 - INFO - Step time: 0.4784278869628906 seconds
+2020-08-29 06:41:29,071 - INFO - Finished epoch 24 in 33.67000389099121
+2020-08-29 06:41:29,072 - INFO - Starting epoch 25
+2020-08-29 06:41:29,533 - INFO - Step: 1775
+2020-08-29 06:41:29,548 - INFO - Loss: 35.8876838684082
+2020-08-29 06:41:29,548 - INFO - training_batch_WER:  29.78%
+2020-08-29 06:41:29,548 - INFO - Prediction: his vic sounded reasonable suppos i had not pi man tosay suppose i had stuck to the ship well how much longer say a minut palf a minute
+2020-08-29 06:41:29,548 - INFO - Reference: his voice sounded reasonable suppose i had not i mean to say suppose i had stuck to the ship well how much longer say a minute half a minute
+2020-08-29 06:41:29,548 - INFO - Step time: 0.4530644416809082 seconds
+2020-08-29 06:41:41,317 - INFO - Step: 1800
+2020-08-29 06:41:41,335 - INFO - Loss: 39.29693603515625
+2020-08-29 06:41:41,335 - INFO - training_batch_WER:  31.10%
+2020-08-29 06:41:41,335 - INFO - Prediction: thosed not slipping through the sives pirce with one hundred to eight hundred holes oar in the secont order finaly thosed pearls for which oneuses strainers pircetd with nine undred to one thousand holes make u the seed pears
+2020-08-29 06:41:41,335 - INFO - Reference: those not slipping through the sieves pierced with one hundred to eight hundred holes are in the second order finally those pearls for which one uses strainers pierced with nine hundred to one thousand holes make up the seed pearls
+2020-08-29 06:41:41,335 - INFO - Step time: 0.4685249328613281 seconds
+2020-08-29 06:41:41,393 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1800.pt
+2020-08-29 06:41:53,156 - INFO - Step: 1825
+2020-08-29 06:41:53,171 - INFO - Loss: 40.5799560546875
+2020-08-29 06:41:53,183 - INFO - training_batch_WER:  31.87%
+2020-08-29 06:41:53,183 - INFO - Prediction: the evening passed on bad ame te villofert express o desire to returne to paris which madame danglars had not daird to do not with standing the aneasiness she sperienced on his wites request em devilefored
+2020-08-29 06:41:53,183 - INFO - Reference: the evening passed on madame de villefort expressed a desire to return to paris which madame danglars had not dared to do notwithstanding the uneasiness she experienced on his wife's request m de villefort
+2020-08-29 06:41:53,183 - INFO - Step time: 0.4634284973144531 seconds
+2020-08-29 06:42:02,278 - INFO - Finished epoch 25 in 33.20569086074829
+2020-08-29 06:42:02,278 - INFO - Starting epoch 26
+2020-08-29 06:42:04,677 - INFO - Step: 1850
+2020-08-29 06:42:04,690 - INFO - Loss: 39.824378967285156
+2020-08-29 06:42:04,691 - INFO - training_batch_WER:  34.10%
+2020-08-29 06:42:04,691 - INFO - Prediction: you know we have settled all that already
+2020-08-29 06:42:04,691 - INFO - Reference: you know we have settled all that already
+2020-08-29 06:42:04,691 - INFO - Step time: 0.4613640308380127 seconds
+2020-08-29 06:42:16,549 - INFO - Step: 1875
+2020-08-29 06:42:16,564 - INFO - Loss: 38.383888244628906
+2020-08-29 06:42:16,564 - INFO - training_batch_WER:  30.42%
+2020-08-29 06:42:16,564 - INFO - Prediction: nay i as not for length answered the tenner my staff as longenugh to kluk don a cal so look to thyself fellowi say again so without mor a do ach gripd h staff in the iddle and with felland angry looks they cameslowly together
+2020-08-29 06:42:16,564 - INFO - Reference: nay i pass not for length answered the tanner my staff is long enough to knock down a calf so look to thyself fellow i say again so without more ado each gripped his staff in the middle and with fell and angry looks they came slowly together
+2020-08-29 06:42:16,564 - INFO - Step time: 0.46654510498046875 seconds
+2020-08-29 06:42:28,395 - INFO - Step: 1900
+2020-08-29 06:42:28,411 - INFO - Loss: 48.28816223144531
+2020-08-29 06:42:28,411 - INFO - training_batch_WER:  34.77%
+2020-08-29 06:42:28,411 - INFO - Prediction: with high idealaizm temperd by sain facing of the actual facs of glife have striven to bring ner the day when alm strife betwennationg an nation betreen class and class
+2020-08-29 06:42:28,411 - INFO - Reference: with high idealism tempered by sane facing of the actual facts of life have striven to bring nearer the day when armed strife between nation and nation between class and class
+2020-08-29 06:42:28,411 - INFO - Step time: 0.4399840831756592 seconds
+2020-08-29 06:42:28,469 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1900.pt
+2020-08-29 06:42:35,831 - INFO - Finished epoch 26 in 33.55230402946472
+2020-08-29 06:42:35,831 - INFO - Starting epoch 27
+2020-08-29 06:42:40,141 - INFO - Step: 1925
+2020-08-29 06:42:40,159 - INFO - Loss: 43.608802795410156
+2020-08-29 06:42:40,159 - INFO - training_batch_WER:  30.34%
+2020-08-29 06:42:40,159 - INFO - Prediction: dark lan hai and strong features so much for her person and not less unpropiatous for herow ism seemed her mind she was fond of all boys plays and greatly preforred cricket
+2020-08-29 06:42:40,159 - INFO - Reference: dark lank hair and strong features so much for her person and not less unpropitious for heroism seemed her mind she was fond of all boy's plays and greatly preferred cricket
+2020-08-29 06:42:40,159 - INFO - Step time: 0.44585657119750977 seconds
+2020-08-29 06:42:51,915 - INFO - Step: 1950
+2020-08-29 06:42:51,931 - INFO - Loss: 45.473838806152344
+2020-08-29 06:42:51,931 - INFO - training_batch_WER:  32.87%
+2020-08-29 06:42:51,931 - INFO - Prediction: graydations of rank in the world even among things and not ownly among man
+2020-08-29 06:42:51,931 - INFO - Reference: gradations of rank in the world even among things and not only among men
+2020-08-29 06:42:51,931 - INFO - Step time: 0.45331835746765137 seconds
+2020-08-29 06:43:04,044 - INFO - Step: 1975
+2020-08-29 06:43:04,060 - INFO - Loss: 48.02781677246094
+2020-08-29 06:43:04,060 - INFO - training_batch_WER:  35.50%
+2020-08-29 06:43:04,060 - INFO - Prediction: and now this no adventure sat them thilosopising more than ever in the neighbourhod there lived a very famous erofvish who was esteemed the best phlossopher an all turky and they went to consult him pangloss was the paker
+2020-08-29 06:43:04,060 - INFO - Reference: and now this new adventure set them philosophising more than ever in the neighbourhood there lived a very famous dervish who was esteemed the best philosopher in all turkey and they went to consult him pangloss was the speaker
+2020-08-29 06:43:04,061 - INFO - Step time: 0.454026460647583 seconds
+2020-08-29 06:43:09,262 - INFO - Finished epoch 27 in 33.43067932128906
+2020-08-29 06:43:09,262 - INFO - Starting epoch 28
+2020-08-29 06:43:15,351 - INFO - Step: 2000
+2020-08-29 06:43:15,367 - INFO - Loss: 37.08927536010742
+2020-08-29 06:43:15,367 - INFO - training_batch_WER:  28.90%
+2020-08-29 06:43:15,367 - INFO - Prediction: and some of the branches they fassened underwater near the dam it was just lyke putting green things into a refriteratter so they will keep now you see why brownie beaver would no more have thought of builing his house un dry land
+2020-08-29 06:43:15,367 - INFO - Reference: and some of the branches they fastened under water near the dam it was just like putting green things into a refrigerator so they will keep now you see why brownie beaver would no more have thought of building his house on dry land
+2020-08-29 06:43:15,368 - INFO - Step time: 0.4555628299713135 seconds
+2020-08-29 06:43:15,368 - INFO - Doing Evaluation ..............................
+2020-08-29 06:43:16,412 - INFO - ==========>>>>>>Evaluation Loss TEST: 88.75929260253906
+2020-08-29 06:43:16,412 - INFO - ==========>>>>>>Evaluation WER TEST:  51.88%
+2020-08-29 06:43:16,412 - INFO - Evaluation time: 1.0446133613586426 seconds
+2020-08-29 06:43:16,472 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2000.pt
+2020-08-29 06:43:28,415 - INFO - Step: 2025
+2020-08-29 06:43:28,429 - INFO - Loss: 30.466127395629883
+2020-08-29 06:43:28,430 - INFO - training_batch_WER:  24.36%
+2020-08-29 06:43:28,430 - INFO - Prediction: you must have a vast and magnificendestate said cande to the turk i have only twenty acers replied the old man i and my children cultivate them or labor preserves es from three great eevils wearioness vice and want
+2020-08-29 06:43:28,430 - INFO - Reference: you must have a vast and magnificent estate said candide to the turk i have only twenty acres replied the old man i and my children cultivate them our labour preserves us from three great evils weariness vice and want
+2020-08-29 06:43:28,430 - INFO - Step time: 0.4572606086730957 seconds
+2020-08-29 06:43:40,460 - INFO - Step: 2050
+2020-08-29 06:43:40,475 - INFO - Loss: 35.20525360107422
+2020-08-29 06:43:40,475 - INFO - training_batch_WER:  29.22%
+2020-08-29 06:43:40,475 - INFO - Prediction: showing to the young man a slender stick an bot sixingees long and much resembeling the sie of the handdle of a fine painting brush to the end of which was tid by appesof thred
+2020-08-29 06:43:40,475 - INFO - Reference: showing to the young man a slender stick about six inches long and much resembling the size of the handle of a fine painting brush to the end of which was tied by a piece of thread
+2020-08-29 06:43:40,475 - INFO - Step time: 0.4623854160308838 seconds
+2020-08-29 06:43:44,002 - INFO - Finished epoch 28 in 34.739460706710815
+2020-08-29 06:43:44,002 - INFO - Starting epoch 29
+2020-08-29 06:43:52,025 - INFO - Step: 2075
+2020-08-29 06:43:52,042 - INFO - Loss: 30.40728759765625
+2020-08-29 06:43:52,042 - INFO - training_batch_WER:  24.74%
+2020-08-29 06:43:52,042 - INFO - Prediction: pay im wall you denkins thanks
+2020-08-29 06:43:52,042 - INFO - Reference: pay him will you jenkins thanks
+2020-08-29 06:43:52,042 - INFO - Step time: 0.4614138603210449 seconds
+2020-08-29 06:44:04,045 - INFO - Step: 2100
+2020-08-29 06:44:04,062 - INFO - Loss: 37.22754669189453
+2020-08-29 06:44:04,062 - INFO - training_batch_WER:  27.34%
+2020-08-29 06:44:04,062 - INFO - Prediction: you vherefore still ow me five million and a hundred thousand francs i will take the five scraps of paper that i now hold as bons with your signature alowne and here is a receet in ful for the six million between us
+2020-08-29 06:44:04,062 - INFO - Reference: you therefore still owe me five millions and a hundred thousand francs i will take the five scraps of paper that i now hold as bonds with your signature alone and here is a receipt in full for the six millions between us
+2020-08-29 06:44:04,062 - INFO - Step time: 0.46350884437561035 seconds
+2020-08-29 06:44:04,122 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2100.pt
+2020-08-29 06:44:16,291 - INFO - Step: 2125
+2020-08-29 06:44:16,308 - INFO - Loss: 43.38809585571289
+2020-08-29 06:44:16,308 - INFO - training_batch_WER:  33.05%
+2020-08-29 06:44:16,308 - INFO - Prediction: answered the princess come them said the prince fo condition of wer dres increcing her usual difficulty in walking compelled her ta cling to him and he could hardly pursuad himself that he was not in a dlightful dram
+2020-08-29 06:44:16,308 - INFO - Reference: answered the princess come then said the prince the condition of her dress increasing her usual difficulty in walking compelled her to cling to him and he could hardly persuade himself that he was not in a delightful dream
+2020-08-29 06:44:16,308 - INFO - Step time: 0.4631979465484619 seconds
+2020-08-29 06:44:17,777 - INFO - Finished epoch 29 in 33.774712562561035
+2020-08-29 06:44:17,778 - INFO - Starting epoch 30
+2020-08-29 06:44:28,042 - INFO - Step: 2150
+2020-08-29 06:44:28,058 - INFO - Loss: 33.707923889160156
+2020-08-29 06:44:28,058 - INFO - training_batch_WER:  26.93%
+2020-08-29 06:44:28,059 - INFO - Prediction: the evening passt on matdome devillafort excressed to desire to return to paris which madame danglar had not dare to do not with standing the uneasinness she excarience on his wite request m devillefirt
+2020-08-29 06:44:28,059 - INFO - Reference: the evening passed on madame de villefort expressed a desire to return to paris which madame danglars had not dared to do notwithstanding the uneasiness she experienced on his wife's request m de villefort
+2020-08-29 06:44:28,059 - INFO - Step time: 0.4543466567993164 seconds
+2020-08-29 06:44:40,146 - INFO - Step: 2175
+2020-08-29 06:44:40,162 - INFO - Loss: 29.98183822631836
+2020-08-29 06:44:40,162 - INFO - training_batch_WER:  25.89%
+2020-08-29 06:44:40,162 - INFO - Prediction: of outsiders because i dis not possess the power to fight jepan stans on a footing of equaity with earpean and amaricannations because it des posess this poweor chia now seese japan
+2020-08-29 06:44:40,162 - INFO - Reference: of outsiders because it does not possess the power to fight japan stands on a footing of equality with european and american nations because it does possess this power china now sees japan
+2020-08-29 06:44:40,162 - INFO - Step time: 0.4410436153411865 seconds
+2020-08-29 06:44:51,825 - INFO - Step: 2200
+2020-08-29 06:44:51,826 - INFO - Loss: 99.30619812011719
+2020-08-29 06:44:51,826 - INFO - training_batch_WER:  50.00%
+2020-08-29 06:44:51,826 - INFO - Prediction: he collured very deaply anm giving a mointry glace a elinor apied yes it is mit sisters hair the setting awys casts a different shad on it yo kno elinor had me is y an looked concious likewias
+2020-08-29 06:44:51,826 - INFO - Reference: he coloured very deeply and giving a momentary glance at elinor replied yes it is my sister's hair the setting always casts a different shade on it you know elinor had met his eye and looked conscious likewise
+2020-08-29 06:44:51,826 - INFO - Step time: 0.039093017578125 seconds
+2020-08-29 06:44:51,888 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2200.pt
+2020-08-29 06:44:51,888 - INFO - Finished epoch 30 in 34.11028289794922
+2020-08-29 06:44:51,888 - INFO - Starting epoch 31
+2020-08-29 06:45:03,737 - INFO - Step: 2225
+2020-08-29 06:45:03,753 - INFO - Loss: 34.99386215209961
+2020-08-29 06:45:03,753 - INFO - training_batch_WER:  28.09%
+2020-08-29 06:45:03,753 - INFO - Prediction: not abreath of wind clear and frosty
+2020-08-29 06:45:03,753 - INFO - Reference: not a breath of wind clear and frosty
+2020-08-29 06:45:03,754 - INFO - Step time: 0.4662461280822754 seconds
+2020-08-29 06:45:15,617 - INFO - Step: 2250
+2020-08-29 06:45:15,632 - INFO - Loss: 32.72089385986328
+2020-08-29 06:45:15,632 - INFO - training_batch_WER:  27.67%
+2020-08-29 06:45:15,632 - INFO - Prediction: into wich the abbe's shel opened from that poingt the passage became much narrower and barly permittet one to creat through on hands and neens the fruar of the abbe's cel was paved and it had bein by raising one of the stones in the most obstere corner
+2020-08-29 06:45:15,632 - INFO - Reference: into which the abbe's cell opened from that point the passage became much narrower and barely permitted one to creep through on hands and knees the floor of the abbe's cell was paved and it had been by raising one of the stones in the most obscure corner
+2020-08-29 06:45:15,632 - INFO - Step time: 0.45543718338012695 seconds
+2020-08-29 06:45:25,163 - INFO - Finished epoch 31 in 33.274439334869385
+2020-08-29 06:45:25,163 - INFO - Starting epoch 32
+2020-08-29 06:45:27,088 - INFO - Step: 2275
+2020-08-29 06:45:27,104 - INFO - Loss: 37.95045471191406
+2020-08-29 06:45:27,104 - INFO - training_batch_WER:  29.86%
+2020-08-29 06:45:27,105 - INFO - Prediction: but i must say int think youed use yourfreemed tecome to us
+2020-08-29 06:45:27,105 - INFO - Reference: but i must say i didn't think you'd use your freedom to come to us
+2020-08-29 06:45:27,105 - INFO - Step time: 0.4634103775024414 seconds
+2020-08-29 06:45:38,937 - INFO - Step: 2300
+2020-08-29 06:45:38,952 - INFO - Loss: 32.26532745361328
+2020-08-29 06:45:38,952 - INFO - training_batch_WER:  24.27%
+2020-08-29 06:45:38,952 - INFO - Prediction: i'll se the stambot company beatri sad on my uncle has a corter intrest ded beatrice godto heaven probablly not he represented beatrices immortality also love affairs of numerus ded men who surely had never thought of him
+2020-08-29 06:45:38,952 - INFO - Reference: i'll sue the steamboat company beatrice said and my uncle has a quarter interest did beatrice go to heaven probably not he represented beatrice's immortality also love affairs of numerous dead men who surely had never thought of him
+2020-08-29 06:45:38,953 - INFO - Step time: 0.4388279914855957 seconds
+2020-08-29 06:45:39,010 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2300.pt
+2020-08-29 06:45:50,973 - INFO - Step: 2325
+2020-08-29 06:45:50,989 - INFO - Loss: 36.58282470703125
+2020-08-29 06:45:50,989 - INFO - training_batch_WER:  26.94%
+2020-08-29 06:45:50,989 - INFO - Prediction: ah the'se musketeers of yours are very deviles fellows to be hinged no siire replire trevill whos saw et the first glance how things would go on the contrery they are good creatures as meek aus lams and have but one desire
+2020-08-29 06:45:50,989 - INFO - Reference: ah these musketeers of yours are very devils fellows to be hanged no sire replied treville who saw at the first glance how things would go on the contrary they are good creatures as meek as lambs and have but one desire
+2020-08-29 06:45:50,990 - INFO - Step time: 0.44182443618774414 seconds
+2020-08-29 06:45:58,606 - INFO - Finished epoch 32 in 33.4424352645874
+2020-08-29 06:45:58,606 - INFO - Starting epoch 33
+2020-08-29 06:46:02,359 - INFO - Step: 2350
+2020-08-29 06:46:02,375 - INFO - Loss: 30.897754669189453
+2020-08-29 06:46:02,375 - INFO - training_batch_WER:  24.35%
+2020-08-29 06:46:02,375 - INFO - Prediction: a little heardened it is truthea vast many people fled as i have observed yet they were chiefly from the west end of the town and from that we call the hart of the city that is to say
+2020-08-29 06:46:02,375 - INFO - Reference: a little hardened it is true a vast many people fled as i have observed yet they were chiefly from the west end of the town and from that we call the heart of the city that is to say
+2020-08-29 06:46:02,375 - INFO - Step time: 0.4441380500793457 seconds
+2020-08-29 06:46:14,479 - INFO - Step: 2375
+2020-08-29 06:46:14,496 - INFO - Loss: 33.49002456665039
+2020-08-29 06:46:14,496 - INFO - training_batch_WER:  29.54%
+2020-08-29 06:46:14,496 - INFO - Prediction: and that if she knowticed anything odd or out of place she would never rest antil she had fearted out the whise and wherefore's thereoff there ae plenty of peple in avony and out of it who can attend closely to their neighpor's business bydint of neglecting their own
+2020-08-29 06:46:14,496 - INFO - Reference: and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof there are plenty of people in avonlea and out of it who can attend closely to their neighbor's business by dint of neglecting their own
+2020-08-29 06:46:14,496 - INFO - Step time: 0.4384732246398926 seconds
+2020-08-29 06:46:26,532 - INFO - Step: 2400
+2020-08-29 06:46:26,549 - INFO - Loss: 38.35839080810547
+2020-08-29 06:46:26,549 - INFO - training_batch_WER:  27.66%
+2020-08-29 06:46:26,549 - INFO - Prediction: his heart swelld by the intaxication of juy felt ready to disoe away at the very gate of that trestra pearad is caulldlove
+2020-08-29 06:46:26,549 - INFO - Reference: his heart swelled by the intoxication of joy felt ready to dissolve away at the very gate of that terrestrial paradise called love
+2020-08-29 06:46:26,549 - INFO - Step time: 0.4866354465484619 seconds
+2020-08-29 06:46:26,606 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2400.pt
+2020-08-29 06:46:32,358 - INFO - Finished epoch 33 in 33.751123666763306
+2020-08-29 06:46:32,358 - INFO - Starting epoch 34
+2020-08-29 06:46:38,020 - INFO - Step: 2425
+2020-08-29 06:46:38,035 - INFO - Loss: 28.65900421142578
+2020-08-29 06:46:38,035 - INFO - training_batch_WER:  23.91%
+2020-08-29 06:46:38,035 - INFO - Prediction: no said monte gristo folding the five notes most desi dly not the thing is so curious i will make the expaerimment myself i am credited on you for sexmillion i have drawn nine hundred thousand francs
+2020-08-29 06:46:38,035 - INFO - Reference: no said monte cristo folding the five notes most decidedly not the thing is so curious i will make the experiment myself i am credited on you for six millions i have drawn nine hundred thousand francs
+2020-08-29 06:46:38,035 - INFO - Step time: 0.48970794677734375 seconds
+2020-08-29 06:46:50,144 - INFO - Step: 2450
+2020-08-29 06:46:50,159 - INFO - Loss: 35.58519744873047
+2020-08-29 06:46:50,159 - INFO - training_batch_WER:  27.67%
+2020-08-29 06:46:50,159 - INFO - Prediction: i sawt the open window a fingure the most hideous and ebhored a grin was on the face of the monster he seemed to jear as with his find is finguer he pointed towards the corps of my wife
+2020-08-29 06:46:50,159 - INFO - Reference: i saw at the open window a figure the most hideous and abhorred a grin was on the face of the monster he seemed to jeer as with his fiendish finger he pointed towards the corpse of my wife
+2020-08-29 06:46:50,159 - INFO - Step time: 0.43650364875793457 seconds
+2020-08-29 06:47:01,992 - INFO - Step: 2475
+2020-08-29 06:47:02,006 - INFO - Loss: 27.28546905517578
+2020-08-29 06:47:02,006 - INFO - training_batch_WER:  25.13%
+2020-08-29 06:47:02,006 - INFO - Prediction: another ancor was gat ready and droped in a fathom ian a half of water we all pulete round again to rum coe the nearest point for ben gun's teasure house and then gray sindlepanded retuned with the gig to the hispaniola
+2020-08-29 06:47:02,007 - INFO - Reference: another anchor was got ready and dropped in a fathom and a half of water we all pulled round again to rum cove the nearest point for ben gunn's treasure house and then gray single handed returned with the gig to the hispaniola
+2020-08-29 06:47:02,007 - INFO - Step time: 0.4562244415283203 seconds
+2020-08-29 06:47:05,890 - INFO - Finished epoch 34 in 33.53154945373535
+2020-08-29 06:47:05,890 - INFO - Starting epoch 35
+2020-08-29 06:47:13,552 - INFO - Step: 2500
+2020-08-29 06:47:13,569 - INFO - Loss: 33.75014877319336
+2020-08-29 06:47:13,569 - INFO - training_batch_WER:  25.68%
+2020-08-29 06:47:13,570 - INFO - Prediction: acefpilla order testacea correct my schollrly consail now then those tetacsea kapable of produicing perls incluld  ranbow abalone
+2020-08-29 06:47:13,570 - INFO - Reference: acephala order testacea correct my scholarly conseil now then those testacea capable of producing pearls include rainbow abalone
+2020-08-29 06:47:13,570 - INFO - Step time: 0.44895219802856445 seconds
+2020-08-29 06:47:13,570 - INFO - Doing Evaluation ..............................
+2020-08-29 06:47:14,638 - INFO - ==========>>>>>>Evaluation Loss TEST: 97.46228790283203
+2020-08-29 06:47:14,638 - INFO - ==========>>>>>>Evaluation WER TEST:  50.07%
+2020-08-29 06:47:14,639 - INFO - Evaluation time: 1.0687906742095947 seconds
+2020-08-29 06:47:14,698 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2500.pt
+2020-08-29 06:47:26,982 - INFO - Step: 2525
+2020-08-29 06:47:26,998 - INFO - Loss: 30.21693992614746
+2020-08-29 06:47:26,998 - INFO - training_batch_WER:  26.50%
+2020-08-29 06:47:26,998 - INFO - Prediction: who had ben stilen away frm her parents in her infance by a cuel nurs who died befor shecould confess i ouse to liawak it nights an imagine things like that becase i didn't have time in the da i des thas why am sothin i am drefltin int i there isn' at pikon my bons
+2020-08-29 06:47:26,998 - INFO - Reference: who had been stolen away from her parents in her infancy by a cruel nurse who died before she could confess i used to lie awake at nights and imagine things like that because i didn't have time in the day i guess that's why i'm so thin i am dreadful thin ain't i there isn't a pick on my bones
+2020-08-29 06:47:26,998 - INFO - Step time: 0.4558553695678711 seconds
+2020-08-29 06:47:38,952 - INFO - Step: 2550
+2020-08-29 06:47:38,968 - INFO - Loss: 31.35050392150879
+2020-08-29 06:47:38,968 - INFO - training_batch_WER:  24.83%
+2020-08-29 06:47:38,968 - INFO - Prediction: let us work said marting without disputing it is the only way torender life tolerable the whole little suciety entered into this lautable design according to their differntobilities their little plot of land produced plentful crops
+2020-08-29 06:47:38,968 - INFO - Reference: let us work said martin without disputing it is the only way to render life tolerable the whole little society entered into this laudable design according to their different abilities their little plot of land produced plentiful crops
+2020-08-29 06:47:38,968 - INFO - Step time: 0.45085811614990234 seconds
+2020-08-29 06:47:41,027 - INFO - Finished epoch 35 in 35.136242628097534
+2020-08-29 06:47:41,027 - INFO - Starting epoch 36
+2020-08-29 06:47:50,500 - INFO - Step: 2575
+2020-08-29 06:47:50,516 - INFO - Loss: 29.822694778442383
+2020-08-29 06:47:50,516 - INFO - training_batch_WER:  24.80%
+2020-08-29 06:47:50,516 - INFO - Prediction: bobby forced himself to walk ut the staircase fasing the first pase of his ordea he saw that the district attourney realaize that to for he sprang from his char and follom wy rawlins sturten upward the entircompany crewded the stairs
+2020-08-29 06:47:50,516 - INFO - Reference: bobby forced himself to walk up the staircase facing the first phase of his ordeal he saw that the district attorney realized that too for he sprang from his chair and followed by rawlins started upward the entire company crowded the stairs
+2020-08-29 06:47:50,516 - INFO - Step time: 0.48457860946655273 seconds
+2020-08-29 06:48:02,425 - INFO - Step: 2600
+2020-08-29 06:48:02,440 - INFO - Loss: 29.711254119873047
+2020-08-29 06:48:02,440 - INFO - training_batch_WER:  24.24%
+2020-08-29 06:48:02,440 - INFO - Prediction: and how neurse ter through the veriousilnesses of childhood a large dete of gratitude was owing here but the intrcourse of the last seven years the equal footing and perfect unreserve
+2020-08-29 06:48:02,440 - INFO - Reference: and how nursed her through the various illnesses of childhood a large debt of gratitude was owing here but the intercourse of the last seven years the equal footing and perfect unreserve
+2020-08-29 06:48:02,440 - INFO - Step time: 0.47490859031677246 seconds
+2020-08-29 06:48:02,498 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2600.pt
+2020-08-29 06:48:14,326 - INFO - Step: 2625
+2020-08-29 06:48:14,342 - INFO - Loss: 30.48415756225586
+2020-08-29 06:48:14,342 - INFO - training_batch_WER:  25.26%
+2020-08-29 06:48:14,342 - INFO - Prediction: moast bitterly did she pry it was not only with herself that she was sun buh with henry her folly which now seemed even priminal wes all exposed to him and he must despis her for ever
+2020-08-29 06:48:14,342 - INFO - Reference: most bitterly did she cry it was not only with herself that she was sunk but with henry her folly which now seemed even criminal was all exposed to him and he must despise her forever
+2020-08-29 06:48:14,342 - INFO - Step time: 0.48366546630859375 seconds
+2020-08-29 06:48:14,381 - INFO - Finished epoch 36 in 33.33088946342468
+2020-08-29 06:48:14,382 - INFO - Starting epoch 37
+2020-08-29 06:48:25,756 - INFO - Step: 2650
+2020-08-29 06:48:25,773 - INFO - Loss: 28.785005569458008
+2020-08-29 06:48:25,773 - INFO - training_batch_WER:  23.15%
+2020-08-29 06:48:25,773 - INFO - Prediction: but i knew the truth and i would live it down alon with myself i wasn't going to give in to such a beastly unfar thing what did it prove after all i was con foundedly cut up sick of life
+2020-08-29 06:48:25,773 - INFO - Reference: but i knew the truth and i would live it down alone with myself i wasn't going to give in to such a beastly unfair thing what did it prove after all i was confoundedly cut up sick of life
+2020-08-29 06:48:25,774 - INFO - Step time: 0.4485933780670166 seconds
+2020-08-29 06:48:37,704 - INFO - Step: 2675
+2020-08-29 06:48:37,720 - INFO - Loss: 26.365182876586914
+2020-08-29 06:48:37,720 - INFO - training_batch_WER:  23.69%
+2020-08-29 06:48:37,720 - INFO - Prediction: though it must shock could not intiidate henry who as sustaind in his purpose by a conviction of its juestice he felt himself bond as much in honour as in affection to miss morland
+2020-08-29 06:48:37,720 - INFO - Reference: though it must shock could not intimidate henry who was sustained in his purpose by a conviction of its justice he felt himself bound as much in honour as in affection to miss morland
+2020-08-29 06:48:37,720 - INFO - Step time: 0.4486708641052246 seconds
+2020-08-29 06:48:47,730 - INFO - Finished epoch 37 in 33.34783744812012
+2020-08-29 06:48:47,730 - INFO - Starting epoch 38
+2020-08-29 06:48:49,117 - INFO - Step: 2700
+2020-08-29 06:48:49,133 - INFO - Loss: 24.550189971923828
+2020-08-29 06:48:49,134 - INFO - training_batch_WER:  19.15%
+2020-08-29 06:48:49,134 - INFO - Prediction: not yet the daughter at her birth struck fear into the father for the time and dower did not o'rrun this side or that the measure no houses had she void of familes not yet had theytheir come saoed anopolus to show what in a chamber can be done
+2020-08-29 06:48:49,134 - INFO - Reference: not yet the daughter at her birth struck fear into the father for the time and dower did not o'errun this side or that the measure no houses had she void of families not yet had thither come sardanapalus to show what in a chamber can be done
+2020-08-29 06:48:49,134 - INFO - Step time: 0.44650745391845703 seconds
+2020-08-29 06:48:49,191 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2700.pt
+2020-08-29 06:49:00,975 - INFO - Step: 2725
+2020-08-29 06:49:00,993 - INFO - Loss: 26.187679290771484
+2020-08-29 06:49:00,993 - INFO - training_batch_WER:  20.56%
+2020-08-29 06:49:00,993 - INFO - Prediction: does not find such stomnes an his mother's jewel case you think then i have something to dred asked d'artagnan i mean to say young man that he who sleepes over a minde the match of whichis already lited
+2020-08-29 06:49:00,993 - INFO - Reference: does not find such stones in his mother's jewel case you think then i have something to dread asked d'artagnan i mean to say young man that he who sleeps over a mine the match of which is already lighted
+2020-08-29 06:49:00,993 - INFO - Step time: 0.4567112922668457 seconds
+2020-08-29 06:49:12,727 - INFO - Step: 2750
+2020-08-29 06:49:12,743 - INFO - Loss: 26.376893997192383
+2020-08-29 06:49:12,743 - INFO - training_batch_WER:  22.61%
+2020-08-29 06:49:12,743 - INFO - Prediction: mi comrad will enter the other veicle with her and my wif ill come back hre to tellus it's din as for the youg lady no harm will bedone to her
+2020-08-29 06:49:12,743 - INFO - Reference: my comrade will enter the other vehicle with her and my wife will come back here to tell us it's done as for the young lady no harm will be done to her
+2020-08-29 06:49:12,743 - INFO - Step time: 0.44274210929870605 seconds
+2020-08-29 06:49:21,064 - INFO - Finished epoch 38 in 33.33405518531799
+2020-08-29 06:49:21,065 - INFO - Starting epoch 39
+2020-08-29 06:49:24,372 - INFO - Step: 2775
+2020-08-29 06:49:24,390 - INFO - Loss: 33.065860748291016
+2020-08-29 06:49:24,390 - INFO - training_batch_WER:  22.68%
+2020-08-29 06:49:24,391 - INFO - Prediction: and then the feelings bind the inte ect far more than uselessly he leaves the shore since he reterneth not the same he went who fishes for the truth and has no sill
+2020-08-29 06:49:24,391 - INFO - Reference: and then the feelings bind the intellect far more than uselessly he leaves the shore since he returneth not the same he went who fishes for the truth and has no skill
+2020-08-29 06:49:24,391 - INFO - Step time: 0.4564218521118164 seconds
+2020-08-29 06:49:36,178 - INFO - Step: 2800
+2020-08-29 06:49:36,194 - INFO - Loss: 24.005496978759766
+2020-08-29 06:49:36,194 - INFO - training_batch_WER:  21.92%
+2020-08-29 06:49:36,194 - INFO - Prediction: heard and opproved my devotin but the furies possessed me has i concluded and raged choked my utterance
+2020-08-29 06:49:36,194 - INFO - Reference: heard and approved my devotion but the furies possessed me as i concluded and rage choked my utterance
+2020-08-29 06:49:36,194 - INFO - Step time: 0.4940779209136963 seconds
+2020-08-29 06:49:36,251 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2800.pt
+2020-08-29 06:49:48,355 - INFO - Step: 2825
+2020-08-29 06:49:48,370 - INFO - Loss: 27.082218170166016
+2020-08-29 06:49:48,370 - INFO - training_batch_WER:  22.65%
+2020-08-29 06:49:48,370 - INFO - Prediction: the sel on fisheries are farmed anually for y totle propet of three millions man eaters francs conseil repauked yes francs three million francs i onet on
+2020-08-29 06:49:48,370 - INFO - Reference: these ceylon fisheries are farmed annually for a total profit of three million man eaters francs conseil rebuked yes francs three million francs i went on
+2020-08-29 06:49:48,370 - INFO - Step time: 0.4390726089477539 seconds
+2020-08-29 06:49:54,550 - INFO - Finished epoch 39 in 33.4852077960968
+2020-08-29 06:49:54,551 - INFO - Starting epoch 40
+2020-08-29 06:49:59,807 - INFO - Step: 2850
+2020-08-29 06:49:59,823 - INFO - Loss: 30.324138641357422
+2020-08-29 06:49:59,823 - INFO - training_batch_WER:  25.79%
+2020-08-29 06:49:59,823 - INFO - Prediction: ran nd repeated the brintish offic er gathering himself up in military pride no mister caesar running is not my tratde while speaking he walfked deliberately to the window
+2020-08-29 06:49:59,823 - INFO - Reference: run repeated the british officer gathering himself up in military pride no mister caesar running is not my trade while speaking he walked deliberately to the window
+2020-08-29 06:49:59,823 - INFO - Step time: 0.47548460960388184 seconds
+2020-08-29 06:50:11,926 - INFO - Step: 2875
+2020-08-29 06:50:11,942 - INFO - Loss: 21.360347747802734
+2020-08-29 06:50:11,943 - INFO - training_batch_WER:  19.08%
+2020-08-29 06:50:11,943 - INFO - Prediction: how not at all why just think for a moment with this red handkerchiief on my head wit scacebe any shoos
+2020-08-29 06:50:11,943 - INFO - Reference: how not at all why just think for a moment with this red handkerchief on my head with scarcely any shoes
+2020-08-29 06:50:11,943 - INFO - Step time: 0.4421958923339844 seconds
+2020-08-29 06:50:23,731 - INFO - Step: 2900
+2020-08-29 06:50:23,746 - INFO - Loss: 29.473400115966797
+2020-08-29 06:50:23,751 - INFO - training_batch_WER:  24.72%
+2020-08-29 06:50:23,751 - INFO - Prediction: at the door he found his cariage and was immediately driven to the bank
+2020-08-29 06:50:23,751 - INFO - Reference: at the door he found his carriage and was immediately driven to the bank
+2020-08-29 06:50:23,752 - INFO - Step time: 0.45482826232910156 seconds
+2020-08-29 06:50:23,811 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2900.pt
+2020-08-29 06:50:28,125 - INFO - Finished epoch 40 in 33.57399082183838
+2020-08-29 06:50:28,125 - INFO - Starting epoch 41
+2020-08-29 06:50:35,264 - INFO - Step: 2925
+2020-08-29 06:50:35,277 - INFO - Loss: 21.261625289916992
+2020-08-29 06:50:35,287 - INFO - training_batch_WER:  22.35%
+2020-08-29 06:50:35,287 - INFO - Prediction: it is disirable that as few people oas possible should reflect upon morals and consequently it is veriy desirable that moralse should not some day become interesting
+2020-08-29 06:50:35,287 - INFO - Reference: it is desirable that as few people as possible should reflect upon morals and consequently it is very desirable that morals should not some day become interesting
+2020-08-29 06:50:35,287 - INFO - Step time: 0.43999385833740234 seconds
+2020-08-29 06:50:47,195 - INFO - Step: 2950
+2020-08-29 06:50:47,212 - INFO - Loss: 28.013870239257812
+2020-08-29 06:50:47,212 - INFO - training_batch_WER:  22.34%
+2020-08-29 06:50:47,212 - INFO - Prediction: when the emper who rin eth evermore provided for the host that was in paril through grace alone and not that it was worthy and as was said he to his brie brought sucur with champiins twin at whose deed at whose word the stragling people were together drawn
+2020-08-29 06:50:47,212 - INFO - Reference: when the emperor who reigneth evermore provided for the host that was in peril through grace alone and not that it was worthy and as was said he to his bride brought succour with champions twain at whose deed at whose word the straggling people were together drawn
+2020-08-29 06:50:47,212 - INFO - Step time: 0.4658994674682617 seconds
+2020-08-29 06:50:59,121 - INFO - Step: 2975
+2020-08-29 06:50:59,138 - INFO - Loss: 27.238277435302734
+2020-08-29 06:50:59,138 - INFO - training_batch_WER:  21.93%
+2020-08-29 06:50:59,138 - INFO - Prediction: as i means of getting you oun of dors and tempting you to more freuent exercise than you wound otherwise take and though the love of a hasaint mabe rather omestic who can telp the sentiment once raised but you may in time come to love a rose
+2020-08-29 06:50:59,138 - INFO - Reference: as a means of getting you out of doors and tempting you to more frequent exercise than you would otherwise take and though the love of a hyacinth may be rather domestic who can tell the sentiment once raised but you may in time come to love a rose
+2020-08-29 06:50:59,138 - INFO - Step time: 0.49059629440307617 seconds
+2020-08-29 06:51:01,714 - INFO - Finished epoch 41 in 33.588430404663086
+2020-08-29 06:51:01,714 - INFO - Starting epoch 42
+2020-08-29 06:51:10,733 - INFO - Step: 3000
+2020-08-29 06:51:10,748 - INFO - Loss: 20.949874877929688
+2020-08-29 06:51:10,748 - INFO - training_batch_WER:  19.96%
+2020-08-29 06:51:10,748 - INFO - Prediction: and as he declared ye was two ignrant of the came to play it regularly they only continued giving balls to one another without counting
+2020-08-29 06:51:10,748 - INFO - Reference: and as he declared he was too ignorant of the game to play it regularly they only continued giving balls to one another without counting
+2020-08-29 06:51:10,748 - INFO - Step time: 0.4450349807739258 seconds
+2020-08-29 06:51:10,748 - INFO - Doing Evaluation ..............................
+2020-08-29 06:51:11,750 - INFO - ==========>>>>>>Evaluation Loss TEST: 104.84133911132812
+2020-08-29 06:51:11,750 - INFO - ==========>>>>>>Evaluation WER TEST:  48.98%
+2020-08-29 06:51:11,751 - INFO - Evaluation time: 1.0022718906402588 seconds
+2020-08-29 06:51:11,810 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3000.pt
+2020-08-29 06:51:23,827 - INFO - Step: 3025
+2020-08-29 06:51:23,844 - INFO - Loss: 30.000202178955078
+2020-08-29 06:51:23,844 - INFO - training_batch_WER:  24.53%
+2020-08-29 06:51:23,844 - INFO - Prediction: and a smile upon the mouth which displaed a perfect sed of white teth pointed and sharpe as the wolfs orjacls a red handkerchief in circled his greay heand
+2020-08-29 06:51:23,845 - INFO - Reference: and a smile upon the mouth which displayed a perfect set of white teeth pointed and sharp as the wolf's or jackal's a red handkerchief encircled his gray head
+2020-08-29 06:51:23,845 - INFO - Step time: 0.48158907890319824 seconds
+2020-08-29 06:51:35,991 - INFO - Step: 3050
+2020-08-29 06:51:36,007 - INFO - Loss: 30.26202964782715
+2020-08-29 06:51:36,007 - INFO - training_batch_WER:  26.23%
+2020-08-29 06:51:36,007 - INFO - Prediction: i' ben gon i am replied the maron wridgling like and eel in his mbarasment nd he added afteralongpause how d mister silver pretty well i thiank ye says you
+2020-08-29 06:51:36,007 - INFO - Reference: i'm ben gunn i am replied the maroon wriggling like an eel in his embarrassment and he added after a long pause how do mister silver pretty well i thank ye says you
+2020-08-29 06:51:36,007 - INFO - Step time: 0.4476804733276367 seconds
+2020-08-29 06:51:36,511 - INFO - Finished epoch 42 in 34.79653763771057
+2020-08-29 06:51:36,511 - INFO - Starting epoch 43
+2020-08-29 06:51:47,491 - INFO - Step: 3075
+2020-08-29 06:51:47,508 - INFO - Loss: 23.78837776184082
+2020-08-29 06:51:47,508 - INFO - training_batch_WER:  18.59%
+2020-08-29 06:51:47,508 - INFO - Prediction: my dearplach e i am the happiest of men
+2020-08-29 06:51:47,509 - INFO - Reference: my dear planchet i am the happiest of men
+2020-08-29 06:51:47,509 - INFO - Step time: 0.5038859844207764 seconds
+2020-08-29 06:51:59,561 - INFO - Step: 3100
+2020-08-29 06:51:59,578 - INFO - Loss: 24.420562744140625
+2020-08-29 06:51:59,578 - INFO - training_batch_WER:  18.33%
+2020-08-29 06:51:59,578 - INFO - Prediction: outside the coart the sun blazed within was the wind of great ponkas that made you shiver the shame that made you birn the attentive eyes hos glancse stabbed the face of the presiding magistrate
+2020-08-29 06:51:59,578 - INFO - Reference: outside the court the sun blazed within was the wind of great punkahs that made you shiver the shame that made you burn the attentive eyes whose glance stabbed the face of the presiding magistrate
+2020-08-29 06:51:59,579 - INFO - Step time: 0.4393317699432373 seconds
+2020-08-29 06:51:59,637 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3100.pt
+2020-08-29 06:52:10,003 - INFO - Finished epoch 43 in 33.49135065078735
+2020-08-29 06:52:10,003 - INFO - Starting epoch 44
+2020-08-29 06:52:10,930 - INFO - Step: 3125
+2020-08-29 06:52:10,944 - INFO - Loss: 17.73947525024414
+2020-08-29 06:52:10,944 - INFO - training_batch_WER:  17.31%
+2020-08-29 06:52:10,944 - INFO - Prediction: missus bennet and her daughters then departed and elizabeth returne instantly to gan leaving her on and her relations behaveiour to the remars of the two ladies and mister darcy the wtter of whom however
+2020-08-29 06:52:10,944 - INFO - Reference: missus bennet and her daughters then departed and elizabeth returned instantly to jane leaving her own and her relations behaviour to the remarks of the two ladies and mister darcy the latter of whom however
+2020-08-29 06:52:10,944 - INFO - Step time: 0.43962979316711426 seconds
+2020-08-29 06:52:23,178 - INFO - Step: 3150
+2020-08-29 06:52:23,193 - INFO - Loss: 20.2890682220459
+2020-08-29 06:52:23,193 - INFO - training_batch_WER:  17.83%
+2020-08-29 06:52:23,193 - INFO - Prediction: as a means of getting you olut of dooors and tempting you to mor reyquent exercise than you would otherwise take and though the lmove of a hyasenth maye be rather demestic who can tell the sentiment once rased but you may in time come to lovea ros
+2020-08-29 06:52:23,193 - INFO - Reference: as a means of getting you out of doors and tempting you to more frequent exercise than you would otherwise take and though the love of a hyacinth may be rather domestic who can tell the sentiment once raised but you may in time come to love a rose
+2020-08-29 06:52:23,193 - INFO - Step time: 0.47507762908935547 seconds
+2020-08-29 06:52:34,979 - INFO - Step: 3175
+2020-08-29 06:52:34,995 - INFO - Loss: 22.546722412109375
+2020-08-29 06:52:34,995 - INFO - training_batch_WER:  20.09%
+2020-08-29 06:52:34,995 - INFO - Prediction: she brough herself to read them and though there seemed no chance of her throwing a whole party intdo raptures by a preylude on the peona fourte of her own composition she could lissten to other people's performence with very little faiau
+2020-08-29 06:52:34,996 - INFO - Reference: she brought herself to read them and though there seemed no chance of her throwing a whole party into raptures by a prelude on the pianoforte of her own composition she could listen to other people's performance with very little fatigue
+2020-08-29 06:52:34,996 - INFO - Step time: 0.4573800563812256 seconds
+2020-08-29 06:52:43,479 - INFO - Finished epoch 44 in 33.47537279129028
+2020-08-29 06:52:43,479 - INFO - Starting epoch 45
+2020-08-29 06:52:46,468 - INFO - Step: 3200
+2020-08-29 06:52:46,486 - INFO - Loss: 25.617353439331055
+2020-08-29 06:52:46,486 - INFO - training_batch_WER:  23.25%
+2020-08-29 06:52:46,486 - INFO - Prediction: nothing but concern forelizabeth could enable bingly to keep his countenance his sister was lestdelicat and directed her eyes towards mister darcy with a very expresseive smile
+2020-08-29 06:52:46,486 - INFO - Reference: nothing but concern for elizabeth could enable bingley to keep his countenance his sister was less delicate and directed her eyes towards mister darcy with a very expressive smile
+2020-08-29 06:52:46,486 - INFO - Step time: 0.5110523700714111 seconds
+2020-08-29 06:52:46,544 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3200.pt
+2020-08-29 06:52:58,416 - INFO - Step: 3225
+2020-08-29 06:52:58,432 - INFO - Loss: 22.30400848388672
+2020-08-29 06:52:58,432 - INFO - training_batch_WER:  20.53%
+2020-08-29 06:52:58,432 - INFO - Prediction: answered the princess come them said the prince the condition of her dress increasing her usual difficulty in walking compelled her to cling to him and he could hardly persuade himself that he was not in a de lightful dream
+2020-08-29 06:52:58,432 - INFO - Reference: answered the princess come then said the prince the condition of her dress increasing her usual difficulty in walking compelled her to cling to him and he could hardly persuade himself that he was not in a delightful dream
+2020-08-29 06:52:58,433 - INFO - Step time: 0.44657015800476074 seconds
+2020-08-29 06:53:10,790 - INFO - Step: 3250
+2020-08-29 06:53:10,806 - INFO - Loss: 28.37468910217285
+2020-08-29 06:53:10,806 - INFO - training_batch_WER:  22.42%
+2020-08-29 06:53:10,806 - INFO - Prediction: but diod you receive my letter yesterdayg yes i have brought my receipt
+2020-08-29 06:53:10,806 - INFO - Reference: but did you receive my letter yesterday yes i have brought my receipt
+2020-08-29 06:53:10,806 - INFO - Step time: 0.4849734306335449 seconds
+2020-08-29 06:53:17,489 - INFO - Finished epoch 45 in 34.0097541809082
+2020-08-29 06:53:17,490 - INFO - Starting epoch 46
+2020-08-29 06:53:22,264 - INFO - Step: 3275
+2020-08-29 06:53:22,280 - INFO - Loss: 22.29986572265625
+2020-08-29 06:53:22,280 - INFO - training_batch_WER:  18.47%
+2020-08-29 06:53:22,280 - INFO - Prediction: heantce and unattachi man which any lady may stick stick to or get stuck own backbiter a myscio balence something aw e br book keepers and often lost by toperse
+2020-08-29 06:53:22,280 - INFO - Reference: hence an unattached man which any lady may stick stick to or get stuck on backbiter a mosquito balance something wanted by book keepers and often lost by topers
+2020-08-29 06:53:22,280 - INFO - Step time: 0.44062352180480957 seconds
+2020-08-29 06:53:34,462 - INFO - Step: 3300
+2020-08-29 06:53:34,480 - INFO - Loss: 24.18645477294922
+2020-08-29 06:53:34,480 - INFO - training_batch_WER:  19.15%
+2020-08-29 06:53:34,480 - INFO - Prediction: for my part mister bingley i always keep servant's thet can do their own work my dauhters ae brought up very differently bat everybodyis to judghe for themselves and the lucasesare a very good sort of girls i assure you it is a pity they are  not handsome
+2020-08-29 06:53:34,480 - INFO - Reference: for my part mister bingley i always keep servants that can do their own work my daughters are brought up very differently but everybody is to judge for themselves and the lucases are a very good sort of girls i assure you it is a pity they are not handsome
+2020-08-29 06:53:34,480 - INFO - Step time: 0.49353885650634766 seconds
+2020-08-29 06:53:34,537 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3300.pt
+2020-08-29 06:53:46,664 - INFO - Step: 3325
+2020-08-29 06:53:46,682 - INFO - Loss: 25.507083892822266
+2020-08-29 06:53:46,682 - INFO - training_batch_WER:  20.05%
+2020-08-29 06:53:46,682 - INFO - Prediction: which the haven produces by its own motion with seed and without neither ther wax nor that which temperis it remains immuable and hndce beneath the ideal signet more and less shines through therefore it happenes that the self same tree
+2020-08-29 06:53:46,682 - INFO - Reference: which the heaven produces by its own motion with seed and without neither their wax nor that which tempers it remains immutable and hence beneath the ideal signet more and less shines through therefore it happens that the selfsame tree
+2020-08-29 06:53:46,682 - INFO - Step time: 0.503608226776123 seconds
+2020-08-29 06:53:51,608 - INFO - Finished epoch 46 in 34.11833691596985
+2020-08-29 06:53:51,609 - INFO - Starting epoch 47
+2020-08-29 06:53:58,253 - INFO - Step: 3350
+2020-08-29 06:53:58,269 - INFO - Loss: 17.979759216308594
+2020-08-29 06:53:58,275 - INFO - training_batch_WER:  15.83%
+2020-08-29 06:53:58,275 - INFO - Prediction: feeling very faint indeed only i shall di before it is of any use to you unless i have something to eat there then said she holding out the wine to him ah you must feed me i dare not moved my hands
+2020-08-29 06:53:58,275 - INFO - Reference: feeling very faint indeed only i shall die before it is of any use to you unless i have something to eat there then said she holding out the wine to him ah you must feed me i dare not move my hands
+2020-08-29 06:53:58,275 - INFO - Step time: 0.4546687602996826 seconds
+2020-08-29 06:54:10,170 - INFO - Step: 3375
+2020-08-29 06:54:10,185 - INFO - Loss: 20.868507385253906
+2020-08-29 06:54:10,185 - INFO - training_batch_WER:  17.12%
+2020-08-29 06:54:10,185 - INFO - Prediction: many aflower is born to blush unseen and waste itsfragranceong the disert air fom tompson that it is a delightful task to teach the young idear how to shoot
+2020-08-29 06:54:10,185 - INFO - Reference: many a flower is born to blush unseen and waste its fragrance on the desert air from thompson that it is a delightful task to teach the young idea how to shoot
+2020-08-29 06:54:10,186 - INFO - Step time: 0.47015976905822754 seconds
+2020-08-29 06:54:22,317 - INFO - Step: 3400
+2020-08-29 06:54:22,334 - INFO - Loss: 23.251766204833984
+2020-08-29 06:54:22,334 - INFO - training_batch_WER:  19.18%
+2020-08-29 06:54:22,334 - INFO - Prediction: but hitherto the continuance of his preference a seemed veri uncerain and the reserveness of his manner towards her contradicted one moment what a more animated look had intimadeed the preceding one
+2020-08-29 06:54:22,334 - INFO - Reference: but hitherto the continuance of his preference seemed very uncertain and the reservedness of his manner towards her contradicted one moment what a more animated look had intimated the preceding one
+2020-08-29 06:54:22,334 - INFO - Step time: 0.4476485252380371 seconds
+2020-08-29 06:54:22,391 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3400.pt
+2020-08-29 06:54:25,398 - INFO - Finished epoch 47 in 33.7893009185791
+2020-08-29 06:54:25,399 - INFO - Starting epoch 48
+2020-08-29 06:54:33,886 - INFO - Step: 3425
+2020-08-29 06:54:33,903 - INFO - Loss: 18.90447235107422
+2020-08-29 06:54:33,903 - INFO - training_batch_WER:  17.28%
+2020-08-29 06:54:33,903 - INFO - Prediction: did not inspire him with he least suspicion of his pretty hostisce
+2020-08-29 06:54:33,903 - INFO - Reference: did not inspire him with the least suspicion of his pretty hostess
+2020-08-29 06:54:33,903 - INFO - Step time: 0.45220136642456055 seconds
+2020-08-29 06:54:45,859 - INFO - Step: 3450
+2020-08-29 06:54:45,874 - INFO - Loss: 24.654451370239258
+2020-08-29 06:54:45,875 - INFO - training_batch_WER:  21.24%
+2020-08-29 06:54:45,875 - INFO - Prediction: afew medicens an some other nescessaries tools clothing ispare sail a fathom or two of rupe and by the articulered desire of the docctor a handsom resent of tobacol that was about our lastt doing on the island
+2020-08-29 06:54:45,875 - INFO - Reference: a few medicines and some other necessaries tools clothing a spare sail a fathom or two of rope and by the particular desire of the doctor a handsome present of tobacco that was about our last doing on the island
+2020-08-29 06:54:45,875 - INFO - Step time: 0.4847838878631592 seconds
+2020-08-29 06:54:57,970 - INFO - Step: 3475
+2020-08-29 06:54:57,985 - INFO - Loss: 19.601978302001953
+2020-08-29 06:54:57,985 - INFO - training_batch_WER:  18.35%
+2020-08-29 06:54:57,985 - INFO - Prediction: but i should have thought her hir had been darker mariannde spokeinconsiderately what she really felt but when she saw how muchs he had pained edward her own vexation at her want of thought could not be surpasse by his
+2020-08-29 06:54:57,985 - INFO - Reference: but i should have thought her hair had been darker marianne spoke inconsiderately what she really felt but when she saw how much she had pained edward her own vexation at her want of thought could not be surpassed by his
+2020-08-29 06:54:57,986 - INFO - Step time: 0.4482741355895996 seconds
+2020-08-29 06:54:58,966 - INFO - Finished epoch 48 in 33.566673040390015
+2020-08-29 06:54:58,966 - INFO - Starting epoch 49
+2020-08-29 06:55:09,457 - INFO - Step: 3500
+2020-08-29 06:55:09,473 - INFO - Loss: 21.978252410888672
+2020-08-29 06:55:09,473 - INFO - training_batch_WER:  18.06%
+2020-08-29 06:55:09,473 - INFO - Prediction: there's never anybody to be had but those stupid half groown little friench bos and as soon as you do get one broke into your ways and tought something he's up an off to the lobster caneriy's oar the states at first matthew saguste getting a home boy but i said now flat to that
+2020-08-29 06:55:09,473 - INFO - Reference: there's never anybody to be had but those stupid half grown little french boys and as soon as you do get one broke into your ways and taught something he's up and off to the lobster canneries or the states at first matthew suggested getting a home boy but i said no flat to that
+2020-08-29 06:55:09,473 - INFO - Step time: 0.4501206874847412 seconds
+2020-08-29 06:55:09,473 - INFO - Doing Evaluation ..............................
+2020-08-29 06:55:10,493 - INFO - ==========>>>>>>Evaluation Loss TEST: 104.01319885253906
+2020-08-29 06:55:10,493 - INFO - ==========>>>>>>Evaluation WER TEST:  48.28%
+2020-08-29 06:55:10,515 - INFO - Evaluation time: 1.0414609909057617 seconds
+2020-08-29 06:55:10,582 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3500.pt
+2020-08-29 06:55:22,624 - INFO - Step: 3525
+2020-08-29 06:55:22,640 - INFO - Loss: 19.695804595947266
+2020-08-29 06:55:22,647 - INFO - training_batch_WER:  17.59%
+2020-08-29 06:55:22,647 - INFO - Prediction: you are to goid you see if it had been me i'd have chopped the beastin four quarters to begin with and if he had acted ugly i'd have boiled him alive he would have been abliged to speak and say where the girl is
+2020-08-29 06:55:22,647 - INFO - Reference: you are too good you see if it had been me i'd have chopped the beast in four quarters to begin with and if he had acted ugly i'd have boiled him alive he would have been obliged to speak and say where the girl is
+2020-08-29 06:55:22,647 - INFO - Step time: 0.4946863651275635 seconds
+2020-08-29 06:55:33,459 - INFO - Finished epoch 49 in 34.49293923377991
+2020-08-29 06:55:33,460 - INFO - Done in 1683.3253333568573
+2020-08-29 06:55:33,460 - INFO - Final Evaluation ..............................
+2020-08-29 06:55:34,495 - INFO - ==========>>>>>>Evaluation Loss TEST: 103.88748168945312
+2020-08-29 06:55:34,496 - INFO - ==========>>>>>>Evaluation WER TEST:  48.61%
+2020-08-29 06:55:34,496 - INFO - Evaluation time: 1.0361979007720947 seconds
+2020-08-29 06:55:34,556 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3550.pt

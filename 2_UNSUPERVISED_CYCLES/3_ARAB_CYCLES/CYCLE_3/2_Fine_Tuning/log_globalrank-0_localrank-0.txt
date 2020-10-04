@@ -1,0 +1,2026 @@
+2020-05-31 04:29:19,039 - INFO - Dataset loaded with 6.33 hours. Filtered 0.00 hours.
+2020-05-31 04:29:19,044 - INFO - Dataset loaded with 0.33 hours. Filtered 0.00 hours.
+2020-05-31 04:29:19,045 - INFO - PADDING: 16
+2020-05-31 04:29:21,398 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-05-31 04:29:21,398 - INFO - Starting .....
+2020-05-31 04:29:21,399 - INFO - Found 2 modules with weights:
+2020-05-31 04:29:21,399 - INFO - JasperEncoder
+2020-05-31 04:29:21,399 - INFO - JasperDecoderForCTC
+2020-05-31 04:29:21,399 - INFO - Total model parameters: 9977895
+2020-05-31 04:29:21,399 - WARNING - Checkpoint folder CHECKPOINTS not found!
+2020-05-31 04:29:21,399 - INFO - Starting epoch 0
+2020-05-31 04:29:21,699 - INFO - Step: 0
+2020-05-31 04:29:21,703 - INFO - Loss: 48.73017120361328
+2020-05-31 04:29:21,703 - INFO - training_batch_WER:  72.34%
+2020-05-31 04:29:21,703 - INFO - Prediction: qabel mal-anmimalitawitpeplina nfidu innenna kolina ġabrithamilkollflimkien għadettlhemhom x kin jeħtit isi
+2020-05-31 04:29:21,703 - INFO - Reference: qabel ma l-annimali ta' wied peprina nfirdu in-nanna kolina ġabrithom ilkoll flimkien u qagħdet tfehimhom x' kien jeħtieġ isir
+2020-05-31 04:29:21,703 - INFO - Step time: 0.2815437316894531 seconds
+2020-05-31 04:29:21,704 - INFO - Doing Evaluation ..............................
+2020-05-31 04:29:22,478 - INFO - ==========>>>>>>Evaluation Loss TEST: 51.735843658447266
+2020-05-31 04:29:22,478 - INFO - ==========>>>>>>Evaluation WER TEST:  70.90%
+2020-05-31 04:29:22,480 - INFO - Evaluation time: 0.7763264179229736 seconds
+2020-05-31 04:29:28,389 - INFO - Step: 25
+2020-05-31 04:29:28,392 - INFO - Loss: 31.00171661376953
+2020-05-31 04:29:28,393 - INFO - training_batch_WER:  61.13%
+2020-05-31 04:29:28,393 - INFO - Prediction: għgidli ma kif mista nibqa' nex dażżewġ ħajjiet
+2020-05-31 04:29:28,393 - INFO - Reference: għidli ma kif nista' nibqa' ngħix daż-żewġ ħajjiet
+2020-05-31 04:29:28,393 - INFO - Step time: 0.20124506950378418 seconds
+2020-05-31 04:29:34,448 - INFO - Step: 50
+2020-05-31 04:29:34,453 - INFO - Loss: 48.62872314453125
+2020-05-31 04:29:34,453 - INFO - training_batch_WER:  62.83%
+2020-05-31 04:29:34,453 - INFO - Prediction: kemm wiegħdi kemm xew qat l-ima seħħewlom qat
+2020-05-31 04:29:34,453 - INFO - Reference: kemm wegħdi kemm xewqat li ma seħħewlhom qatt
+2020-05-31 04:29:34,453 - INFO - Step time: 0.24978327751159668 seconds
+2020-05-31 04:29:40,217 - INFO - Step: 75
+2020-05-31 04:29:40,221 - INFO - Loss: 69.10910034179688
+2020-05-31 04:29:40,221 - INFO - training_batch_WER:  64.08%
+2020-05-31 04:29:40,221 - INFO - Prediction: jekk mer ġa jfett ilom jgħaddu kax krussiġġiet u l-mejjet tax iristorant
+2020-05-31 04:29:40,221 - INFO - Reference: jistgħu jaqbżu qabża sad-dar tiegħi u jħalluli mejda ġdida w erba' siġġijiet għall-ġardina tiegħi tifhmuni naħseb
+2020-05-31 04:29:40,221 - INFO - Step time: 0.21303701400756836 seconds
+2020-05-31 04:29:46,335 - INFO - Step: 100
+2020-05-31 04:29:46,338 - INFO - Loss: 29.5777587890625
+2020-05-31 04:29:46,338 - INFO - training_batch_WER:  64.15%
+2020-05-31 04:29:46,338 - INFO - Prediction: għalija tant l-aħjar għax lajkollinikoli minissita bil-funs ulanqas ikolli noqgħod nietbisshem biex moninkwetax lommi
+2020-05-31 04:29:46,338 - INFO - Reference: għalija tant aħjar għax la jkolli niekol il-minestri ta' bilfors u lanqas ikolli noqgħod nitbissem biex ma ninkwetax 'l ommi
+2020-05-31 04:29:46,339 - INFO - Step time: 0.22438359260559082 seconds
+2020-05-31 04:29:46,339 - INFO - Creating CHECKPOINTS folder
+2020-05-31 04:29:46,389 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-100.pt
+2020-05-31 04:29:52,273 - INFO - Step: 125
+2020-05-31 04:29:52,277 - INFO - Loss: 84.00799560546875
+2020-05-31 04:29:52,277 - INFO - training_batch_WER:  75.23%
+2020-05-31 04:29:52,277 - INFO - Prediction: minn kienet dik l-imsejkna
+2020-05-31 04:29:52,277 - INFO - Reference: min kienet dik l-imsejkna
+2020-05-31 04:29:52,278 - INFO - Step time: 0.22872662544250488 seconds
+2020-05-31 04:29:57,657 - INFO - Finished epoch 0 in 36.257712602615356
+2020-05-31 04:29:57,679 - INFO - Starting epoch 1
+2020-05-31 04:29:58,466 - INFO - Step: 150
+2020-05-31 04:29:58,471 - INFO - Loss: 33.412742614746094
+2020-05-31 04:29:58,471 - INFO - training_batch_WER:  59.45%
+2020-05-31 04:29:58,471 - INFO - Prediction: qiga tiġżiminquddiemek ħaris lea blikraħ lil dik it fala bjonta bil-ħarsaroganti
+2020-05-31 04:29:58,471 - INFO - Reference: hija u tiġri minn quddiemek ħarist lejha bl-ikrah lil dik it-tifla bjonda bil-ħarsa arroganti
+2020-05-31 04:29:58,471 - INFO - Step time: 0.24299860000610352 seconds
+2020-05-31 04:30:04,458 - INFO - Step: 175
+2020-05-31 04:30:04,461 - INFO - Loss: 28.099185943603516
+2020-05-31 04:30:04,461 - INFO - training_batch_WER:  57.34%
+2020-05-31 04:30:04,461 - INFO - Prediction: ħħ il-kollezzjoni tad-dizzjunar tafażuniżar taċċaqqu tarzellu bebbux
+2020-05-31 04:30:04,461 - INFO - Reference: ħil-kollzzjoni tħad-dizzjunarji ta' vażuni żgħar taċ-ċaqqu t' arzell u bebbux
+2020-05-31 04:30:04,461 - INFO - Step time: 0.18191742897033691 seconds
+2020-05-31 04:30:10,363 - INFO - Step: 200
+2020-05-31 04:30:10,366 - INFO - Loss: 36.9651985168457
+2020-05-31 04:30:10,366 - INFO - training_batch_WER:  59.08%
+2020-05-31 04:30:10,366 - INFO - Prediction: kristjan
+2020-05-31 04:30:10,366 - INFO - Reference: kristjan
+2020-05-31 04:30:10,367 - INFO - Step time: 0.2051246166229248 seconds
+2020-05-31 04:30:10,417 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-200.pt
+2020-05-31 04:30:16,455 - INFO - Step: 225
+2020-05-31 04:30:16,459 - INFO - Loss: 67.30380249023438
+2020-05-31 04:30:16,459 - INFO - training_batch_WER:  57.75%
+2020-05-31 04:30:16,460 - INFO - Prediction: aħseb al rasek
+2020-05-31 04:30:16,460 - INFO - Reference: aħseb għal rasek
+2020-05-31 04:30:16,460 - INFO - Step time: 0.2200477123260498 seconds
+2020-05-31 04:30:22,661 - INFO - Step: 250
+2020-05-31 04:30:22,665 - INFO - Loss: 46.9537353515625
+2020-05-31 04:30:22,665 - INFO - training_batch_WER:  68.23%
+2020-05-31 04:30:22,665 - INFO - Prediction: wi d-dwiefer tiegħu nqalgħu minn pasthom filwaqt li għajjatajta talwaħ
+2020-05-31 04:30:22,665 - INFO - Reference: u d-dwiefer tiegħu nqalgħu minn posthom filwaqt li għajjat għajta tal-waħx
+2020-05-31 04:30:22,665 - INFO - Step time: 0.24628615379333496 seconds
+2020-05-31 04:30:28,717 - INFO - Step: 275
+2020-05-31 04:30:28,722 - INFO - Loss: 53.871376037597656
+2020-05-31 04:30:28,722 - INFO - training_batch_WER:  61.07%
+2020-05-31 04:30:28,722 - INFO - Prediction: kienet tibkimuxaż-żejża iżdazraċedjakbira ta' twelit tagħha x' dik is-sena ta' dwejja elf dissa' mijaqerbgħu u tmin hin
+2020-05-31 04:30:28,722 - INFO - Reference: kienet tibki mhux għaż-żejża iżda għat-traġedja kbira tatwelid tagħha f dik is-sena ta' dwejjaq elf disa' mija erbgħa u tmenin
+2020-05-31 04:30:28,722 - INFO - Step time: 0.2463088035583496 seconds
+2020-05-31 04:30:33,477 - INFO - Finished epoch 1 in 35.7975971698761
+2020-05-31 04:30:33,477 - INFO - Starting epoch 2
+2020-05-31 04:30:34,636 - INFO - Step: 300
+2020-05-31 04:30:34,640 - INFO - Loss: 26.33346176147461
+2020-05-31 04:30:34,640 - INFO - training_batch_WER:  52.85%
+2020-05-31 04:30:34,641 - INFO - Prediction: it-tit kien wasal imma t-torok ġew malka u kien hemm bżonn li jqaf kollox
+2020-05-31 04:30:34,641 - INFO - Reference: it-tieġ kien wasal imma t-torok ġew malta u kien hemm bżonn li jieqaf kollox
+2020-05-31 04:30:34,641 - INFO - Step time: 0.22026419639587402 seconds
+2020-05-31 04:30:34,691 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-300.pt
+2020-05-31 04:30:40,852 - INFO - Step: 325
+2020-05-31 04:30:40,856 - INFO - Loss: 59.486297607421875
+2020-05-31 04:30:40,856 - INFO - training_batch_WER:  62.42%
+2020-05-31 04:30:40,856 - INFO - Prediction: darba' sibna fil-ġnejna tiġieġa tal-kina
+2020-05-31 04:30:40,856 - INFO - Reference: darba sibna fil-ġnejna tiġieġa tal-kina
+2020-05-31 04:30:40,856 - INFO - Step time: 0.22280597686767578 seconds
+2020-05-31 04:30:47,024 - INFO - Step: 350
+2020-05-31 04:30:47,029 - INFO - Loss: 42.83045959472656
+2020-05-31 04:30:47,029 - INFO - training_batch_WER:  58.09%
+2020-05-31 04:30:47,029 - INFO - Prediction: ter kien hemm millandamiji immittta konxhemm
+2020-05-31 04:30:47,029 - INFO - Reference: ter kien hemm il-landa miegħi imma int ma kontx hemm
+2020-05-31 04:30:47,029 - INFO - Step time: 0.2295525074005127 seconds
+2020-05-31 04:30:52,928 - INFO - Step: 375
+2020-05-31 04:30:52,933 - INFO - Loss: 31.409400939941406
+2020-05-31 04:30:52,933 - INFO - training_batch_WER:  52.45%
+2020-05-31 04:30:52,933 - INFO - Prediction: iżda pitru baqa' ħ jimieed għax kien qiegħed jaħseb x' kellu jagħmel biex il-premji tassur borċ irbħu qu
+2020-05-31 04:30:52,933 - INFO - Reference: iżda pietru baqa' ħiemed għax kien qiegħed jaħseb x' kellu jagħmel biex il-premju tas-sur borg jirbħu hu
+2020-05-31 04:30:52,933 - INFO - Step time: 0.25644946098327637 seconds
+2020-05-31 04:30:58,964 - INFO - Step: 400
+2020-05-31 04:30:58,968 - INFO - Loss: 21.392284393310547
+2020-05-31 04:30:58,968 - INFO - training_batch_WER:  54.44%
+2020-05-31 04:30:58,968 - INFO - Prediction: a ħasil-grellu
+2020-05-31 04:30:58,968 - INFO - Reference: għafas il-grillu
+2020-05-31 04:30:58,968 - INFO - Step time: 0.22786521911621094 seconds
+2020-05-31 04:30:59,018 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-400.pt
+2020-05-31 04:31:05,169 - INFO - Step: 425
+2020-05-31 04:31:05,173 - INFO - Loss: 40.51177215576172
+2020-05-31 04:31:05,173 - INFO - training_batch_WER:  56.87%
+2020-05-31 04:31:05,173 - INFO - Prediction: u darba milnhom ġi waħda tfajla lieb sa stram b' ħafna ġiżi rajjen tal-lewlu monqha u ritnil-kotba tagħha li kellawieħed l-ixkafef tat-tarf tal-librerija
+2020-05-31 04:31:05,174 - INFO - Reference: u darba minnhom ġie waħda tfajla liebsa stramb b' ħafna ġiżirajjen tal-lewlu m' għonqha u wrietni l-kotba tagħha li kellna wieħed l-ixkafef tat-tarf tal-librerija
+2020-05-31 04:31:05,174 - INFO - Step time: 0.23240375518798828 seconds
+2020-05-31 04:31:09,483 - INFO - Finished epoch 2 in 36.00591063499451
+2020-05-31 04:31:09,484 - INFO - Starting epoch 3
+2020-05-31 04:31:11,111 - INFO - Step: 450
+2020-05-31 04:31:11,114 - INFO - Loss: 23.34185028076172
+2020-05-31 04:31:11,114 - INFO - training_batch_WER:  58.08%
+2020-05-31 04:31:11,114 - INFO - Prediction: għal hekk jaqaw weġbitek dik likonanaraw fid-dieqa ' paliermu għax għandanasbiepaltal-maltin
+2020-05-31 04:31:11,114 - INFO - Reference: għalhekk jaqaw għoġbite k dik li konna naraw fit-tieqa ' paliermu għax għandh għajnejha sbie bgħal tal-maltin
+2020-05-31 04:31:11,115 - INFO - Step time: 0.21780109405517578 seconds
+2020-05-31 04:31:17,336 - INFO - Step: 475
+2020-05-31 04:31:17,340 - INFO - Loss: 41.61838912963867
+2020-05-31 04:31:17,340 - INFO - training_batch_WER:  56.03%
+2020-05-31 04:31:17,340 - INFO - Prediction: l-istess ma migel il-mod kif ritiravbiħ dejjem tadditijgħu u biss jaf x inu tarjeb għalih qatma kienflassibli
+2020-05-31 04:31:17,340 - INFO - Reference: l-istess ma' migell il-mod kif ried irabbih dejjem tgħaddi tiegħu hu biss jaf x' inhu tajjeb għalih qatt ma kien flessibbli
+2020-05-31 04:31:17,340 - INFO - Step time: 0.21395277976989746 seconds
+2020-05-31 04:31:23,404 - INFO - Step: 500
+2020-05-31 04:31:23,408 - INFO - Loss: 16.106124877929688
+2020-05-31 04:31:23,408 - INFO - training_batch_WER:  47.84%
+2020-05-31 04:31:23,408 - INFO - Prediction: għarafdi ja kelb imjassar
+2020-05-31 04:31:23,408 - INFO - Reference: għaraftni ja kelb imjassar
+2020-05-31 04:31:23,408 - INFO - Step time: 0.2304065227508545 seconds
+2020-05-31 04:31:23,408 - INFO - Doing Evaluation ..............................
+2020-05-31 04:31:24,193 - INFO - ==========>>>>>>Evaluation Loss TEST: 42.534210205078125
+2020-05-31 04:31:24,194 - INFO - ==========>>>>>>Evaluation WER TEST:  63.32%
+2020-05-31 04:31:24,195 - INFO - Evaluation time: 0.7870228290557861 seconds
+2020-05-31 04:31:24,255 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-500.pt
+2020-05-31 04:31:30,373 - INFO - Step: 525
+2020-05-31 04:31:30,377 - INFO - Loss: 21.916812896728516
+2020-05-31 04:31:30,377 - INFO - training_batch_WER:  48.43%
+2020-05-31 04:31:30,377 - INFO - Prediction: bdit galleb fid-drappijiet u l-ħwejjex li kien hemm fuq is-soda ta nita sakemm sabet dak li kellha f' rasa
+2020-05-31 04:31:30,377 - INFO - Reference: bdiet tqalleb fid-drappijiet u l-ħwejjeġ li kien hemm fuq is-sodda ta' anita sakemm sabet dak li kellha f' rasha
+2020-05-31 04:31:30,377 - INFO - Step time: 0.2195587158203125 seconds
+2020-05-31 04:31:36,450 - INFO - Step: 550
+2020-05-31 04:31:36,454 - INFO - Loss: 33.06597137451172
+2020-05-31 04:31:36,455 - INFO - training_batch_WER:  52.38%
+2020-05-31 04:31:36,455 - INFO - Prediction: beda l-kan tal-edeste fidelis u ħalġeti 'il quddiesha
+2020-05-31 04:31:36,455 - INFO - Reference: beda l-kant tal-adeste fidelis u ħarġet il-quddiesa
+2020-05-31 04:31:36,455 - INFO - Step time: 0.24628114700317383 seconds
+2020-05-31 04:31:42,694 - INFO - Step: 575
+2020-05-31 04:31:42,699 - INFO - Loss: 24.14420509338379
+2020-05-31 04:31:42,699 - INFO - training_batch_WER:  50.72%
+2020-05-31 04:31:42,699 - INFO - Prediction: kull min kin fuq il-vapur resaq jisfalla lejn il-bibjen
+2020-05-31 04:31:42,699 - INFO - Reference: kull min kien fuq il-vapur resaq jiffolla lejn il-bibien
+2020-05-31 04:31:42,699 - INFO - Step time: 0.25034141540527344 seconds
+2020-05-31 04:31:46,571 - INFO - Finished epoch 3 in 37.0870087146759
+2020-05-31 04:31:46,571 - INFO - Starting epoch 4
+2020-05-31 04:31:48,802 - INFO - Step: 600
+2020-05-31 04:31:48,808 - INFO - Loss: 63.29393768310547
+2020-05-31 04:31:48,808 - INFO - training_batch_WER:  49.42%
+2020-05-31 04:31:48,808 - INFO - Prediction: li ċensu barbrawarli ta' parsi bewxuħ min a f navembu ligħadda raġamstab fil-por taħna fuja min dakitlettfin
+2020-05-31 04:31:48,808 - INFO - Reference: li fl-aqqal tal-lejl qegħdin isiru laqgħat kontra l-kavallieri ġewwa l-imħażen ta' sant anġlu
+2020-05-31 04:31:48,808 - INFO - Step time: 0.24771952629089355 seconds
+2020-05-31 04:31:48,864 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-600.pt
+2020-05-31 04:31:55,179 - INFO - Step: 625
+2020-05-31 04:31:55,184 - INFO - Loss: 21.298011779785156
+2020-05-31 04:31:55,184 - INFO - training_batch_WER:  40.97%
+2020-05-31 04:31:55,184 - INFO - Prediction: imma ftakret li qatt ma kienet semmitinżul ix-xemx ta' kun ta' fuq ta' fuq il-bejt ma' sħabha
+2020-05-31 04:31:55,184 - INFO - Reference: imma ftakret li qatt ma kienet semmiet inżul ix-xemx ta' kull ta' fuq ta' fuq il-bejt ma' sħabha
+2020-05-31 04:31:55,184 - INFO - Step time: 0.2518343925476074 seconds
+2020-05-31 04:32:01,262 - INFO - Step: 650
+2020-05-31 04:32:01,267 - INFO - Loss: 33.478004455566406
+2020-05-31 04:32:01,267 - INFO - training_batch_WER:  53.48%
+2020-05-31 04:32:01,267 - INFO - Prediction: xi-ittrarġentima sarv tal-imbaraz li kien ta' kul ju meta rraq bin raħal  ieħor jixtri jbiħ kul l xerta t imbarazz li ntaqa' miegħu
+2020-05-31 04:32:01,267 - INFO - Reference: xi ittra urġenti ma' salvu tal-imbarazz li kien ta' kuljum eterraq bejn raħa u ieħor jixtru jbigh kull xorta t' imbarazz li jiltaqa' miegħu
+2020-05-31 04:32:01,267 - INFO - Step time: 0.23411321640014648 seconds
+2020-05-31 04:32:07,409 - INFO - Step: 675
+2020-05-31 04:32:07,413 - INFO - Loss: 38.56716537475586
+2020-05-31 04:32:07,413 - INFO - training_batch_WER:  51.72%
+2020-05-31 04:32:07,414 - INFO - Prediction: passlika
+2020-05-31 04:32:07,414 - INFO - Reference: afrika
+2020-05-31 04:32:07,414 - INFO - Step time: 0.23258042335510254 seconds
+2020-05-31 04:32:13,593 - INFO - Step: 700
+2020-05-31 04:32:13,597 - INFO - Loss: 38.059783935546875
+2020-05-31 04:32:13,597 - INFO - training_batch_WER:  58.52%
+2020-05-31 04:32:13,597 - INFO - Prediction: iċ-ċappeta tal-fiddaa tfajta f kexxun ma xebgħa imbarazzieħor
+2020-05-31 04:32:13,597 - INFO - Reference: iċ-ċappetta tal-fidda tfajtha f' kexxun ma' xebgħa imbarazz ieħor
+2020-05-31 04:32:13,597 - INFO - Step time: 0.25124573707580566 seconds
+2020-05-31 04:32:13,653 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-700.pt
+2020-05-31 04:32:19,846 - INFO - Step: 725
+2020-05-31 04:32:19,850 - INFO - Loss: 54.81153869628906
+2020-05-31 04:32:19,850 - INFO - training_batch_WER:  55.03%
+2020-05-31 04:32:19,850 - INFO - Prediction: u l-ieħor jipprovva jikkalmal-pas biex majġrix ilquddiem
+2020-05-31 04:32:19,850 - INFO - Reference: u l-ieħor jipprova jikkalma l-pass biex ma iġrix 'il quddiem
+2020-05-31 04:32:19,850 - INFO - Step time: 0.22220873832702637 seconds
+2020-05-31 04:32:23,183 - INFO - Finished epoch 4 in 36.61151885986328
+2020-05-31 04:32:23,183 - INFO - Starting epoch 5
+2020-05-31 04:32:26,131 - INFO - Step: 750
+2020-05-31 04:32:26,135 - INFO - Loss: 44.137447357177734
+2020-05-31 04:32:26,135 - INFO - training_batch_WER:  53.45%
+2020-05-31 04:32:26,135 - INFO - Prediction: ibda bil-grop ta' dawk li twiedu jifmu f kollox li kien jitluli lil-presten tal-banda ibnu
+2020-05-31 04:32:26,135 - INFO - Reference: ibda bil-gropp ta' dawk li twieldu jifhmu f kollox li kien jinkħludi lill-presiden tal-banda ibnu
+2020-05-31 04:32:26,135 - INFO - Step time: 0.2742605209350586 seconds
+2020-05-31 04:32:32,583 - INFO - Step: 775
+2020-05-31 04:32:32,587 - INFO - Loss: 20.303329467773438
+2020-05-31 04:32:32,587 - INFO - training_batch_WER:  47.19%
+2020-05-31 04:32:32,587 - INFO - Prediction: jienu nitwi l-aħħar li żar inħares mittieqaforsinarak għadek tistenna
+2020-05-31 04:32:32,587 - INFO - Reference: jien u nitwi l-aħħar liżar inħares mit-tieqa forsi narak għadek tistenna
+2020-05-31 04:32:32,587 - INFO - Step time: 0.23780369758605957 seconds
+2020-05-31 04:32:38,711 - INFO - Step: 800
+2020-05-31 04:32:38,714 - INFO - Loss: 19.423952102661133
+2020-05-31 04:32:38,715 - INFO - training_batch_WER:  46.57%
+2020-05-31 04:32:38,715 - INFO - Prediction: riku ntilef
+2020-05-31 04:32:38,715 - INFO - Reference: riku ntilef
+2020-05-31 04:32:38,715 - INFO - Step time: 0.19033408164978027 seconds
+2020-05-31 04:32:38,772 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-800.pt
+2020-05-31 04:32:45,030 - INFO - Step: 825
+2020-05-31 04:32:45,034 - INFO - Loss: 30.817785263061523
+2020-05-31 04:32:45,034 - INFO - training_batch_WER:  52.40%
+2020-05-31 04:32:45,034 - INFO - Prediction: min jista' jaqadih l-iktar
+2020-05-31 04:32:45,034 - INFO - Reference: min jista' jaqdih l-iktar
+2020-05-31 04:32:45,035 - INFO - Step time: 0.24552321434020996 seconds
+2020-05-31 04:32:51,299 - INFO - Step: 850
+2020-05-31 04:32:51,303 - INFO - Loss: 35.40380096435547
+2020-05-31 04:32:51,304 - INFO - training_batch_WER:  55.71%
+2020-05-31 04:32:51,304 - INFO - Prediction: il-maxrun dikil laqqamnia
+2020-05-31 04:32:51,304 - INFO - Reference: il-maxrum gigil laqqamnieha
+2020-05-31 04:32:51,304 - INFO - Step time: 0.21714425086975098 seconds
+2020-05-31 04:32:57,824 - INFO - Step: 875
+2020-05-31 04:32:57,829 - INFO - Loss: 48.29563903808594
+2020-05-31 04:32:57,829 - INFO - training_batch_WER:  49.60%
+2020-05-31 04:32:57,829 - INFO - Prediction: diet qalleb fid-drappijiet u l-ħwejjiġ li kien ham fuq is-sodda ta nita sakemm sabet dak li kellha f' rasha
+2020-05-31 04:32:57,829 - INFO - Reference: bdiet tqalleb fid-drappijiet u l-ħwejjeġ li kien hemm fuq is-sodda ta' anita sakemm sabet dak li kellha f' rasha
+2020-05-31 04:32:57,829 - INFO - Step time: 0.2399442195892334 seconds
+2020-05-31 04:33:00,723 - INFO - Finished epoch 5 in 37.53930616378784
+2020-05-31 04:33:00,723 - INFO - Starting epoch 6
+2020-05-31 04:33:03,931 - INFO - Step: 900
+2020-05-31 04:33:03,935 - INFO - Loss: 22.03931999206543
+2020-05-31 04:33:03,935 - INFO - training_batch_WER:  46.65%
+2020-05-31 04:33:03,935 - INFO - Prediction: gel milli lilu għax safej kienet taf uwa qot ma telqa
+2020-05-31 04:33:03,935 - INFO - Reference: migell milli lilu għax sa fej kienet taf huwa qatt ma telaqha
+2020-05-31 04:33:03,936 - INFO - Step time: 0.23442983627319336 seconds
+2020-05-31 04:33:03,992 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-900.pt
+2020-05-31 04:33:10,639 - INFO - Step: 925
+2020-05-31 04:33:10,643 - INFO - Loss: 67.95259857177734
+2020-05-31 04:33:10,644 - INFO - training_batch_WER:  45.60%
+2020-05-31 04:33:10,644 - INFO - Prediction: is-saħħar għaċ-xur ket tad-dja manti li kien hemm f'id għażiża ta' san ġwann għalgħu minn dik il-għad ma nqadza daħħlu f' sebgħu tbissem jidħak
+2020-05-31 04:33:10,644 - INFO - Reference: issaħħar għaċ-ċurket tad-djamanti li kien ħemm fl-id għażiża ta' san ġwann qgħalgħu minn dik il-għadma mqaddsa daħħlu f' sebgħu tbissem jidħak
+2020-05-31 04:33:10,644 - INFO - Step time: 0.24433612823486328 seconds
+2020-05-31 04:33:16,847 - INFO - Step: 950
+2020-05-31 04:33:16,851 - INFO - Loss: 41.919776916503906
+2020-05-31 04:33:16,851 - INFO - training_batch_WER:  52.00%
+2020-05-31 04:33:16,851 - INFO - Prediction: baqgħu melxin minn mural-ban u nħbew wara l-akbar jod li kien ikraq
+2020-05-31 04:33:16,851 - INFO - Reference: baqgħu mexjin minn quddiem il-bank u ntħbew wara l-akbar jott li kien ikkraq
+2020-05-31 04:33:16,851 - INFO - Step time: 0.23004364967346191 seconds
+2020-05-31 04:33:23,231 - INFO - Step: 975
+2020-05-31 04:33:23,236 - INFO - Loss: 24.01774024963379
+2020-05-31 04:33:23,236 - INFO - training_batch_WER:  48.41%
+2020-05-31 04:33:23,236 - INFO - Prediction: ribdan ir-rraħal niżlet mina f' għalaqħa
+2020-05-31 04:33:23,236 - INFO - Reference: qrib dan irraħal niżlet mina f' għalqa
+2020-05-31 04:33:23,236 - INFO - Step time: 0.23395347595214844 seconds
+2020-05-31 04:33:29,618 - INFO - Step: 1000
+2020-05-31 04:33:29,622 - INFO - Loss: 40.587188720703125
+2020-05-31 04:33:29,622 - INFO - training_batch_WER:  55.41%
+2020-05-31 04:33:29,622 - INFO - Prediction: oliver xeba jimxi bil-mond
+2020-05-31 04:33:29,622 - INFO - Reference: oliver xeba' jimxi bil-mod
+2020-05-31 04:33:29,622 - INFO - Step time: 0.25199365615844727 seconds
+2020-05-31 04:33:29,623 - INFO - Doing Evaluation ..............................
+2020-05-31 04:33:30,406 - INFO - ==========>>>>>>Evaluation Loss TEST: 42.542572021484375
+2020-05-31 04:33:30,407 - INFO - ==========>>>>>>Evaluation WER TEST:  61.18%
+2020-05-31 04:33:30,407 - INFO - Evaluation time: 0.7842719554901123 seconds
+2020-05-31 04:33:30,465 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1000.pt
+2020-05-31 04:33:36,821 - INFO - Step: 1025
+2020-05-31 04:33:36,825 - INFO - Loss: 48.8653678894043
+2020-05-31 04:33:36,825 - INFO - training_batch_WER:  50.27%
+2020-05-31 04:33:36,825 - INFO - Prediction: fuqan-naħa ta' ġewe tal-bieb l-erbgħa minn in minxteħtu mal-art mafniin
+2020-05-31 04:33:36,825 - INFO - Reference: jonfħu ishom klieb l li l-għaraq nieżel f' gelgul ma jaqta' xejn ma' ġisimhom kollu
+2020-05-31 04:33:36,825 - INFO - Step time: 0.23114967346191406 seconds
+2020-05-31 04:33:39,294 - INFO - Finished epoch 6 in 38.570399045944214
+2020-05-31 04:33:39,294 - INFO - Starting epoch 7
+2020-05-31 04:33:43,077 - INFO - Step: 1050
+2020-05-31 04:33:43,082 - INFO - Loss: 34.75830078125
+2020-05-31 04:33:43,082 - INFO - training_batch_WER:  45.53%
+2020-05-31 04:33:43,082 - INFO - Prediction: vili martu kienet bdiekmavili biex waslet safejn waslet
+2020-05-31 04:33:43,082 - INFO - Reference: vili martu kienet bniedma vili biex waslet safejn waslet
+2020-05-31 04:33:43,082 - INFO - Step time: 0.21960139274597168 seconds
+2020-05-31 04:33:49,575 - INFO - Step: 1075
+2020-05-31 04:33:49,579 - INFO - Loss: 31.70977210998535
+2020-05-31 04:33:49,579 - INFO - training_batch_WER:  49.09%
+2020-05-31 04:33:49,579 - INFO - Prediction: meta sema dak l-għajatkollu in-nannu qam jiġri bħasda kbira u staqsa' lil welix' kien ġara
+2020-05-31 04:33:49,579 - INFO - Reference: meta sema' dak l-għajat kollu in-nannu qam jiġri b' ħasda kbira u staqsa lil wili x' kien ġara
+2020-05-31 04:33:49,579 - INFO - Step time: 0.2283928394317627 seconds
+2020-05-31 04:33:55,775 - INFO - Step: 1100
+2020-05-31 04:33:55,778 - INFO - Loss: 14.182876586914062
+2020-05-31 04:33:55,778 - INFO - training_batch_WER:  42.57%
+2020-05-31 04:33:55,778 - INFO - Prediction: sabu roqga siġar daqs mitejn pass 'il bogħod minn daf li kien jidher raba' maħdum pitan tas-sejjieħ mibnija ġodda
+2020-05-31 04:33:55,778 - INFO - Reference: sabu roqgħa siġar daqs mitejn pass 'il bogħod minn dak li kien jidher raba' maħdum b' ħitan tas-sejjieħ mibnija ġodda
+2020-05-31 04:33:55,779 - INFO - Step time: 0.22971892356872559 seconds
+2020-05-31 04:33:55,835 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1100.pt
+2020-05-31 04:34:02,185 - INFO - Step: 1125
+2020-05-31 04:34:02,189 - INFO - Loss: 23.86859893798828
+2020-05-31 04:34:02,189 - INFO - training_batch_WER:  49.83%
+2020-05-31 04:34:02,189 - INFO - Prediction: ħedtlu li se nitnikker ftit ieħor
+2020-05-31 04:34:02,189 - INFO - Reference: għedtlu li se nitnikker ftit ieħor
+2020-05-31 04:34:02,189 - INFO - Step time: 0.23247241973876953 seconds
+2020-05-31 04:34:08,610 - INFO - Step: 1150
+2020-05-31 04:34:08,616 - INFO - Loss: 28.585594177246094
+2020-05-31 04:34:08,616 - INFO - training_batch_WER:  47.77%
+2020-05-31 04:34:08,616 - INFO - Prediction: imbagħa xħin l-istes ri iwarrab ftit l-istes paġna terġa' lura f posta
+2020-05-31 04:34:08,616 - INFO - Reference: imbagħad xħin l-istess riħ iwarrab ftit l-istess paġna tierġa' lura f' postha
+2020-05-31 04:34:08,616 - INFO - Step time: 0.2511110305786133 seconds
+2020-05-31 04:34:15,054 - INFO - Step: 1175
+2020-05-31 04:34:15,058 - INFO - Loss: 22.656482696533203
+2020-05-31 04:34:15,058 - INFO - training_batch_WER:  41.38%
+2020-05-31 04:34:15,058 - INFO - Prediction: min hemm qrempuċu qabeż għal fuq siġġu u minsiġu għal mal-kurtiera tal-qasap
+2020-05-31 04:34:15,058 - INFO - Reference: minn hemm qrempuċu qabeż għal fuq siġġu u mis-siġġu għal mal-purtiera tal-qasab
+2020-05-31 04:34:15,058 - INFO - Step time: 0.22141218185424805 seconds
+2020-05-31 04:34:17,165 - INFO - Finished epoch 7 in 37.870030879974365
+2020-05-31 04:34:17,165 - INFO - Starting epoch 8
+2020-05-31 04:34:21,482 - INFO - Step: 1200
+2020-05-31 04:34:21,486 - INFO - Loss: 27.25780487060547
+2020-05-31 04:34:21,486 - INFO - training_batch_WER:  37.43%
+2020-05-31 04:34:21,486 - INFO - Prediction: kien bniedem b memorja straordinarja
+2020-05-31 04:34:21,486 - INFO - Reference: kien bniedem b' memorja straordinarja
+2020-05-31 04:34:21,487 - INFO - Step time: 0.2553737163543701 seconds
+2020-05-31 04:34:21,543 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1200.pt
+2020-05-31 04:34:27,989 - INFO - Step: 1225
+2020-05-31 04:34:27,993 - INFO - Loss: 27.206382751464844
+2020-05-31 04:34:27,993 - INFO - training_batch_WER:  42.69%
+2020-05-31 04:34:27,993 - INFO - Prediction: definit-tli ebarbikju et ma jparinz
+2020-05-31 04:34:27,993 - INFO - Reference: definitli e barbikju et maj perinz
+2020-05-31 04:34:27,994 - INFO - Step time: 0.2645442485809326 seconds
+2020-05-31 04:34:34,443 - INFO - Step: 1250
+2020-05-31 04:34:34,447 - INFO - Loss: 42.242774963378906
+2020-05-31 04:34:34,447 - INFO - training_batch_WER:  44.54%
+2020-05-31 04:34:34,447 - INFO - Prediction: aktarx dak il-ħiin beża li ixxarrablu dak isseċilprezzjuż li kelbu
+2020-05-31 04:34:34,447 - INFO - Reference: u li qatt ma kien ineħħih minn idu tul il-vjaġġ kollu fil-vann qisu kellu miljun lira hemm ġew
+2020-05-31 04:34:34,447 - INFO - Step time: 0.22408080101013184 seconds
+2020-05-31 04:34:40,870 - INFO - Step: 1275
+2020-05-31 04:34:40,875 - INFO - Loss: 22.03936767578125
+2020-05-31 04:34:40,875 - INFO - training_batch_WER:  44.51%
+2020-05-31 04:34:40,875 - INFO - Prediction: imma kif jista' jkun stagħġeb jasin
+2020-05-31 04:34:40,875 - INFO - Reference: imma kif jista' jkun stagħġeb jason
+2020-05-31 04:34:40,875 - INFO - Step time: 0.23369622230529785 seconds
+2020-05-31 04:34:47,186 - INFO - Step: 1300
+2020-05-31 04:34:47,190 - INFO - Loss: 28.787687301635742
+2020-05-31 04:34:47,190 - INFO - training_batch_WER:  50.29%
+2020-05-31 04:34:47,190 - INFO - Prediction: qatt ma kon trajt ċena simili qabel
+2020-05-31 04:34:47,190 - INFO - Reference: qatt ma kont rajt xena simili qabel
+2020-05-31 04:34:47,191 - INFO - Step time: 0.2512960433959961 seconds
+2020-05-31 04:34:47,247 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1300.pt
+2020-05-31 04:34:53,534 - INFO - Step: 1325
+2020-05-31 04:34:53,538 - INFO - Loss: 37.512901306152344
+2020-05-31 04:34:53,539 - INFO - training_batch_WER:  41.74%
+2020-05-31 04:34:53,539 - INFO - Prediction: il-burdnar talla bil-pxara li kien hemm erbgħa min-nies sewġtirġiel  żewġ nisa
+2020-05-31 04:34:53,539 - INFO - Reference: il-burdnar talla' bil-bxara li kien hemm erbgħa min-nies sewġt irġiel u żewġ nisa
+2020-05-31 04:34:53,539 - INFO - Step time: 0.22496986389160156 seconds
+2020-05-31 04:34:55,034 - INFO - Finished epoch 8 in 37.86838150024414
+2020-05-31 04:34:55,034 - INFO - Starting epoch 9
+2020-05-31 04:34:59,896 - INFO - Step: 1350
+2020-05-31 04:34:59,901 - INFO - Loss: 35.72821044921875
+2020-05-31 04:34:59,901 - INFO - training_batch_WER:  43.41%
+2020-05-31 04:34:59,901 - INFO - Prediction: xi ħallelin li ġew jieħ bew hawn jew xispjun tal-ħakemlu qegħdin ifixtxuna
+2020-05-31 04:34:59,901 - INFO - Reference: xi ħallelin li ġew jinħbew hawn jew xi spjun tal-ħakem li qegħdin ifittxuna
+2020-05-31 04:34:59,901 - INFO - Step time: 0.27050185203552246 seconds
+2020-05-31 04:35:06,242 - INFO - Step: 1375
+2020-05-31 04:35:06,246 - INFO - Loss: 31.612295150756836
+2020-05-31 04:35:06,246 - INFO - training_batch_WER:  43.02%
+2020-05-31 04:35:06,246 - INFO - Prediction: qgħat ftit fuq l-għatba imbagħad għalaqt l-antiporta warajja u bexxaqt il-bieb
+2020-05-31 04:35:06,246 - INFO - Reference: qgħadt ftit fuq l-għatba imbagħad għalaqt l-antiporta warajja u bexxaqt il-bieb
+2020-05-31 04:35:06,247 - INFO - Step time: 0.25281691551208496 seconds
+2020-05-31 04:35:12,484 - INFO - Step: 1400
+2020-05-31 04:35:12,489 - INFO - Loss: 25.632396697998047
+2020-05-31 04:35:12,489 - INFO - training_batch_WER:  45.69%
+2020-05-31 04:35:12,489 - INFO - Prediction: kien jitratta dwar iż-żrieraħ
+2020-05-31 04:35:12,489 - INFO - Reference: kien jittratta dwar iż-żrieragħ
+2020-05-31 04:35:12,489 - INFO - Step time: 0.2508432865142822 seconds
+2020-05-31 04:35:12,546 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1400.pt
+2020-05-31 04:35:19,068 - INFO - Step: 1425
+2020-05-31 04:35:19,072 - INFO - Loss: 33.509178161621094
+2020-05-31 04:35:19,072 - INFO - training_batch_WER:  57.14%
+2020-05-31 04:35:19,072 - INFO - Prediction: ħanora qal kollu ħeġġ
+2020-05-31 04:35:19,072 - INFO - Reference: ħa nara qal kollu ħeġġa
+2020-05-31 04:35:19,072 - INFO - Step time: 0.22406220436096191 seconds
+2020-05-31 04:35:25,361 - INFO - Step: 1450
+2020-05-31 04:35:25,365 - INFO - Loss: 14.773189544677734
+2020-05-31 04:35:25,365 - INFO - training_batch_WER:  34.25%
+2020-05-31 04:35:25,365 - INFO - Prediction: twanni li kien ħdejna qalli billi xegħl u l-fjamma ma jfisser xejn
+2020-05-31 04:35:25,365 - INFO - Reference: twanni li kien ħdejna qal li billi xegħlu l-fjamma ma jfisser xejn
+2020-05-31 04:35:25,366 - INFO - Step time: 0.2552046775817871 seconds
+2020-05-31 04:35:31,814 - INFO - Step: 1475
+2020-05-31 04:35:31,818 - INFO - Loss: 18.51763916015625
+2020-05-31 04:35:31,818 - INFO - training_batch_WER:  38.86%
+2020-05-31 04:35:31,818 - INFO - Prediction: x' se jagħmlu kont taqsejt lil sħobi
+2020-05-31 04:35:31,818 - INFO - Reference: x' se jagħmlu kont staqsejt lil sħabi
+2020-05-31 04:35:31,819 - INFO - Step time: 0.23061180114746094 seconds
+2020-05-31 04:35:32,823 - INFO - Finished epoch 9 in 37.788376808166504
+2020-05-31 04:35:32,823 - INFO - Starting epoch 10
+2020-05-31 04:35:38,270 - INFO - Step: 1500
+2020-05-31 04:35:38,274 - INFO - Loss: 15.469779968261719
+2020-05-31 04:35:38,274 - INFO - training_batch_WER:  38.11%
+2020-05-31 04:35:38,274 - INFO - Prediction: dażgur kif qatt setgħet tilm aħni
+2020-05-31 04:35:38,274 - INFO - Reference: dażgur kif qatt setgħet tilmaħni
+2020-05-31 04:35:38,275 - INFO - Step time: 0.24859046936035156 seconds
+2020-05-31 04:35:38,275 - INFO - Doing Evaluation ..............................
+2020-05-31 04:35:39,129 - INFO - ==========>>>>>>Evaluation Loss TEST: 44.143577575683594
+2020-05-31 04:35:39,129 - INFO - ==========>>>>>>Evaluation WER TEST:  60.07%
+2020-05-31 04:35:39,129 - INFO - Evaluation time: 0.8547389507293701 seconds
+2020-05-31 04:35:39,187 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1500.pt
+2020-05-31 04:35:45,386 - INFO - Step: 1525
+2020-05-31 04:35:45,390 - INFO - Loss: 22.527156829833984
+2020-05-31 04:35:45,390 - INFO - training_batch_WER:  40.18%
+2020-05-31 04:35:45,390 - INFO - Prediction: qarrieq bl-a ġieħ faċċol
+2020-05-31 04:35:45,390 - INFO - Reference: qarrieq bla ġieħ faċċol
+2020-05-31 04:35:45,390 - INFO - Step time: 0.222808837890625 seconds
+2020-05-31 04:35:51,797 - INFO - Step: 1550
+2020-05-31 04:35:51,801 - INFO - Loss: 23.40825653076172
+2020-05-31 04:35:51,801 - INFO - training_batch_WER:  37.46%
+2020-05-31 04:35:51,801 - INFO - Prediction: carls ħalis kien il-piou regolali tal-istazzjon iżda billi kien jaħdem sigħa strambi darbtejn jew tlieta fil-ġimga
+2020-05-31 04:35:51,801 - INFO - Reference: charles hales kien il-piħou regolari tal-istazzjon iżda billi kien jaħdem igħat strambi darbtejn jew tlieta fil-ġimggħa
+2020-05-31 04:35:51,802 - INFO - Step time: 0.22202420234680176 seconds
+2020-05-31 04:35:58,174 - INFO - Step: 1575
+2020-05-31 04:35:58,179 - INFO - Loss: 15.585884094238281
+2020-05-31 04:35:58,179 - INFO - training_batch_WER:  37.92%
+2020-05-31 04:35:58,179 - INFO - Prediction: bassiġġata
+2020-05-31 04:35:58,179 - INFO - Reference: passiġġata
+2020-05-31 04:35:58,179 - INFO - Step time: 0.24474453926086426 seconds
+2020-05-31 04:36:04,703 - INFO - Step: 1600
+2020-05-31 04:36:04,708 - INFO - Loss: 31.756765365600586
+2020-05-31 04:36:04,708 - INFO - training_batch_WER:  41.38%
+2020-05-31 04:36:04,708 - INFO - Prediction: mgeli milli li lu gax sa fej kienet ta ua kat ma telqa 
+2020-05-31 04:36:04,708 - INFO - Reference: qatt ma ddiżappuntaha filwaqt li l-migell kien ħati ta' dak kollu u aktar
+2020-05-31 04:36:04,708 - INFO - Step time: 0.2620558738708496 seconds
+2020-05-31 04:36:04,764 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1600.pt
+2020-05-31 04:36:11,204 - INFO - Step: 1625
+2020-05-31 04:36:11,208 - INFO - Loss: 33.424129486083984
+2020-05-31 04:36:11,208 - INFO - training_batch_WER:  51.83%
+2020-05-31 04:36:11,208 - INFO - Prediction: i riħa t homdita li ma kienħet inbiltlet ejn talis -snen
+2020-05-31 04:36:11,209 - INFO - Reference: ħaditu immedjatament lura għal dak iż-żmien ta' meta ġojnt impejjep filgħodu kien jibdillu l-perspettiva ta' ħajtu għall-bqija tal-ġurnata
+2020-05-31 04:36:11,209 - INFO - Step time: 0.26000428199768066 seconds
+2020-05-31 04:36:11,667 - INFO - Finished epoch 10 in 38.84361171722412
+2020-05-31 04:36:11,667 - INFO - Starting epoch 11
+2020-05-31 04:36:17,419 - INFO - Step: 1650
+2020-05-31 04:36:17,424 - INFO - Loss: 21.764198303222656
+2020-05-31 04:36:17,424 - INFO - training_batch_WER:  33.86%
+2020-05-31 04:36:17,424 - INFO - Prediction: il-baħar rasu wiebsa
+2020-05-31 04:36:17,424 - INFO - Reference: il-baħar rasu iebsa
+2020-05-31 04:36:17,424 - INFO - Step time: 0.2299513816833496 seconds
+2020-05-31 04:36:23,926 - INFO - Step: 1675
+2020-05-31 04:36:23,930 - INFO - Loss: 28.237506866455078
+2020-05-31 04:36:23,930 - INFO - training_batch_WER:  41.29%
+2020-05-31 04:36:23,930 - INFO - Prediction: kemm mingħalik li int sabiħa
+2020-05-31 04:36:23,930 - INFO - Reference: kemm mingħalik li int sabiħa
+2020-05-31 04:36:23,931 - INFO - Step time: 0.22921252250671387 seconds
+2020-05-31 04:36:30,421 - INFO - Step: 1700
+2020-05-31 04:36:30,427 - INFO - Loss: 19.715579986572266
+2020-05-31 04:36:30,427 - INFO - training_batch_WER:  34.47%
+2020-05-31 04:36:30,427 - INFO - Prediction: it-torra li kien qegħdin fuqu kien mibni fuq għolja tħares fuq żewġ widin kbar u bħalu it-torijiet l-oħra li issa kienu jidhru waħjar kienu wkoll mibnija fuq għoljiet
+2020-05-31 04:36:30,427 - INFO - Reference: it-torri li kienu qegħdin fuqu kien mibni fuq għolja tħares fuq żewġ widien kbar u bħalu it-torrijiet l-oħra li issa kienu jidhru aħjar kienu wkoll mibnija fuq għoljiet
+2020-05-31 04:36:30,427 - INFO - Step time: 0.2637667655944824 seconds
+2020-05-31 04:36:30,484 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1700.pt
+2020-05-31 04:36:36,777 - INFO - Step: 1725
+2020-05-31 04:36:36,780 - INFO - Loss: 13.398244857788086
+2020-05-31 04:36:36,781 - INFO - training_batch_WER:  32.68%
+2020-05-31 04:36:36,781 - INFO - Prediction: mhux li għax kien iħobbima għax kellu bosta flejjasħ f' idejho u għax ix-xogħol kegħu is-serktii aħjar kien koll
+2020-05-31 04:36:36,781 - INFO - Reference: mhux le għax kien iħobbhom imma għax kellu bosta flejjasħ f' idejhom u għax ix-xogħol tiegħu is-ser tigħu b-ieniftehmu aħjar kien kollu magħhom
+2020-05-31 04:36:36,781 - INFO - Step time: 0.20688629150390625 seconds
+2020-05-31 04:36:42,984 - INFO - Step: 1750
+2020-05-31 04:36:42,988 - INFO - Loss: 16.372730255126953
+2020-05-31 04:36:42,988 - INFO - training_batch_WER:  39.45%
+2020-05-31 04:36:42,988 - INFO - Prediction: ġorokna derlulliral-għajnejn kbar tal-gidi
+2020-05-31 04:36:42,989 - INFO - Reference: ġo rokna deherlu li ra l-għajnejn kbar tal-gidi
+2020-05-31 04:36:42,989 - INFO - Step time: 0.23812508583068848 seconds
+2020-05-31 04:36:49,351 - INFO - Step: 1775
+2020-05-31 04:36:49,354 - INFO - Loss: 20.060964584350586
+2020-05-31 04:36:49,354 - INFO - training_batch_WER:  42.26%
+2020-05-31 04:36:49,354 - INFO - Prediction: nippropon bil-qawwa kollha li kull politku jitgħallem jagħmel l-għa ġina
+2020-05-31 04:36:49,354 - INFO - Reference: nipproponi bil-qawwa kollha li kull politiku jitgħallem jagħmel l-għaġina
+2020-05-31 04:36:49,354 - INFO - Step time: 0.17088723182678223 seconds
+2020-05-31 04:36:49,355 - INFO - Finished epoch 11 in 37.68699026107788
+2020-05-31 04:36:49,355 - INFO - Starting epoch 12
+2020-05-31 04:36:55,818 - INFO - Step: 1800
+2020-05-31 04:36:55,822 - INFO - Loss: 13.184934616088867
+2020-05-31 04:36:55,822 - INFO - training_batch_WER:  40.41%
+2020-05-31 04:36:55,822 - INFO - Prediction: insomma niftehmu kollox jista jkun fid-dinja
+2020-05-31 04:36:55,822 - INFO - Reference: insomma niftiehmu kollox jista' jkun fid-dinja
+2020-05-31 04:36:55,822 - INFO - Step time: 0.24702024459838867 seconds
+2020-05-31 04:36:55,878 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1800.pt
+2020-05-31 04:37:02,025 - INFO - Step: 1825
+2020-05-31 04:37:02,029 - INFO - Loss: 24.511280059814453
+2020-05-31 04:37:02,029 - INFO - training_batch_WER:  37.53%
+2020-05-31 04:37:02,029 - INFO - Prediction: is-sa taf x' għandek tagħmel
+2020-05-31 04:37:02,029 - INFO - Reference: issa taf x' għandek tagħmel
+2020-05-31 04:37:02,029 - INFO - Step time: 0.23437786102294922 seconds
+2020-05-31 04:37:08,245 - INFO - Step: 1850
+2020-05-31 04:37:08,248 - INFO - Loss: 16.308956146240234
+2020-05-31 04:37:08,248 - INFO - training_batch_WER:  41.18%
+2020-05-31 04:37:08,248 - INFO - Prediction: wilajsidiuan u luks lajk mi
+2020-05-31 04:37:08,248 - INFO - Reference: wil aj si diwan ħu luks lajk mi
+2020-05-31 04:37:08,249 - INFO - Step time: 0.22295689582824707 seconds
+2020-05-31 04:37:14,523 - INFO - Step: 1875
+2020-05-31 04:37:14,527 - INFO - Loss: 33.04011917114258
+2020-05-31 04:37:14,527 - INFO - training_batch_WER:  43.50%
+2020-05-31 04:37:14,527 - INFO - Prediction: messaġ ieħor mgħand keli
+2020-05-31 04:37:14,527 - INFO - Reference: messaġġ ieħor mgħand keli
+2020-05-31 04:37:14,527 - INFO - Step time: 0.23128128051757812 seconds
+2020-05-31 04:37:20,851 - INFO - Step: 1900
+2020-05-31 04:37:20,855 - INFO - Loss: 11.298821449279785
+2020-05-31 04:37:20,855 - INFO - training_batch_WER:  28.34%
+2020-05-31 04:37:20,856 - INFO - Prediction: f' xi l-għaxa ta' filgħodu mteddejt fuq mitraħ biex nistriħ ftit
+2020-05-31 04:37:20,856 - INFO - Reference: f' xi l-għaxra ta' filgħodu mteddejt fuq mitraħ biex nistrieħ ftit
+2020-05-31 04:37:20,856 - INFO - Step time: 0.23502635955810547 seconds
+2020-05-31 04:37:20,913 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-1900.pt
+2020-05-31 04:37:26,623 - INFO - Finished epoch 12 in 37.26809859275818
+2020-05-31 04:37:26,623 - INFO - Starting epoch 13
+2020-05-31 04:37:27,129 - INFO - Step: 1925
+2020-05-31 04:37:27,134 - INFO - Loss: 23.946516036987305
+2020-05-31 04:37:27,134 - INFO - training_batch_WER:  37.82%
+2020-05-31 04:37:27,134 - INFO - Prediction: għalina mila l-aħwa għolla leħnu pawlu tal-kitarra
+2020-05-31 04:37:27,134 - INFO - Reference: għalina mela l-aħwa għolla leħnu pawlu tal-kitarra
+2020-05-31 04:37:27,134 - INFO - Step time: 0.24629759788513184 seconds
+2020-05-31 04:37:33,331 - INFO - Step: 1950
+2020-05-31 04:37:33,336 - INFO - Loss: 15.636707305908203
+2020-05-31 04:37:33,336 - INFO - training_batch_WER:  36.80%
+2020-05-31 04:37:33,336 - INFO - Prediction: jekk raġel jieqaf jing gostà tifla f' bagi nitħassbu jekk hux pedofilu
+2020-05-31 04:37:33,336 - INFO - Reference: jekk raġel jieqaf jiggosta tifla f' bagi nitħassbu jekk hux pedofilu
+2020-05-31 04:37:33,336 - INFO - Step time: 0.23000860214233398 seconds
+2020-05-31 04:37:39,759 - INFO - Step: 1975
+2020-05-31 04:37:39,764 - INFO - Loss: 24.037761688232422
+2020-05-31 04:37:39,764 - INFO - training_batch_WER:  39.40%
+2020-05-31 04:37:39,764 - INFO - Prediction: mija wieħed u tletin u noħlom u nitla' fis-sħa
+2020-05-31 04:37:39,764 - INFO - Reference: mija wieħed u tletin u noħlom u nitla' fis-sħab
+2020-05-31 04:37:39,764 - INFO - Step time: 0.23586130142211914 seconds
+2020-05-31 04:37:46,092 - INFO - Step: 2000
+2020-05-31 04:37:46,096 - INFO - Loss: 28.082237243652344
+2020-05-31 04:37:46,097 - INFO - training_batch_WER:  45.48%
+2020-05-31 04:37:46,097 - INFO - Prediction: mhux xorta
+2020-05-31 04:37:46,097 - INFO - Reference: mhux xorta
+2020-05-31 04:37:46,097 - INFO - Step time: 0.2506430149078369 seconds
+2020-05-31 04:37:46,097 - INFO - Doing Evaluation ..............................
+2020-05-31 04:37:46,886 - INFO - ==========>>>>>>Evaluation Loss TEST: 50.52349853515625
+2020-05-31 04:37:46,886 - INFO - ==========>>>>>>Evaluation WER TEST:  59.95%
+2020-05-31 04:37:46,886 - INFO - Evaluation time: 0.7892465591430664 seconds
+2020-05-31 04:37:46,945 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2000.pt
+2020-05-31 04:37:53,325 - INFO - Step: 2025
+2020-05-31 04:37:53,329 - INFO - Loss: 13.663604736328125
+2020-05-31 04:37:53,329 - INFO - training_batch_WER:  36.10%
+2020-05-31 04:37:53,329 - INFO - Prediction: petra u l-qatgħa tagħha waslu ħafna qabel is-serbut u daħlu fir-raħall li kien mibni ftit l isfel mill-maqdes iħares fuq il-bajja kaħla ta mar saxlok
+2020-05-31 04:37:53,329 - INFO - Reference: petra u l-qatgħa tagħha waslu ħafna qabel is-serbut u daħlu fir-raħal li kien mibni ftit 'l isfel mill-maqdes iħares fuq il-bajja kaħla ta' marsaxlokk
+2020-05-31 04:37:53,329 - INFO - Step time: 0.26955747604370117 seconds
+2020-05-31 04:37:59,700 - INFO - Step: 2050
+2020-05-31 04:37:59,705 - INFO - Loss: 18.81316566467285
+2020-05-31 04:37:59,705 - INFO - training_batch_WER:  41.77%
+2020-05-31 04:37:59,705 - INFO - Prediction: selika ix-sbiba ta' xaara ftit imġiegħad li qantt ma kienet taqa għajnejha minn fuq nazju ellul ħlief biex tbaxxihom lejl qiegħ id-dgħajsa
+2020-05-31 04:37:59,705 - INFO - Reference: selika ix-xbejba ta' xagħarha ftit imġiegħet li qatt ma kienet taqla' għajnejha minn fuq nazju ellul ħlief biex tbaxxihom lejn qiegħ id-dħajsa
+2020-05-31 04:37:59,705 - INFO - Step time: 0.2990734577178955 seconds
+2020-05-31 04:38:04,908 - INFO - Finished epoch 13 in 38.283997774124146
+2020-05-31 04:38:04,908 - INFO - Starting epoch 14
+2020-05-31 04:38:05,941 - INFO - Step: 2075
+2020-05-31 04:38:05,945 - INFO - Loss: 11.81210708618164
+2020-05-31 04:38:05,945 - INFO - training_batch_WER:  33.87%
+2020-05-31 04:38:05,945 - INFO - Prediction: miet dalgħodu taf
+2020-05-31 04:38:05,945 - INFO - Reference: miet dalgħodu taf
+2020-05-31 04:38:05,945 - INFO - Step time: 0.22865962982177734 seconds
+2020-05-31 04:38:12,285 - INFO - Step: 2100
+2020-05-31 04:38:12,289 - INFO - Loss: 10.061853408813477
+2020-05-31 04:38:12,289 - INFO - training_batch_WER:  25.69%
+2020-05-31 04:38:12,289 - INFO - Prediction: kienet l-ewel darba li sta'jt inħares bi -sfida ġo dawk l-għajnun ta' seqer bla ma nibża' minnhom
+2020-05-31 04:38:12,289 - INFO - Reference: kienet l-ewwel darba li stajt inħares bi sfida ġo dawk l-għajnejn ta' seqer bla ma nibża' minnhom
+2020-05-31 04:38:12,289 - INFO - Step time: 0.23066043853759766 seconds
+2020-05-31 04:38:12,346 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2100.pt
+2020-05-31 04:38:18,542 - INFO - Step: 2125
+2020-05-31 04:38:18,547 - INFO - Loss: 10.756012916564941
+2020-05-31 04:38:18,547 - INFO - training_batch_WER:  31.55%
+2020-05-31 04:38:18,547 - INFO - Prediction: kienet ġurnata xie twija u r-ragħad kien tarrax lis-sema u s-sajjetti kienu girfusħab griż fli waqt li mill-knisja kien jinfstema' t-tkarwid tar-rużarju
+2020-05-31 04:38:18,547 - INFO - Reference: kienet ġurnata xitwija u r-ragħad kien tarrax lis-sema u s-sajjetti kienu girfu s-sħab griż filwaqt li mill-knisja kien jinstema' t-tkarwit tar-rużarju
+2020-05-31 04:38:18,547 - INFO - Step time: 0.23479390144348145 seconds
+2020-05-31 04:38:24,945 - INFO - Step: 2150
+2020-05-31 04:38:24,949 - INFO - Loss: 27.11659812927246
+2020-05-31 04:38:24,949 - INFO - training_batch_WER:  41.35%
+2020-05-31 04:38:24,949 - INFO - Prediction: l-ewwel lħita kienu ħal tarxin ħal tar tarni ju skorba
+2020-05-31 04:38:24,949 - INFO - Reference: l-ewwel tlieta kienu ħal tarxien ħal tartarni u skorba
+2020-05-31 04:38:24,949 - INFO - Step time: 0.21967124938964844 seconds
+2020-05-31 04:38:31,633 - INFO - Step: 2175
+2020-05-31 04:38:31,636 - INFO - Loss: 8.937071800231934
+2020-05-31 04:38:31,636 - INFO - training_batch_WER:  31.75%
+2020-05-31 04:38:31,636 - INFO - Prediction: il-bieb ta' barja kien jinfetaħ b' mu ftieħ goff ħadrani li setga' faċilment jgħaddi b' arma fatali
+2020-05-31 04:38:31,636 - INFO - Reference: il-bieb ta' barra kien jinfetaħ b' muftieħ goff ħadrani li seta' faċilment jgħaddi b' arma fatali
+2020-05-31 04:38:31,637 - INFO - Step time: 0.20890212059020996 seconds
+2020-05-31 04:38:38,128 - INFO - Step: 2200
+2020-05-31 04:38:38,133 - INFO - Loss: 21.15133285522461
+2020-05-31 04:38:38,133 - INFO - training_batch_WER:  38.27%
+2020-05-31 04:38:38,133 - INFO - Prediction: m'aħniex tal-ġlied u mhux se noqogħdu niġu naqbżu għalik
+2020-05-31 04:38:38,133 - INFO - Reference: m' aħniex tal-ġlied u mhux se noqogħdu niġu naqbżu għalik
+2020-05-31 04:38:38,133 - INFO - Step time: 0.26079344749450684 seconds
+2020-05-31 04:38:38,190 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2200.pt
+2020-05-31 04:38:42,813 - INFO - Finished epoch 14 in 37.90475583076477
+2020-05-31 04:38:42,813 - INFO - Starting epoch 15
+2020-05-31 04:38:44,288 - INFO - Step: 2225
+2020-05-31 04:38:44,292 - INFO - Loss: 18.811866760253906
+2020-05-31 04:38:44,292 - INFO - training_batch_WER:  37.96%
+2020-05-31 04:38:44,292 - INFO - Prediction: biex imorru warajom iriduritilgħu l hinn 'il fuq u wriet u b' subgħaja lim naħa
+2020-05-31 04:38:44,292 - INFO - Reference: biex immorru warajhom irridu nitilgħu 'l hinn 'il fuq u wrietu b' subgħajha liema naħa
+2020-05-31 04:38:44,292 - INFO - Step time: 0.25037312507629395 seconds
+2020-05-31 04:38:50,547 - INFO - Step: 2250
+2020-05-31 04:38:50,551 - INFO - Loss: 39.1726188659668
+2020-05-31 04:38:50,551 - INFO - training_batch_WER:  34.90%
+2020-05-31 04:38:50,551 - INFO - Prediction: ġast sorting tru staff ħier
+2020-05-31 04:38:50,551 - INFO - Reference: ġast sorting tru staff ħijer
+2020-05-31 04:38:50,552 - INFO - Step time: 0.25661754608154297 seconds
+2020-05-31 04:38:56,907 - INFO - Step: 2275
+2020-05-31 04:38:56,912 - INFO - Loss: 22.628543853759766
+2020-05-31 04:38:56,912 - INFO - training_batch_WER:  41.09%
+2020-05-31 04:38:56,912 - INFO - Prediction: il-fatt li mhumiexpersuni pu bliċi imma inti tolati għal opinjoni u għalaġir li ħadd imma ħadd ma jista' in daħlilhom fihom
+2020-05-31 04:38:56,912 - INFO - Reference: il-fatt li mhumiexpersuni pubbliċi imma inti tolati għal opinjoni u għal aġir li ħadd imma ħadd ma jista' in daħlilhom fihom
+2020-05-31 04:38:56,912 - INFO - Step time: 0.25196409225463867 seconds
+2020-05-31 04:39:03,217 - INFO - Step: 2300
+2020-05-31 04:39:03,221 - INFO - Loss: 33.898704528808594
+2020-05-31 04:39:03,221 - INFO - training_batch_WER:  43.87%
+2020-05-31 04:39:03,221 - INFO - Prediction: tomikined isiba dinfili biex ilaħħa mieu u issa kenet iħoss il-basketkollu kotba tamiskola tqilud-dispeċilima kinx
+2020-05-31 04:39:03,221 - INFO - Reference: tefgħu ġewwa fl-intrata tad-dar ta' ġejsin qabel ma għalaq il-bieb
+2020-05-31 04:39:03,222 - INFO - Step time: 0.24397516250610352 seconds
+2020-05-31 04:39:03,278 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2300.pt
+2020-05-31 04:39:09,581 - INFO - Step: 2325
+2020-05-31 04:39:09,585 - INFO - Loss: 35.276397705078125
+2020-05-31 04:39:09,585 - INFO - training_batch_WER:  47.60%
+2020-05-31 04:39:09,585 - INFO - Prediction: fi ftit tal-ħin wastu fil-post minn fejn mikiel u l-oħrajn kienu qabdu neżlin 'lisfel fl-irdur u niżlu millistess post għal warajhom
+2020-05-31 04:39:09,585 - INFO - Reference: fi ftit tal-ħin waslu fil-post minn fejn mikiel u l-oħrajn kienu qabdu neżlin 'l isfel fl-irdum u niżlu mill-istess post għal warajhom
+2020-05-31 04:39:09,586 - INFO - Step time: 0.23436307907104492 seconds
+2020-05-31 04:39:15,845 - INFO - Step: 2350
+2020-05-31 04:39:15,848 - INFO - Loss: 13.57512378692627
+2020-05-31 04:39:15,849 - INFO - training_batch_WER:  34.81%
+2020-05-31 04:39:15,849 - INFO - Prediction: jinħabbu bil-bosta ħarajjeż limkien u mat-tabib kallus ma tantx sisa' diċċajta
+2020-05-31 04:39:15,849 - INFO - Reference: jinħabbu bil-bosta għarajjes flimkien u mat-tabib kallus ma tantx tista' tiċċajta
+2020-05-31 04:39:15,849 - INFO - Step time: 0.23482632637023926 seconds
+2020-05-31 04:39:20,116 - INFO - Finished epoch 15 in 37.30275082588196
+2020-05-31 04:39:20,117 - INFO - Starting epoch 16
+2020-05-31 04:39:22,074 - INFO - Step: 2375
+2020-05-31 04:39:22,079 - INFO - Loss: 21.80386734008789
+2020-05-31 04:39:22,079 - INFO - training_batch_WER:  34.50%
+2020-05-31 04:39:22,079 - INFO - Prediction: l-ewwel litalja mbagħad il-ġeranja
+2020-05-31 04:39:22,079 - INFO - Reference: l-ewwel l-italja imbagħad il-ġermanja
+2020-05-31 04:39:22,079 - INFO - Step time: 0.217987060546875 seconds
+2020-05-31 04:39:28,524 - INFO - Step: 2400
+2020-05-31 04:39:28,528 - INFO - Loss: 22.11593246459961
+2020-05-31 04:39:28,528 - INFO - training_batch_WER:  37.95%
+2020-05-31 04:39:28,528 - INFO - Prediction: jien u t-tfal għaddejna midnumeta stella mietet sewwa sew ġimgħa qabel il-mile
+2020-05-31 04:39:28,528 - INFO - Reference: jien u t-tfal għaddnejna minnu meta stella mietet sewwa sew ġimgħa qabel il-milie
+2020-05-31 04:39:28,528 - INFO - Step time: 0.24736428260803223 seconds
+2020-05-31 04:39:28,584 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2400.pt
+2020-05-31 04:39:34,823 - INFO - Step: 2425
+2020-05-31 04:39:34,827 - INFO - Loss: 10.21103286743164
+2020-05-31 04:39:34,827 - INFO - training_batch_WER:  27.92%
+2020-05-31 04:39:34,827 - INFO - Prediction: issa kien jaf li kien qed jidher kif tabelħaqq hu
+2020-05-31 04:39:34,827 - INFO - Reference: issa kien jaf li kien qed jidher kif tabilħaqq hu
+2020-05-31 04:39:34,828 - INFO - Step time: 0.21124982833862305 seconds
+2020-05-31 04:39:41,183 - INFO - Step: 2450
+2020-05-31 04:39:41,187 - INFO - Loss: 15.99215316772461
+2020-05-31 04:39:41,187 - INFO - training_batch_WER:  30.90%
+2020-05-31 04:39:41,187 - INFO - Prediction: wieħed u sebgħin dik kienet xi ħaġa naturali li seta' jagħmilha kulħadd
+2020-05-31 04:39:41,187 - INFO - Reference: wieħed u sebgħin dik kienet xi ħaġa naturali li seta' jagħmilha kulħadd
+2020-05-31 04:39:41,187 - INFO - Step time: 0.2452070713043213 seconds
+2020-05-31 04:39:47,862 - INFO - Step: 2475
+2020-05-31 04:39:47,867 - INFO - Loss: 22.049888610839844
+2020-05-31 04:39:47,867 - INFO - training_batch_WER:  36.69%
+2020-05-31 04:39:47,867 - INFO - Prediction: il-ħrarha kienet kbira u fost dawn tal-aħħar kien hemm saħansitra xi wħud li ferqu l-baħar bil-għawm għax ma kellhomx sabar jistennew li jerġgħu jmorru d-dgħajesgalihom
+2020-05-31 04:39:47,867 - INFO - Reference: il-ħrara kienet kbira u fost dawn tal-aħħar kien hemm saħansitra xi wħud li ferqu l-baħar bil-għawm għax ma kellhomx sabar jistennew li jerġgħu jmorru d-dgħajjes għalihom
+2020-05-31 04:39:47,867 - INFO - Step time: 0.2364959716796875 seconds
+2020-05-31 04:39:54,307 - INFO - Step: 2500
+2020-05-31 04:39:54,311 - INFO - Loss: 38.71665573120117
+2020-05-31 04:39:54,311 - INFO - training_batch_WER:  45.38%
+2020-05-31 04:39:54,311 - INFO - Prediction: forsi ma kinetx se tkun daqshekk faċi li joħroġ minnha din is-sitwazzjoni
+2020-05-31 04:39:54,311 - INFO - Reference: forsi ma kinetx se tkun daqshekk faċli li joħroġ minnha din is-sitwazzjoni
+2020-05-31 04:39:54,312 - INFO - Step time: 0.24991989135742188 seconds
+2020-05-31 04:39:54,312 - INFO - Doing Evaluation ..............................
+2020-05-31 04:39:55,105 - INFO - ==========>>>>>>Evaluation Loss TEST: 49.55603790283203
+2020-05-31 04:39:55,105 - INFO - ==========>>>>>>Evaluation WER TEST:  60.07%
+2020-05-31 04:39:55,105 - INFO - Evaluation time: 0.7935464382171631 seconds
+2020-05-31 04:39:55,164 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2500.pt
+2020-05-31 04:39:58,943 - INFO - Finished epoch 16 in 38.825770139694214
+2020-05-31 04:39:58,943 - INFO - Starting epoch 17
+2020-05-31 04:40:01,449 - INFO - Step: 2525
+2020-05-31 04:40:01,452 - INFO - Loss: 27.285659790039062
+2020-05-31 04:40:01,452 - INFO - training_batch_WER:  35.62%
+2020-05-31 04:40:01,453 - INFO - Prediction: t gow tu efrika witmi
+2020-05-31 04:40:01,453 - INFO - Reference: tu gow tu efrika wit mi
+2020-05-31 04:40:01,453 - INFO - Step time: 0.21352648735046387 seconds
+2020-05-31 04:40:08,088 - INFO - Step: 2550
+2020-05-31 04:40:08,092 - INFO - Loss: 24.35586166381836
+2020-05-31 04:40:08,092 - INFO - training_batch_WER:  35.28%
+2020-05-31 04:40:08,092 - INFO - Prediction: meta tirkeb fiha bħossok qet ittir
+2020-05-31 04:40:08,092 - INFO - Reference: meta tirkeb fiha tħossok qed ittir
+2020-05-31 04:40:08,092 - INFO - Step time: 0.2560617923736572 seconds
+2020-05-31 04:40:14,468 - INFO - Step: 2575
+2020-05-31 04:40:14,472 - INFO - Loss: 37.602542877197266
+2020-05-31 04:40:14,472 - INFO - training_batch_WER:  45.71%
+2020-05-31 04:40:14,472 - INFO - Prediction: nhar is-sibt imissn għandhom
+2020-05-31 04:40:14,472 - INFO - Reference: nhar is-sibt imissna għandhom
+2020-05-31 04:40:14,472 - INFO - Step time: 0.21745038032531738 seconds
+2020-05-31 04:40:21,018 - INFO - Step: 2600
+2020-05-31 04:40:21,023 - INFO - Loss: 16.703350067138672
+2020-05-31 04:40:21,023 - INFO - training_batch_WER:  37.43%
+2020-05-31 04:40:21,023 - INFO - Prediction: u bdejt nara qisu ċrieki vjola qishommagħmulin mi-sħab ġejjin lejja wieħed wieħed u mbagħad jisparixumalli jiġu kważi fejn għajnejja
+2020-05-31 04:40:21,023 - INFO - Reference: u bdejtnara qisu ċrieki vjola qishom magħmulin mis-sħab ġejjin lejja wieħd wieħed u mbagħad jisparixxu malli iġu kważi fejn għajnejja
+2020-05-31 04:40:21,023 - INFO - Step time: 0.268035888671875 seconds
+2020-05-31 04:40:21,080 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2600.pt
+2020-05-31 04:40:27,363 - INFO - Step: 2625
+2020-05-31 04:40:27,367 - INFO - Loss: 30.60614776611328
+2020-05-31 04:40:27,367 - INFO - training_batch_WER:  35.67%
+2020-05-31 04:40:27,367 - INFO - Prediction: u b' hekk xerridna l-għajdż ma' sħabna sakemm kienet iddoqqil-qanpiena u jispiċċja l-brejk
+2020-05-31 04:40:27,367 - INFO - Reference: u b' hekk xerridna l-ejdż ma' sħabna sakemm kienet iddoqq il-qanpiena w jispiċċa l-brejk
+2020-05-31 04:40:27,367 - INFO - Step time: 0.22773241996765137 seconds
+2020-05-31 04:40:33,672 - INFO - Step: 2650
+2020-05-31 04:40:33,676 - INFO - Loss: 25.806625366210938
+2020-05-31 04:40:33,676 - INFO - training_batch_WER:  37.46%
+2020-05-31 04:40:33,676 - INFO - Prediction: aħna miegħek
+2020-05-31 04:40:33,676 - INFO - Reference: aħna miegħek
+2020-05-31 04:40:33,677 - INFO - Step time: 0.22674345970153809 seconds
+2020-05-31 04:40:36,858 - INFO - Finished epoch 17 in 37.914592027664185
+2020-05-31 04:40:36,858 - INFO - Starting epoch 18
+2020-05-31 04:40:39,966 - INFO - Step: 2675
+2020-05-31 04:40:39,971 - INFO - Loss: 20.63272476196289
+2020-05-31 04:40:39,971 - INFO - training_batch_WER:  32.53%
+2020-05-31 04:40:39,972 - INFO - Prediction: jista' jkun kienet ir-riħa tad-di terġent lew tal-li kwidu li kienet tuża nanti biex taħsel l-art
+2020-05-31 04:40:39,972 - INFO - Reference: jista' jkun kienet ir-riħa tad-diterġent jew tal-likwidu li kienet tuża nannti biex taħsel l-art
+2020-05-31 04:40:39,972 - INFO - Step time: 0.26528382301330566 seconds
+2020-05-31 04:40:46,214 - INFO - Step: 2700
+2020-05-31 04:40:46,219 - INFO - Loss: 27.938154220581055
+2020-05-31 04:40:46,219 - INFO - training_batch_WER:  35.68%
+2020-05-31 04:40:46,219 - INFO - Prediction: nada ma kienx fadlilha dubji dwar erika tal-inkwadru il-mara kienet ommha
+2020-05-31 04:40:46,219 - INFO - Reference: nada ma kienx fadlilha dubji dwar erika tal-inkwadru il-mara kienet ommha
+2020-05-31 04:40:46,219 - INFO - Step time: 0.23735404014587402 seconds
+2020-05-31 04:40:46,275 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2700.pt
+2020-05-31 04:40:52,518 - INFO - Step: 2725
+2020-05-31 04:40:52,523 - INFO - Loss: 24.359384536743164
+2020-05-31 04:40:52,523 - INFO - training_batch_WER:  33.99%
+2020-05-31 04:40:52,523 - INFO - Prediction: ma konx inkun irrid li jispiċċal-brejk
+2020-05-31 04:40:52,523 - INFO - Reference: ma kontx inkun irrid li jispiċċa l-brejk
+2020-05-31 04:40:52,523 - INFO - Step time: 0.24788522720336914 seconds
+2020-05-31 04:40:58,927 - INFO - Step: 2750
+2020-05-31 04:40:58,932 - INFO - Loss: 13.793876647949219
+2020-05-31 04:40:58,932 - INFO - training_batch_WER:  31.93%
+2020-05-31 04:40:58,932 - INFO - Prediction: għaġġel għaġġel għaġġel għaġġel it-tifeli ħares lejn il-professur
+2020-05-31 04:40:58,932 - INFO - Reference: għaġġel għaġġel għaġġel għaġġel it-tifel iħares lejn il-professur
+2020-05-31 04:40:58,932 - INFO - Step time: 0.24962615966796875 seconds
+2020-05-31 04:41:05,108 - INFO - Step: 2775
+2020-05-31 04:41:05,112 - INFO - Loss: 21.509563446044922
+2020-05-31 04:41:05,112 - INFO - training_batch_WER:  29.01%
+2020-05-31 04:41:05,112 - INFO - Prediction: ħidijh poġi tifel għax qisu ġismu ta' sittax minkejali wiċtu
+2020-05-31 04:41:05,112 - INFO - Reference: ħidiejh ipoġi tifel għax qisu ġismu ta' sittax minkejali wiċċu
+2020-05-31 04:41:05,112 - INFO - Step time: 0.22488832473754883 seconds
+2020-05-31 04:41:11,257 - INFO - Step: 2800
+2020-05-31 04:41:11,262 - INFO - Loss: 25.691577911376953
+2020-05-31 04:41:11,262 - INFO - training_batch_WER:  37.15%
+2020-05-31 04:41:11,262 - INFO - Prediction: disga u nofs setgħu fitxew kemm riedu
+2020-05-31 04:41:11,262 - INFO - Reference: disgħa u nofs setgħu fittxew kemm riedu
+2020-05-31 04:41:11,262 - INFO - Step time: 0.25316476821899414 seconds
+2020-05-31 04:41:11,319 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2800.pt
+2020-05-31 04:41:14,143 - INFO - Finished epoch 18 in 37.28430795669556
+2020-05-31 04:41:14,143 - INFO - Starting epoch 19
+2020-05-31 04:41:17,673 - INFO - Step: 2825
+2020-05-31 04:41:17,678 - INFO - Loss: 7.604877471923828
+2020-05-31 04:41:17,678 - INFO - training_batch_WER:  18.51%
+2020-05-31 04:41:17,678 - INFO - Prediction: tibżax weġħu ta' mument biss kienet
+2020-05-31 04:41:17,678 - INFO - Reference: tibżax weġgħa ta' mument biss kienet
+2020-05-31 04:41:17,678 - INFO - Step time: 0.2458970546722412 seconds
+2020-05-31 04:41:23,859 - INFO - Step: 2850
+2020-05-31 04:41:23,863 - INFO - Loss: 21.12339210510254
+2020-05-31 04:41:23,863 - INFO - training_batch_WER:  43.47%
+2020-05-31 04:41:23,863 - INFO - Prediction: u d-daqqa li ta kienet qawwija mid-dera għax ħadet skoss 'il quddiem u baqgħetnieżle mal-art
+2020-05-31 04:41:23,863 - INFO - Reference: u d-daqqa li taha kienet qawwija mid-dehra għax ħadet skoss 'il quddiem u baqgħet nieżla mal-art
+2020-05-31 04:41:23,863 - INFO - Step time: 0.21474170684814453 seconds
+2020-05-31 04:41:30,187 - INFO - Step: 2875
+2020-05-31 04:41:30,191 - INFO - Loss: 37.154205322265625
+2020-05-31 04:41:30,191 - INFO - training_batch_WER:  45.20%
+2020-05-31 04:41:30,191 - INFO - Prediction: fslimiża
+2020-05-31 04:41:30,191 - INFO - Reference: slimiża
+2020-05-31 04:41:30,191 - INFO - Step time: 0.2127852439880371 seconds
+2020-05-31 04:41:36,455 - INFO - Step: 2900
+2020-05-31 04:41:36,459 - INFO - Loss: 32.004703521728516
+2020-05-31 04:41:36,459 - INFO - training_batch_WER:  39.22%
+2020-05-31 04:41:36,459 - INFO - Prediction: meta wasalt biex nagħti l-eżammijiet ta'l-o leveli konċ għit lil missieri li aħjar nieqaf mil-lezzjonijiet tal-mużika minħabba l-pressjoni tal-issudju
+2020-05-31 04:41:36,459 - INFO - Reference: meta wasalt biex nagħti l-eżamijiet tal-o level kont għidt lil missieri li aħjar nieqaf mil-lezzjonijiet tal-mużika minħabba l-pressjoni tal-istudju
+2020-05-31 04:41:36,459 - INFO - Step time: 0.2333083152770996 seconds
+2020-05-31 04:41:36,516 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-2900.pt
+2020-05-31 04:41:42,768 - INFO - Step: 2925
+2020-05-31 04:41:42,772 - INFO - Loss: 13.178943634033203
+2020-05-31 04:41:42,772 - INFO - training_batch_WER:  28.13%
+2020-05-31 04:41:42,772 - INFO - Prediction: tlettija weħed u seb għin mbellhin bdak li kienu għadhom kif raw
+2020-05-31 04:41:42,772 - INFO - Reference: tlieta wieħed u sebgħin mbellhin b' dak li kienu għadhom kif raw
+2020-05-31 04:41:42,772 - INFO - Step time: 0.2667880058288574 seconds
+2020-05-31 04:41:49,006 - INFO - Step: 2950
+2020-05-31 04:41:49,011 - INFO - Loss: 19.627574920654297
+2020-05-31 04:41:49,011 - INFO - training_batch_WER:  32.79%
+2020-05-31 04:41:49,011 - INFO - Prediction: minn ew-minn hemm ġew elma ħarset lejhom għal ftit u mbagħad kompliet id-dur b' xi tazzi f' idha
+2020-05-31 04:41:49,011 - INFO - Reference: minn ew minn hemm ġew elma ħarset lejhom għal ftit u mbagħad kompliet iddur b' xi tazzi f' idha
+2020-05-31 04:41:49,011 - INFO - Step time: 0.2542848587036133 seconds
+2020-05-31 04:41:51,301 - INFO - Finished epoch 19 in 37.157788038253784
+2020-05-31 04:41:51,302 - INFO - Starting epoch 20
+2020-05-31 04:41:55,340 - INFO - Step: 2975
+2020-05-31 04:41:55,344 - INFO - Loss: 21.213638305664062
+2020-05-31 04:41:55,344 - INFO - training_batch_WER:  38.07%
+2020-05-31 04:41:55,344 - INFO - Prediction: deżgur dek edukat bħali u għamel tabirruħu ma ranix minħabba fikom
+2020-05-31 04:41:55,344 - INFO - Reference: dażgur dak edukat bħali u għamel tabirruħu ma ranix minħabba fikom
+2020-05-31 04:41:55,345 - INFO - Step time: 0.22667169570922852 seconds
+2020-05-31 04:42:01,805 - INFO - Step: 3000
+2020-05-31 04:42:01,809 - INFO - Loss: 20.5185489654541
+2020-05-31 04:42:01,809 - INFO - training_batch_WER:  33.86%
+2020-05-31 04:42:01,809 - INFO - Prediction: dm ġimgħa sħiħa jagħti bla nis bil-mew tħabbat ma' wiċċu l-ħin kollu
+2020-05-31 04:42:01,809 - INFO - Reference: dam ġimgħa sħiħa jagħti bla nifs bil-mewt tħabbat ma' wiċċu l-ħin kollu
+2020-05-31 04:42:01,809 - INFO - Step time: 0.2293844223022461 seconds
+2020-05-31 04:42:01,809 - INFO - Doing Evaluation ..............................
+2020-05-31 04:42:02,643 - INFO - ==========>>>>>>Evaluation Loss TEST: 50.023860931396484
+2020-05-31 04:42:02,643 - INFO - ==========>>>>>>Evaluation WER TEST:  59.23%
+2020-05-31 04:42:02,644 - INFO - Evaluation time: 0.834040641784668 seconds
+2020-05-31 04:42:02,713 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3000.pt
+2020-05-31 04:42:08,955 - INFO - Step: 3025
+2020-05-31 04:42:08,959 - INFO - Loss: 10.783437728881836
+2020-05-31 04:42:08,959 - INFO - training_batch_WER:  28.45%
+2020-05-31 04:42:08,959 - INFO - Prediction: xxon sakemm ħalqha kien ma wid intu
+2020-05-31 04:42:08,959 - INFO - Reference: xon sakemm ħalqha kien ma' widintu
+2020-05-31 04:42:08,960 - INFO - Step time: 0.23606085777282715 seconds
+2020-05-31 04:42:15,433 - INFO - Step: 3050
+2020-05-31 04:42:15,437 - INFO - Loss: 40.473785400390625
+2020-05-31 04:42:15,437 - INFO - training_batch_WER:  42.14%
+2020-05-31 04:42:15,437 - INFO - Prediction: pamiela telqet tiġri
+2020-05-31 04:42:15,437 - INFO - Reference: pamela telqet tiġri
+2020-05-31 04:42:15,437 - INFO - Step time: 0.21235942840576172 seconds
+2020-05-31 04:42:21,757 - INFO - Step: 3075
+2020-05-31 04:42:21,761 - INFO - Loss: 14.033632278442383
+2020-05-31 04:42:21,761 - INFO - training_batch_WER:  31.76%
+2020-05-31 04:42:21,762 - INFO - Prediction: tajjeb
+2020-05-31 04:42:21,762 - INFO - Reference: tajjeb
+2020-05-31 04:42:21,762 - INFO - Step time: 0.23076653480529785 seconds
+2020-05-31 04:42:27,834 - INFO - Step: 3100
+2020-05-31 04:42:27,839 - INFO - Loss: 18.80251693725586
+2020-05-31 04:42:27,839 - INFO - training_batch_WER:  34.92%
+2020-05-31 04:42:27,839 - INFO - Prediction: waqa fdejn is-sodda għal ftit ħin imbagħad semgħetu jerġa' joħroġu jagħlaq warajh
+2020-05-31 04:42:27,839 - INFO - Reference: waqaf ħdejn is-sodda għal ftit ħin imbagħad semgħetu jerġa' joħroġ u jagħlaq warajh
+2020-05-31 04:42:27,839 - INFO - Step time: 0.23627519607543945 seconds
+2020-05-31 04:42:27,897 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3100.pt
+2020-05-31 04:42:29,707 - INFO - Finished epoch 20 in 38.404624938964844
+2020-05-31 04:42:29,707 - INFO - Starting epoch 21
+2020-05-31 04:42:34,207 - INFO - Step: 3125
+2020-05-31 04:42:34,210 - INFO - Loss: 13.48873519897461
+2020-05-31 04:42:34,210 - INFO - training_batch_WER:  26.84%
+2020-05-31 04:42:34,210 - INFO - Prediction: in-nannu tbiss milhom kellimhom bħas-soltu ma semielhom xejn dwar il-pepa
+2020-05-31 04:42:34,210 - INFO - Reference: in-nannu tbissmilhom kellimhom bħas-soltu u ma semmielhom xejn dwar il-pipa
+2020-05-31 04:42:34,211 - INFO - Step time: 0.1942598819732666 seconds
+2020-05-31 04:42:40,511 - INFO - Step: 3150
+2020-05-31 04:42:40,514 - INFO - Loss: 13.874957084655762
+2020-05-31 04:42:40,515 - INFO - training_batch_WER:  29.29%
+2020-05-31 04:42:40,515 - INFO - Prediction: għalih kienet mara tas-sew ħelwa
+2020-05-31 04:42:40,515 - INFO - Reference: għalih kienet mara tassew ħelwa
+2020-05-31 04:42:40,515 - INFO - Step time: 0.22824621200561523 seconds
+2020-05-31 04:42:46,735 - INFO - Step: 3175
+2020-05-31 04:42:46,740 - INFO - Loss: 9.844521522521973
+2020-05-31 04:42:46,740 - INFO - training_batch_WER:  22.16%
+2020-05-31 04:42:46,740 - INFO - Prediction: edul għidu li toni ħalla l-ferħ u l-ħena biex ihmur jis-sogra ħajtu
+2020-05-31 04:42:46,740 - INFO - Reference: għidu għidu li toni ħalla l-ferħ u l-ħena biex imur jissogra ħajtu
+2020-05-31 04:42:46,740 - INFO - Step time: 0.2559986114501953 seconds
+2020-05-31 04:42:53,063 - INFO - Step: 3200
+2020-05-31 04:42:53,068 - INFO - Loss: 10.109185218811035
+2020-05-31 04:42:53,068 - INFO - training_batch_WER:  24.36%
+2020-05-31 04:42:53,068 - INFO - Prediction: kont imlejt noqlbok sħiħ bin-natamenti li xbart minnu
+2020-05-31 04:42:53,068 - INFO - Reference: kont imlejt notebook sħiħ bin-notamenti li ġbart minnu
+2020-05-31 04:42:53,068 - INFO - Step time: 0.25911974906921387 seconds
+2020-05-31 04:42:53,126 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3200.pt
+2020-05-31 04:42:59,495 - INFO - Step: 3225
+2020-05-31 04:42:59,500 - INFO - Loss: 30.81658935546875
+2020-05-31 04:42:59,500 - INFO - training_batch_WER:  40.54%
+2020-05-31 04:42:59,500 - INFO - Prediction: kont naf li ma konnix iltqajna fil-pjazza għal xejn b' xejn
+2020-05-31 04:42:59,500 - INFO - Reference: kont naf li ma konniex iltqajna fil-pjazza għal xejn b' xejn
+2020-05-31 04:42:59,500 - INFO - Step time: 0.25068211555480957 seconds
+2020-05-31 04:43:05,876 - INFO - Step: 3250
+2020-05-31 04:43:05,881 - INFO - Loss: 19.070308685302734
+2020-05-31 04:43:05,881 - INFO - training_batch_WER:  26.92%
+2020-05-31 04:43:05,881 - INFO - Prediction: anzi ħadd ma kien qisu nduna li dawn kienenibsin kostum
+2020-05-31 04:43:05,881 - INFO - Reference: anzi ħadd ma kien qisu induna li dawn kienu libsin kostum
+2020-05-31 04:43:05,881 - INFO - Step time: 0.22429347038269043 seconds
+2020-05-31 04:43:07,085 - INFO - Finished epoch 21 in 37.37790560722351
+2020-05-31 04:43:07,086 - INFO - Starting epoch 22
+2020-05-31 04:43:12,024 - INFO - Step: 3275
+2020-05-31 04:43:12,029 - INFO - Loss: 10.398695945739746
+2020-05-31 04:43:12,029 - INFO - training_batch_WER:  25.59%
+2020-05-31 04:43:12,029 - INFO - Prediction: il-kappillan sabbat waħda fuq l-iskrivanija u wrieni il-bieb ta' barra
+2020-05-31 04:43:12,029 - INFO - Reference: il-kappillan sabbat waħda fuq l-iskrivanija u wrieni l-bieb ta' barra
+2020-05-31 04:43:12,029 - INFO - Step time: 0.23818588256835938 seconds
+2020-05-31 04:43:18,446 - INFO - Step: 3300
+2020-05-31 04:43:18,450 - INFO - Loss: 8.536012649536133
+2020-05-31 04:43:18,450 - INFO - training_batch_WER:  30.62%
+2020-05-31 04:43:18,450 - INFO - Prediction: li ġagħlu jemmel li kien magħżul għal dan l-iskop kien il-fatt illi ma kienx hu li għażel ir-ruħ mitlufa iżda kienet irruħ mitlufa li għażlet lilu
+2020-05-31 04:43:18,450 - INFO - Reference: li ġagħlu jemmen li kien magħżul għal dan l-iskop kien il-fatt illi ma kienx hu li għażel ir-ruħ mitlufa iżda kienet ir-ruħ mitlufa li għażlet lilu
+2020-05-31 04:43:18,451 - INFO - Step time: 0.2539865970611572 seconds
+2020-05-31 04:43:18,507 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3300.pt
+2020-05-31 04:43:24,793 - INFO - Step: 3325
+2020-05-31 04:43:24,797 - INFO - Loss: 13.700359344482422
+2020-05-31 04:43:24,797 - INFO - training_batch_WER:  30.58%
+2020-05-31 04:43:24,797 - INFO - Prediction: u lanqas ma jinkwieta jekk in-nofs mim li hux biżżejjed sakemm joħroġ mil-isptar
+2020-05-31 04:43:24,797 - INFO - Reference: u lanqas ma jinkwieta jekk in-nofs mimli hux biżżejjed sakemm joħroġ mill-isptar
+2020-05-31 04:43:24,797 - INFO - Step time: 0.2343001365661621 seconds
+2020-05-31 04:43:31,141 - INFO - Step: 3350
+2020-05-31 04:43:31,145 - INFO - Loss: 12.06590461730957
+2020-05-31 04:43:31,146 - INFO - training_batch_WER:  33.91%
+2020-05-31 04:43:31,146 - INFO - Prediction: del mont e kellu joqgħod xi erbħat ijiem b' idejh marbuta għax kien et ħaditlu balla f' siequ
+2020-05-31 04:43:31,146 - INFO - Reference: del monte kellu joqgħod xi erbat ijiem b' idejh marbuta għax kienet ħaditu balla f' siequ
+2020-05-31 04:43:31,146 - INFO - Step time: 0.24600911140441895 seconds
+2020-05-31 04:43:37,594 - INFO - Step: 3375
+2020-05-31 04:43:37,598 - INFO - Loss: 31.405029296875
+2020-05-31 04:43:37,598 - INFO - training_batch_WER:  39.63%
+2020-05-31 04:43:37,598 - INFO - Prediction: ma jirnexxilux jagħfashom eżat f' daqqa imma xorta waħda għax it-tejnpjibda jdur
+2020-05-31 04:43:37,598 - INFO - Reference: ma jirnexxilux jagħfashom eżatt f' daqqa imma xorta waħda għax it-tejp jibda jdur
+2020-05-31 04:43:37,598 - INFO - Step time: 0.2459263801574707 seconds
+2020-05-31 04:43:43,858 - INFO - Step: 3400
+2020-05-31 04:43:43,862 - INFO - Loss: 23.426156997680664
+2020-05-31 04:43:43,862 - INFO - training_batch_WER:  33.13%
+2020-05-31 04:43:43,862 - INFO - Prediction: għaddiet ukoll qisu mħallef qed jaqta' sentenza kapitali fuq jum eħor bla fejda
+2020-05-31 04:43:43,862 - INFO - Reference: għaddiet ukoll qisu mħallef qed jaqta' sentenza kapitali fuq jum ieħor bla fejda
+2020-05-31 04:43:43,863 - INFO - Step time: 0.23702383041381836 seconds
+2020-05-31 04:43:43,919 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3400.pt
+2020-05-31 04:43:44,644 - INFO - Finished epoch 22 in 37.558659076690674
+2020-05-31 04:43:44,645 - INFO - Starting epoch 23
+2020-05-31 04:43:50,260 - INFO - Step: 3425
+2020-05-31 04:43:50,264 - INFO - Loss: 19.45406723022461
+2020-05-31 04:43:50,264 - INFO - training_batch_WER:  32.23%
+2020-05-31 04:43:50,264 - INFO - Prediction: resaq lejha u qabadha minn wara kif kien jagħmel qabel
+2020-05-31 04:43:50,264 - INFO - Reference: resaq lejha u qabadha minn wara kif kien jagħmel qabel
+2020-05-31 04:43:50,265 - INFO - Step time: 0.2579624652862549 seconds
+2020-05-31 04:43:56,650 - INFO - Step: 3450
+2020-05-31 04:43:56,655 - INFO - Loss: 11.430557250976562
+2020-05-31 04:43:56,655 - INFO - training_batch_WER:  22.80%
+2020-05-31 04:43:56,655 - INFO - Prediction: fi ftit tal-ħinwastu fil-post minn fejn mikiel u l-oħrajn kienu qabdu neżlin 'l isfel fl-irdu u niżlu mill-istess post għal warajhom
+2020-05-31 04:43:56,655 - INFO - Reference: fi ftit tal-ħin waslu fil-post minn fejn mikiel u l-oħrajn kienu qabdu neżlin 'l isfel fl-irdum u niżlu mill-istess post għal warajhom
+2020-05-31 04:43:56,655 - INFO - Step time: 0.25444960594177246 seconds
+2020-05-31 04:44:02,913 - INFO - Step: 3475
+2020-05-31 04:44:02,917 - INFO - Loss: 11.321565628051758
+2020-05-31 04:44:02,917 - INFO - training_batch_WER:  33.03%
+2020-05-31 04:44:02,917 - INFO - Prediction: ħass dawk is-swaba mgħadma jagfsumbagħad imensuh
+2020-05-31 04:44:02,917 - INFO - Reference: ħass dawk is-swaba' mgħaddma jagħfsu mbagħad imellsuh
+2020-05-31 04:44:02,918 - INFO - Step time: 0.23447823524475098 seconds
+2020-05-31 04:44:09,167 - INFO - Step: 3500
+2020-05-31 04:44:09,171 - INFO - Loss: 21.243715286254883
+2020-05-31 04:44:09,171 - INFO - training_batch_WER:  30.97%
+2020-05-31 04:44:09,171 - INFO - Prediction: bàl jirnexxilu jilmaħ il-qlugħtalal-wtta fil-bogħod
+2020-05-31 04:44:09,171 - INFO - Reference: baàl jirnexxilu jilmaħ il-qlugħ tal-alwetta fil-bogħod
+2020-05-31 04:44:09,171 - INFO - Step time: 0.24998092651367188 seconds
+2020-05-31 04:44:09,171 - INFO - Doing Evaluation ..............................
+2020-05-31 04:44:10,033 - INFO - ==========>>>>>>Evaluation Loss TEST: 50.47785949707031
+2020-05-31 04:44:10,033 - INFO - ==========>>>>>>Evaluation WER TEST:  58.96%
+2020-05-31 04:44:10,034 - INFO - Evaluation time: 0.8622028827667236 seconds
+2020-05-31 04:44:10,092 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3500.pt
+2020-05-31 04:44:16,379 - INFO - Step: 3525
+2020-05-31 04:44:16,383 - INFO - Loss: 35.7154541015625
+2020-05-31 04:44:16,384 - INFO - training_batch_WER:  45.28%
+2020-05-31 04:44:16,384 - INFO - Prediction: dejvid kien ikollu quddiem id-dar tiegħu jistennawh fil-karozza imlebilba għal naqra ħaxijxa
+2020-05-31 04:44:16,384 - INFO - Reference: dejvid kien ikollu quddiem id-dar tiegħu jistennewh fil-karozza imlebilba għal naqra ħaxixa
+2020-05-31 04:44:16,384 - INFO - Step time: 0.23537087440490723 seconds
+2020-05-31 04:44:22,765 - INFO - Step: 3550
+2020-05-31 04:44:22,770 - INFO - Loss: 23.6173095703125
+2020-05-31 04:44:22,770 - INFO - training_batch_WER:  34.94%
+2020-05-31 04:44:22,770 - INFO - Prediction: majbulux fil-loki tagħna
+2020-05-31 04:44:22,770 - INFO - Reference: ma jbulx fil-loki tagħna
+2020-05-31 04:44:22,770 - INFO - Step time: 0.25694727897644043 seconds
+2020-05-31 04:44:22,957 - INFO - Finished epoch 23 in 38.31216740608215
+2020-05-31 04:44:22,958 - INFO - Starting epoch 24
+2020-05-31 04:44:29,102 - INFO - Step: 3575
+2020-05-31 04:44:29,107 - INFO - Loss: 27.342124938964844
+2020-05-31 04:44:29,107 - INFO - training_batch_WER:  33.78%
+2020-05-31 04:44:29,107 - INFO - Prediction: imma aktar ma daħal il-jum aktar bdejt nimtela biswiet ta' qalb
+2020-05-31 04:44:29,107 - INFO - Reference: imma aktar ma daħal il-jum aktar bdejt nimtela bi swied ta' qalb
+2020-05-31 04:44:29,107 - INFO - Step time: 0.2381119728088379 seconds
+2020-05-31 04:44:35,312 - INFO - Step: 3600
+2020-05-31 04:44:35,317 - INFO - Loss: 20.840106964111328
+2020-05-31 04:44:35,317 - INFO - training_batch_WER:  29.04%
+2020-05-31 04:44:35,317 - INFO - Prediction: kien għadu ma ġiex  tiegħu mija fil-mija sakemm ħin minnhom tefa siequ f' dik li ħaseb li kienet għadira oħra
+2020-05-31 04:44:35,317 - INFO - Reference: kien għadu ma ġiex f' tiegħu mija fil-mija sakemm ħin minnhom tefa siequ f' dik li ħaseb li kienet għadira oħra
+2020-05-31 04:44:35,317 - INFO - Step time: 0.2512087821960449 seconds
+2020-05-31 04:44:35,374 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3600.pt
+2020-05-31 04:44:41,696 - INFO - Step: 3625
+2020-05-31 04:44:41,701 - INFO - Loss: 11.812788009643555
+2020-05-31 04:44:41,701 - INFO - training_batch_WER:  27.85%
+2020-05-31 04:44:41,701 - INFO - Prediction: kemm u kmandament kien kiser
+2020-05-31 04:44:41,701 - INFO - Reference: kemm u kmandament kien kiser
+2020-05-31 04:44:41,701 - INFO - Step time: 0.26167798042297363 seconds
+2020-05-31 04:44:48,019 - INFO - Step: 3650
+2020-05-31 04:44:48,023 - INFO - Loss: 12.53805160522461
+2020-05-31 04:44:48,024 - INFO - training_batch_WER:  29.87%
+2020-05-31 04:44:48,024 - INFO - Prediction: min jaf kemm se jinkorla la jsib il-paġni mqattħijn
+2020-05-31 04:44:48,024 - INFO - Reference: min jaf kemm se jinkorla la jsib il-paġni mqattgħin
+2020-05-31 04:44:48,024 - INFO - Step time: 0.25608325004577637 seconds
+2020-05-31 04:44:54,363 - INFO - Step: 3675
+2020-05-31 04:44:54,368 - INFO - Loss: 11.419288635253906
+2020-05-31 04:44:54,368 - INFO - training_batch_WER:  24.59%
+2020-05-31 04:44:54,368 - INFO - Prediction: matul il-jiem ta' wara ma deher ebda progress fil-kundizzjoni ta' mastru gerfix
+2020-05-31 04:44:54,368 - INFO - Reference: matul il-jiem ta' wara ma deher ebda progress fil-kundizzjoni ta' mastru gerfex
+2020-05-31 04:44:54,368 - INFO - Step time: 0.22805404663085938 seconds
+2020-05-31 04:45:00,311 - INFO - Finished epoch 24 in 37.353599548339844
+2020-05-31 04:45:00,312 - INFO - Starting epoch 25
+2020-05-31 04:45:00,586 - INFO - Step: 3700
+2020-05-31 04:45:00,591 - INFO - Loss: 19.448505401611328
+2020-05-31 04:45:00,591 - INFO - training_batch_WER:  29.58%
+2020-05-31 04:45:00,591 - INFO - Prediction: mattew kemm inkunu ninħabbu
+2020-05-31 04:45:00,591 - INFO - Reference: mattew kemm inkunu ninħabbu
+2020-05-31 04:45:00,591 - INFO - Step time: 0.25803208351135254 seconds
+2020-05-31 04:45:00,649 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3700.pt
+2020-05-31 04:45:06,986 - INFO - Step: 3725
+2020-05-31 04:45:06,990 - INFO - Loss: 16.599414825439453
+2020-05-31 04:45:06,990 - INFO - training_batch_WER:  28.57%
+2020-05-31 04:45:06,990 - INFO - Prediction: fil-ħwienet l-aktar għax jgħidlu attent ma tkisserxejn għax ikollna nħallsu
+2020-05-31 04:45:06,990 - INFO - Reference: fil-ħwienet l-aktar għax jgħidlu attent ma tkisser xejn għax ikollna nħallsu
+2020-05-31 04:45:06,990 - INFO - Step time: 0.22513198852539062 seconds
+2020-05-31 04:45:13,312 - INFO - Step: 3750
+2020-05-31 04:45:13,316 - INFO - Loss: 27.227237701416016
+2020-05-31 04:45:13,316 - INFO - training_batch_WER:  27.59%
+2020-05-31 04:45:13,316 - INFO - Prediction: kien hemm ħafna perikli mistura u dak li jidher l-iktar sempliċi jista' jkun l-iktar kumpless
+2020-05-31 04:45:13,316 - INFO - Reference: kien hemm ħafna perikli mistura u dak li jidher l-iktar sempliċi jista' jkun l-iktar kumpless
+2020-05-31 04:45:13,317 - INFO - Step time: 0.21396851539611816 seconds
+2020-05-31 04:45:19,715 - INFO - Step: 3775
+2020-05-31 04:45:19,721 - INFO - Loss: 18.558977127075195
+2020-05-31 04:45:19,721 - INFO - training_batch_WER:  33.72%
+2020-05-31 04:45:19,721 - INFO - Prediction: kien ilu t-triq kollha jaħseb kif se jjgħidlu bil-pjan li kien qed ifassal-uftit induna li tomas kien kemxejn imħasseb il-lejla
+2020-05-31 04:45:19,721 - INFO - Reference: kien ilu t-triq kollha jaħseb kif se jgħidlu bil-pjan li kien qed ifassal u ftit induna li tomas kien kemxejn imħasseb illejla
+2020-05-31 04:45:19,722 - INFO - Step time: 0.24311470985412598 seconds
+2020-05-31 04:45:26,179 - INFO - Step: 3800
+2020-05-31 04:45:26,183 - INFO - Loss: 28.20191764831543
+2020-05-31 04:45:26,183 - INFO - training_batch_WER:  31.00%
+2020-05-31 04:45:26,184 - INFO - Prediction: ġo rokna dhearlu  li ral' għajnejn kbar tal-gidi
+2020-05-31 04:45:26,184 - INFO - Reference: ġo rokna deherlu li ra l-għajnejn kbar tal-gidi
+2020-05-31 04:45:26,184 - INFO - Step time: 0.259967565536499 seconds
+2020-05-31 04:45:26,240 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3800.pt
+2020-05-31 04:45:32,426 - INFO - Step: 3825
+2020-05-31 04:45:32,431 - INFO - Loss: 22.052860260009766
+2020-05-31 04:45:32,431 - INFO - training_batch_WER:  33.24%
+2020-05-31 04:45:32,431 - INFO - Prediction: waqa'f quddiemna fit-triq bejn l-għalqa u d-dar vann a bjad bis-sadid mat-truf u ħareġ raġel liebes flokk biċċingi mtebba
+2020-05-31 04:45:32,431 - INFO - Reference: waqaf quddiemna fit-triq bejn l-għalqa u d-dar vann abjad bis-sadid mat-truf u ħareġ raġel liebes flokk biċ-ċingi mtebba'
+2020-05-31 04:45:32,431 - INFO - Step time: 0.2305154800415039 seconds
+2020-05-31 04:45:38,037 - INFO - Finished epoch 25 in 37.72505712509155
+2020-05-31 04:45:38,038 - INFO - Starting epoch 26
+2020-05-31 04:45:38,702 - INFO - Step: 3850
+2020-05-31 04:45:38,706 - INFO - Loss: 8.846698760986328
+2020-05-31 04:45:38,706 - INFO - training_batch_WER:  24.77%
+2020-05-31 04:45:38,707 - INFO - Prediction: qaluli biex niġi nara lil leli nerihilu u ngħid grazzi lilu wkoll
+2020-05-31 04:45:38,707 - INFO - Reference: qaluli biex niġi nara lil leli nurihielu u ngħid grazzi lilu wkoll
+2020-05-31 04:45:38,707 - INFO - Step time: 0.20861148834228516 seconds
+2020-05-31 04:45:44,998 - INFO - Step: 3875
+2020-05-31 04:45:45,002 - INFO - Loss: 7.604833602905273
+2020-05-31 04:45:45,002 - INFO - training_batch_WER:  26.49%
+2020-05-31 04:45:45,002 - INFO - Prediction: grazzja kienet ħadet in-nar
+2020-05-31 04:45:45,002 - INFO - Reference: grazzja kienet ħadet in-nar
+2020-05-31 04:45:45,002 - INFO - Step time: 0.24533581733703613 seconds
+2020-05-31 04:45:51,259 - INFO - Step: 3900
+2020-05-31 04:45:51,265 - INFO - Loss: 24.853256225585938
+2020-05-31 04:45:51,265 - INFO - training_batch_WER:  35.40%
+2020-05-31 04:45:51,265 - INFO - Prediction: illu m għadux ikollhom ħafna ġlied u anki ekk ma jaqblux f' kollox f' kollox xorta waħda jirrispettaw ħafna lil xulxin
+2020-05-31 04:45:51,265 - INFO - Reference: illum m' għadux ikollhom ħafna ġlied u anki jekk ma jaqblux f' kollox f' kollox xorta waħda jirrispettaw ħafna lil xulxin
+2020-05-31 04:45:51,265 - INFO - Step time: 0.23957443237304688 seconds
+2020-05-31 04:45:51,323 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-3900.pt
+2020-05-31 04:45:57,599 - INFO - Step: 3925
+2020-05-31 04:45:57,603 - INFO - Loss: 17.189090728759766
+2020-05-31 04:45:57,603 - INFO - training_batch_WER:  29.53%
+2020-05-31 04:45:57,603 - INFO - Prediction: influwenza indiretta
+2020-05-31 04:45:57,603 - INFO - Reference: influwenza indiretta
+2020-05-31 04:45:57,604 - INFO - Step time: 0.23830294609069824 seconds
+2020-05-31 04:46:04,055 - INFO - Step: 3950
+2020-05-31 04:46:04,059 - INFO - Loss: 10.096426010131836
+2020-05-31 04:46:04,059 - INFO - training_batch_WER:  27.91%
+2020-05-31 04:46:04,059 - INFO - Prediction: estella ma weġbitux mill-ewwel
+2020-05-31 04:46:04,059 - INFO - Reference: estella ma weġbitux mill-ewwel
+2020-05-31 04:46:04,059 - INFO - Step time: 0.2227330207824707 seconds
+2020-05-31 04:46:10,589 - INFO - Step: 3975
+2020-05-31 04:46:10,594 - INFO - Loss: 9.00783920288086
+2020-05-31 04:46:10,594 - INFO - training_batch_WER:  23.98%
+2020-05-31 04:46:10,594 - INFO - Prediction: xi tridni nagħmel wiġbu nazja filwaqt li rafa' spalleh u f arfar tfarrfira rasu qisu żimel riesaq taħt il-ħabel għat-tiġrija
+2020-05-31 04:46:10,594 - INFO - Reference: xi tridni nagħmel wieġbu nazju filwaqt li rafa' spallejh u farfar tfarfira rasu qisu żiemel riesaq taħt il-ħabel għat-tiġrija
+2020-05-31 04:46:10,594 - INFO - Step time: 0.2593708038330078 seconds
+2020-05-31 04:46:15,919 - INFO - Finished epoch 26 in 37.88134002685547
+2020-05-31 04:46:15,920 - INFO - Starting epoch 27
+2020-05-31 04:46:17,257 - INFO - Step: 4000
+2020-05-31 04:46:17,261 - INFO - Loss: 8.939302444458008
+2020-05-31 04:46:17,261 - INFO - training_batch_WER:  24.11%
+2020-05-31 04:46:17,261 - INFO - Prediction: f' waqt il- ħbit tal-bieragħ rajt taħdem għall-ewwel darba dik li hawn f' laskarisqisejħulha operejxin rum
+2020-05-31 04:46:17,261 - INFO - Reference: f' waqt il-ħ ħbit tal-bieraħ rajt taħdem għall-ewwel darba dik li hawn f' laskaris isejħulha operejxin rum
+2020-05-31 04:46:17,262 - INFO - Step time: 0.2615776062011719 seconds
+2020-05-31 04:46:17,262 - INFO - Doing Evaluation ..............................
+2020-05-31 04:46:18,049 - INFO - ==========>>>>>>Evaluation Loss TEST: 58.437416076660156
+2020-05-31 04:46:18,049 - INFO - ==========>>>>>>Evaluation WER TEST:  57.92%
+2020-05-31 04:46:18,049 - INFO - Evaluation time: 0.7873315811157227 seconds
+2020-05-31 04:46:18,107 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4000.pt
+2020-05-31 04:46:24,318 - INFO - Step: 4025
+2020-05-31 04:46:24,322 - INFO - Loss: 21.183727264404297
+2020-05-31 04:46:24,323 - INFO - training_batch_WER:  26.37%
+2020-05-31 04:46:24,323 - INFO - Prediction: biex immorru warajhom irridu nitilgħu 'l hinn 'il fuq u wrietu b' subgħajha li m naħa
+2020-05-31 04:46:24,323 - INFO - Reference: biex immorru warajhom irridu nitilgħu 'l hinn 'il fuq u wrietu b' subgħajha liema naħa
+2020-05-31 04:46:24,323 - INFO - Step time: 0.25109291076660156 seconds
+2020-05-31 04:46:30,777 - INFO - Step: 4050
+2020-05-31 04:46:30,781 - INFO - Loss: 15.332918167114258
+2020-05-31 04:46:30,781 - INFO - training_batch_WER:  26.85%
+2020-05-31 04:46:30,781 - INFO - Prediction: għal ħdin il-biċċa xogħol poġġa l-injama fuq bamketta kif kien jagħmel missieru
+2020-05-31 04:46:30,781 - INFO - Reference: għal ħdin il-biċċa xogħol poġtġa l-injama fuq banketta kif kien jagħmel missieru
+2020-05-31 04:46:30,781 - INFO - Step time: 0.22391605377197266 seconds
+2020-05-31 04:46:37,162 - INFO - Step: 4075
+2020-05-31 04:46:37,166 - INFO - Loss: 7.356411457061768
+2020-05-31 04:46:37,166 - INFO - training_batch_WER:  25.66%
+2020-05-31 04:46:37,167 - INFO - Prediction: met għaddietlu d-daħqa fader petrik qall
+2020-05-31 04:46:37,167 - INFO - Reference: met għaddietlu d-daħqa fader petrik qall
+2020-05-31 04:46:37,167 - INFO - Step time: 0.2495436668395996 seconds
+2020-05-31 04:46:43,628 - INFO - Step: 4100
+2020-05-31 04:46:43,632 - INFO - Loss: 23.5020809173584
+2020-05-31 04:46:43,632 - INFO - training_batch_WER:  35.51%
+2020-05-31 04:46:43,632 - INFO - Prediction: tkunx tifelżgħir
+2020-05-31 04:46:43,632 - INFO - Reference: tkunx tifel żgħir
+2020-05-31 04:46:43,632 - INFO - Step time: 0.23726105690002441 seconds
+2020-05-31 04:46:43,689 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4100.pt
+2020-05-31 04:46:50,017 - INFO - Step: 4125
+2020-05-31 04:46:50,022 - INFO - Loss: 37.613525390625
+2020-05-31 04:46:50,022 - INFO - training_batch_WER:  43.32%
+2020-05-31 04:46:50,022 - INFO - Prediction: wieħed u ħamsin l-inbid ta' kuljum ġanna tiegħi
+2020-05-31 04:46:50,022 - INFO - Reference: wieħed u ħamsin i-inbid ta' kuljum ġenna tiegħi
+2020-05-31 04:46:50,022 - INFO - Step time: 0.22473740577697754 seconds
+2020-05-31 04:46:54,771 - INFO - Finished epoch 27 in 38.83591651916504
+2020-05-31 04:46:54,771 - INFO - Starting epoch 28
+2020-05-31 04:46:56,496 - INFO - Step: 4150
+2020-05-31 04:46:56,501 - INFO - Loss: 15.12675666809082
+2020-05-31 04:46:56,501 - INFO - training_batch_WER:  27.70%
+2020-05-31 04:46:56,501 - INFO - Prediction: għala le
+2020-05-31 04:46:56,501 - INFO - Reference: għala le
+2020-05-31 04:46:56,501 - INFO - Step time: 0.23320794105529785 seconds
+2020-05-31 04:47:03,108 - INFO - Step: 4175
+2020-05-31 04:47:03,113 - INFO - Loss: 10.02170181274414
+2020-05-31 04:47:03,113 - INFO - training_batch_WER:  23.31%
+2020-05-31 04:47:03,113 - INFO - Prediction: imma ma setax
+2020-05-31 04:47:03,113 - INFO - Reference: imma ma setax
+2020-05-31 04:47:03,113 - INFO - Step time: 0.2566702365875244 seconds
+2020-05-31 04:47:09,284 - INFO - Step: 4200
+2020-05-31 04:47:09,289 - INFO - Loss: 29.406333923339844
+2020-05-31 04:47:09,289 - INFO - training_batch_WER:  35.86%
+2020-05-31 04:47:09,289 - INFO - Prediction: u ħafna logħobu attenzjoni biex tara x tgħid u biex lil kulħaddt għ tih li hu tiegħu
+2020-05-31 04:47:09,289 - INFO - Reference: u ħafna lgħobu attenzjonin biex tara x' tgħid u biex lil kulħadd tgħ tih li hu tiegħu
+2020-05-31 04:47:09,289 - INFO - Step time: 0.23661136627197266 seconds
+2020-05-31 04:47:09,346 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4200.pt
+2020-05-31 04:47:15,550 - INFO - Step: 4225
+2020-05-31 04:47:15,554 - INFO - Loss: 10.254693984985352
+2020-05-31 04:47:15,554 - INFO - training_batch_WER:  25.29%
+2020-05-31 04:47:15,554 - INFO - Prediction: hemm dawk stel antik
+2020-05-31 04:47:15,554 - INFO - Reference: hemm dawk stil antik
+2020-05-31 04:47:15,555 - INFO - Step time: 0.22387003898620605 seconds
+2020-05-31 04:47:21,856 - INFO - Step: 4250
+2020-05-31 04:47:21,861 - INFO - Loss: 11.470623016357422
+2020-05-31 04:47:21,861 - INFO - training_batch_WER:  18.64%
+2020-05-31 04:47:21,861 - INFO - Prediction: giddieb
+2020-05-31 04:47:21,861 - INFO - Reference: giddieb
+2020-05-31 04:47:21,861 - INFO - Step time: 0.2528061866760254 seconds
+2020-05-31 04:47:28,089 - INFO - Step: 4275
+2020-05-31 04:47:28,093 - INFO - Loss: 13.266271591186523
+2020-05-31 04:47:28,093 - INFO - training_batch_WER:  23.53%
+2020-05-31 04:47:28,093 - INFO - Prediction: imbagħad ommi resqħet fuqu ġi għalija
+2020-05-31 04:47:28,093 - INFO - Reference: imbagħad ommi resqet fuqu u ġie għalija
+2020-05-31 04:47:28,094 - INFO - Step time: 0.23865985870361328 seconds
+2020-05-31 04:47:31,988 - INFO - Finished epoch 28 in 37.21663999557495
+2020-05-31 04:47:31,988 - INFO - Starting epoch 29
+2020-05-31 04:47:34,129 - INFO - Step: 4300
+2020-05-31 04:47:34,133 - INFO - Loss: 12.793889999389648
+2020-05-31 04:47:34,151 - INFO - training_batch_WER:  23.78%
+2020-05-31 04:47:34,151 - INFO - Prediction: l-ewwel darba li waqagħlu l-mobile kien tort tal-lki
+2020-05-31 04:47:34,151 - INFO - Reference: l-ewwel darba li waqagħlu l-mobile kien tort tal-loki
+2020-05-31 04:47:34,151 - INFO - Step time: 0.24983978271484375 seconds
+2020-05-31 04:47:34,214 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4300.pt
+2020-05-31 04:47:40,572 - INFO - Step: 4325
+2020-05-31 04:47:40,575 - INFO - Loss: 13.64598560333252
+2020-05-31 04:47:40,576 - INFO - training_batch_WER:  25.93%
+2020-05-31 04:47:40,576 - INFO - Prediction: f tit sekondi wara reġa' mar lura ħdejn sħabu
+2020-05-31 04:47:40,576 - INFO - Reference: ftit sekondi wara reġa' mar lura ħdejn sħabu
+2020-05-31 04:47:40,576 - INFO - Step time: 0.21235299110412598 seconds
+2020-05-31 04:47:46,912 - INFO - Step: 4350
+2020-05-31 04:47:46,916 - INFO - Loss: 13.032082557678223
+2020-05-31 04:47:46,916 - INFO - training_batch_WER:  23.60%
+2020-05-31 04:47:46,916 - INFO - Prediction: fj hemm dawk l-isteps imbagħad f' ċurtu punt roberto liebes ta' mummja b' ħafna faxux imdawrin miegħu waqaf qabad miexi lejn il-wirdien
+2020-05-31 04:47:46,916 - INFO - Reference: fejn hemm dawk l-isteps imbagħad f' ċertu punt roberto liebes ta' mummja b' ħafna faxex imdawrin miegħu waqaf u qabad miexi lejn il-wirdien
+2020-05-31 04:47:46,917 - INFO - Step time: 0.23805475234985352 seconds
+2020-05-31 04:47:53,323 - INFO - Step: 4375
+2020-05-31 04:47:53,327 - INFO - Loss: 14.952908515930176
+2020-05-31 04:47:53,327 - INFO - training_batch_WER:  24.45%
+2020-05-31 04:47:53,327 - INFO - Prediction: il-kilba li jiċċaqlaq ftit rasu lejha u jbusha imqar fuq ħaddejha kienet fnietu
+2020-05-31 04:47:53,327 - INFO - Reference: il-kilba li jċaqlaq ftit rasu lejha u jbusha imqar fuq ħaddejha kienet fnietu
+2020-05-31 04:47:53,327 - INFO - Step time: 0.21854472160339355 seconds
+2020-05-31 04:47:59,624 - INFO - Step: 4400
+2020-05-31 04:47:59,628 - INFO - Loss: 6.022340297698975
+2020-05-31 04:47:59,628 - INFO - training_batch_WER:  24.81%
+2020-05-31 04:47:59,628 - INFO - Prediction: u reġa' qallha iva għal kollox
+2020-05-31 04:47:59,628 - INFO - Reference: u reġa' qallha iva għal kollox
+2020-05-31 04:47:59,628 - INFO - Step time: 0.2505788803100586 seconds
+2020-05-31 04:47:59,685 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4400.pt
+2020-05-31 04:48:06,146 - INFO - Step: 4425
+2020-05-31 04:48:06,151 - INFO - Loss: 10.46456241607666
+2020-05-31 04:48:06,151 - INFO - training_batch_WER:  26.22%
+2020-05-31 04:48:06,151 - INFO - Prediction: xon kien għadu kwiet
+2020-05-31 04:48:06,151 - INFO - Reference: xon kien għadu kwiet
+2020-05-31 04:48:06,151 - INFO - Step time: 0.22338390350341797 seconds
+2020-05-31 04:48:09,615 - INFO - Finished epoch 29 in 37.62661409378052
+2020-05-31 04:48:09,615 - INFO - Starting epoch 30
+2020-05-31 04:48:12,470 - INFO - Step: 4450
+2020-05-31 04:48:12,474 - INFO - Loss: 26.494014739990234
+2020-05-31 04:48:12,475 - INFO - training_batch_WER:  29.27%
+2020-05-31 04:48:12,475 - INFO - Prediction: sur guljermu lorenzi b' erba' xieda fuq fuq kien qiegħed jieħu s-sentenza tal-mewt bħala kap tal-konfoffa
+2020-05-31 04:48:12,475 - INFO - Reference: sur guljermu lorenzi b' erba' xiehda fuq fuq kien qiegħed jieħu s-sentenza tal-mewt bħala kap tal-konfoffa
+2020-05-31 04:48:12,475 - INFO - Step time: 0.25423645973205566 seconds
+2020-05-31 04:48:18,889 - INFO - Step: 4475
+2020-05-31 04:48:18,894 - INFO - Loss: 6.362715721130371
+2020-05-31 04:48:18,894 - INFO - training_batch_WER:  15.59%
+2020-05-31 04:48:18,894 - INFO - Prediction: u t-tadama maltzija ġiet iddikjarata bħala l-aqwa tadama ewropeja l-aqwa ta'dama għall-aqwa zalza
+2020-05-31 04:48:18,894 - INFO - Reference: u t-tadama maltija ġiet iddikjarata bħala l-aqwa tadama ewropeja l-aqwa tadama għall-aqwa zalza
+2020-05-31 04:48:18,894 - INFO - Step time: 0.24045348167419434 seconds
+2020-05-31 04:48:25,367 - INFO - Step: 4500
+2020-05-31 04:48:25,372 - INFO - Loss: 29.317890167236328
+2020-05-31 04:48:25,372 - INFO - training_batch_WER:  35.71%
+2020-05-31 04:48:25,372 - INFO - Prediction: u kien biss meta ċeda li bdiet tassew taħdem l-azzjoni ta' vitanova
+2020-05-31 04:48:25,372 - INFO - Reference: u kien biss meta ċeda li bdiet tassew taħdem l-azzjoni ta' vitanova
+2020-05-31 04:48:25,372 - INFO - Step time: 0.26587796211242676 seconds
+2020-05-31 04:48:25,373 - INFO - Doing Evaluation ..............................
+2020-05-31 04:48:26,210 - INFO - ==========>>>>>>Evaluation Loss TEST: 60.08366394042969
+2020-05-31 04:48:26,210 - INFO - ==========>>>>>>Evaluation WER TEST:  59.30%
+2020-05-31 04:48:26,210 - INFO - Evaluation time: 0.8375482559204102 seconds
+2020-05-31 04:48:26,280 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4500.pt
+2020-05-31 04:48:32,553 - INFO - Step: 4525
+2020-05-31 04:48:32,557 - INFO - Loss: 30.95433807373047
+2020-05-31 04:48:32,557 - INFO - training_batch_WER:  36.52%
+2020-05-31 04:48:32,557 - INFO - Prediction: darba min-nhom malli jiena u renè tlajna fl-istudju tiegħu xi ħadd minna kien staqsieh xi ħaġa fuq xi artiss
+2020-05-31 04:48:32,557 - INFO - Reference: darba min-nhom malli jiena u renè tlajna fl-istudju tiegħu xi ħadd minna kien staqsieh xi ħaġa fuq xi artist
+2020-05-31 04:48:32,557 - INFO - Step time: 0.24531865119934082 seconds
+2020-05-31 04:48:38,864 - INFO - Step: 4550
+2020-05-31 04:48:38,869 - INFO - Loss: 20.973163604736328
+2020-05-31 04:48:38,869 - INFO - training_batch_WER:  30.03%
+2020-05-31 04:48:38,869 - INFO - Prediction: xejn dejjem xejn
+2020-05-31 04:48:38,869 - INFO - Reference: xejn dejjem xejn
+2020-05-31 04:48:38,869 - INFO - Step time: 0.2622566223144531 seconds
+2020-05-31 04:48:45,256 - INFO - Step: 4575
+2020-05-31 04:48:45,260 - INFO - Loss: 8.128189086914062
+2020-05-31 04:48:45,260 - INFO - training_batch_WER:  28.38%
+2020-05-31 04:48:45,260 - INFO - Prediction: pawru żamit marwaqqaf l-azzerin mal-ħajt tgħanna ma nazju u qallu naħliflek
+2020-05-31 04:48:45,260 - INFO - Reference: pawlu zammit mar waqqaf l-azzarin mal-ħajt tgħannaq ma' nazju u qallu naħliflek
+2020-05-31 04:48:45,261 - INFO - Step time: 0.2683694362640381 seconds
+2020-05-31 04:48:48,126 - INFO - Finished epoch 30 in 38.5097758769989
+2020-05-31 04:48:48,126 - INFO - Starting epoch 31
+2020-05-31 04:48:51,460 - INFO - Step: 4600
+2020-05-31 04:48:51,465 - INFO - Loss: 11.540122985839844
+2020-05-31 04:48:51,465 - INFO - training_batch_WER:  27.41%
+2020-05-31 04:48:51,465 - INFO - Prediction: meta idek marret inkiss inkissgħal sidirha ma waqfitekx
+2020-05-31 04:48:51,465 - INFO - Reference: meta idek marret inkiss inkiss għal sidirha ma waqqfitekx
+2020-05-31 04:48:51,465 - INFO - Step time: 0.2480165958404541 seconds
+2020-05-31 04:48:51,522 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4600.pt
+2020-05-31 04:48:57,785 - INFO - Step: 4625
+2020-05-31 04:48:57,790 - INFO - Loss: 23.257022857666016
+2020-05-31 04:48:57,790 - INFO - training_batch_WER:  38.27%
+2020-05-31 04:48:57,790 - INFO - Prediction: żqa bx inkomwar lazoni gkatlikai-midinżidli għalekemm kienu jafduna għar-relis talġonta
+2020-05-31 04:48:57,790 - INFO - Reference: iżda biex inkompli dwar l-azzjoni kattolika irrid inżid illi għalkemm kienu jeħduna għar-relis tal-ġunta
+2020-05-31 04:48:57,790 - INFO - Step time: 0.2546842098236084 seconds
+2020-05-31 04:49:04,166 - INFO - Step: 4650
+2020-05-31 04:49:04,170 - INFO - Loss: 15.962505340576172
+2020-05-31 04:49:04,171 - INFO - training_batch_WER:  29.29%
+2020-05-31 04:49:04,171 - INFO - Prediction: kien fuq ekk jagli għal ibnu u jgħid il-li jidher iblah min iħalliq il-
+2020-05-31 04:49:04,171 - INFO - Reference: kien fuq hekk jagħli għal ibnu u jgħid illi jidher iblah min iħalliq il-l
+2020-05-31 04:49:04,171 - INFO - Step time: 0.22719907760620117 seconds
+2020-05-31 04:49:10,429 - INFO - Step: 4675
+2020-05-31 04:49:10,434 - INFO - Loss: 17.668537139892578
+2020-05-31 04:49:10,434 - INFO - training_batch_WER:  27.22%
+2020-05-31 04:49:10,434 - INFO - Prediction: u fil-ferita ma kienx tumur imma lanqas ftuq
+2020-05-31 04:49:10,434 - INFO - Reference: u fil-verità ma kienx tumur imma lanqas ftuq
+2020-05-31 04:49:10,435 - INFO - Step time: 0.24500179290771484 seconds
+2020-05-31 04:49:16,929 - INFO - Step: 4700
+2020-05-31 04:49:16,935 - INFO - Loss: 16.380859375
+2020-05-31 04:49:16,935 - INFO - training_batch_WER:  24.81%
+2020-05-31 04:49:16,935 - INFO - Prediction: flieta minn kull lgat sakemm skopriet li l-injama ta' ġewwa setgħet tinqala'
+2020-05-31 04:49:16,935 - INFO - Reference: flietha minn kull lgħat sakemm skopriet li l-injama ta' ġewwa setgħet tinqala'
+2020-05-31 04:49:16,935 - INFO - Step time: 0.2648122310638428 seconds
+2020-05-31 04:49:16,991 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4700.pt
+2020-05-31 04:49:23,394 - INFO - Step: 4725
+2020-05-31 04:49:23,399 - INFO - Loss: 16.06781768798828
+2020-05-31 04:49:23,399 - INFO - training_batch_WER:  30.99%
+2020-05-31 04:49:23,399 - INFO - Prediction: imma dak il-ħin xtaqet taqsaq maħha l-mument li kien ġej
+2020-05-31 04:49:23,399 - INFO - Reference: imma dak il-ħin xtaqet taqsam magħha l-mument li kien ġej
+2020-05-31 04:49:23,399 - INFO - Step time: 0.23511695861816406 seconds
+2020-05-31 04:49:25,767 - INFO - Finished epoch 31 in 37.64128303527832
+2020-05-31 04:49:25,768 - INFO - Starting epoch 32
+2020-05-31 04:49:29,564 - INFO - Step: 4750
+2020-05-31 04:49:29,568 - INFO - Loss: 11.1409912109375
+2020-05-31 04:49:29,568 - INFO - training_batch_WER:  34.11%
+2020-05-31 04:49:29,568 - INFO - Prediction: kulħadd minbarra estell- estella
+2020-05-31 04:49:29,568 - INFO - Reference: kulħadd minbarra estell-estella
+2020-05-31 04:49:29,568 - INFO - Step time: 0.22522616386413574 seconds
+2020-05-31 04:49:35,957 - INFO - Step: 4775
+2020-05-31 04:49:35,961 - INFO - Loss: 8.66440200805664
+2020-05-31 04:49:35,961 - INFO - training_batch_WER:  26.37%
+2020-05-31 04:49:35,961 - INFO - Prediction: x' ġora mbagħad mill-felluga minn-nisa tagħha mix-xebba ma nafx meta bdejt xiftb nisb
+2020-05-31 04:49:35,961 - INFO - Reference: x' ġara mbagħad mill-felluga min-nisa tagħha mix-xebba ma nafx meta bdejt xi ftit nisqb
+2020-05-31 04:49:35,961 - INFO - Step time: 0.23569536209106445 seconds
+2020-05-31 04:49:42,207 - INFO - Step: 4800
+2020-05-31 04:49:42,211 - INFO - Loss: 9.248414993286133
+2020-05-31 04:49:42,212 - INFO - training_batch_WER:  22.74%
+2020-05-31 04:49:42,212 - INFO - Prediction: li jaħbad itarfilhom x' kiene il-laqgħa tiegħu ma ċensu brared biex forsi jintebħu li ma kienx raġel faċċoll kif għasbu
+2020-05-31 04:49:42,212 - INFO - Reference: li jaħba itarrfilhom x' kienet il-laqgħa tiegħu ma ċensu brared biex forsi jintebħu li ma kienx raġel faċċol kif għasbu
+2020-05-31 04:49:42,212 - INFO - Step time: 0.25157594680786133 seconds
+2020-05-31 04:49:42,269 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4800.pt
+2020-05-31 04:49:48,708 - INFO - Step: 4825
+2020-05-31 04:49:48,712 - INFO - Loss: 12.391432762145996
+2020-05-31 04:49:48,712 - INFO - training_batch_WER:  28.35%
+2020-05-31 04:49:48,712 - INFO - Prediction: konsider d ġinpul
+2020-05-31 04:49:48,712 - INFO - Reference: konsider d ġin pul
+2020-05-31 04:49:48,712 - INFO - Step time: 0.22210025787353516 seconds
+2020-05-31 04:49:55,042 - INFO - Step: 4850
+2020-05-31 04:49:55,046 - INFO - Loss: 13.967367172241211
+2020-05-31 04:49:55,046 - INFO - training_batch_WER:  26.61%
+2020-05-31 04:49:55,046 - INFO - Prediction: kienu ħafna ikbar
+2020-05-31 04:49:55,046 - INFO - Reference: kienu ħafna ikbar
+2020-05-31 04:49:55,046 - INFO - Step time: 0.24730730056762695 seconds
+2020-05-31 04:50:01,287 - INFO - Step: 4875
+2020-05-31 04:50:01,292 - INFO - Loss: 13.121789932250977
+2020-05-31 04:50:01,293 - INFO - training_batch_WER:  26.72%
+2020-05-31 04:50:01,293 - INFO - Prediction: ingeterra pellegino u tomew fost id-dmugħ li kien nieżel ma' wiċċhom
+2020-05-31 04:50:01,293 - INFO - Reference: inguterra pellegrino u tommew fost id-dmugħ li kien nieżel ma' wiċċhom
+2020-05-31 04:50:01,293 - INFO - Step time: 0.24169540405273438 seconds
+2020-05-31 04:50:03,246 - INFO - Finished epoch 32 in 37.47793412208557
+2020-05-31 04:50:03,246 - INFO - Starting epoch 33
+2020-05-31 04:50:07,861 - INFO - Step: 4900
+2020-05-31 04:50:07,866 - INFO - Loss: 9.09170150756836
+2020-05-31 04:50:07,866 - INFO - training_batch_WER:  19.88%
+2020-05-31 04:50:07,866 - INFO - Prediction: iz-ziju mikiel sab opportunità tajba biex jibki bikja bil-qalb waħda kemxejn torbjuża kif kien iħobb hu
+2020-05-31 04:50:07,866 - INFO - Reference: iz-ziju mikiel sab opportunità tajba biex jibki bikja bil-qalb waħda kemxejn storbjuża kif kien iħobb hu
+2020-05-31 04:50:07,866 - INFO - Step time: 0.2355823516845703 seconds
+2020-05-31 04:50:07,923 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-4900.pt
+2020-05-31 04:50:14,551 - INFO - Step: 4925
+2020-05-31 04:50:14,556 - INFO - Loss: 34.59518051147461
+2020-05-31 04:50:14,556 - INFO - training_batch_WER:  36.02%
+2020-05-31 04:50:14,556 - INFO - Prediction: bada jgerger kristjan li xejn ma kien japprzzah ix-xahar ta'frar li kull sena kien iġib miegħu din l-inbierka attinvità
+2020-05-31 04:50:14,556 - INFO - Reference: bada jgerger kristjan li xejn ma kien japprzzah ix-xahar ta' frar li kull sena kien iġib miegħu din l-imbierka attinvità
+2020-05-31 04:50:14,556 - INFO - Step time: 0.2339487075805664 seconds
+2020-05-31 04:50:20,819 - INFO - Step: 4950
+2020-05-31 04:50:20,824 - INFO - Loss: 16.326749801635742
+2020-05-31 04:50:20,824 - INFO - training_batch_WER:  24.36%
+2020-05-31 04:50:20,824 - INFO - Prediction: din l-għamla ta' mostru bla del kienet tinħass tnixxifha minn ġewwa
+2020-05-31 04:50:20,824 - INFO - Reference: din l-għamla ta' mostru bla dell kienet tinħass tnixxifha minn ġewwa
+2020-05-31 04:50:20,824 - INFO - Step time: 0.270841121673584 seconds
+2020-05-31 04:50:27,111 - INFO - Step: 4975
+2020-05-31 04:50:27,115 - INFO - Loss: 7.126560211181641
+2020-05-31 04:50:27,115 - INFO - training_batch_WER:  23.17%
+2020-05-31 04:50:27,115 - INFO - Prediction: imma issa ken ġieħħsiebiħor u l-oħrajn setgħu jisimgħah
+2020-05-31 04:50:27,115 - INFO - Reference: imma issa kien ġieh ħsieb ieħor u l-oħrajn setgħu jisimgħuh
+2020-05-31 04:50:27,116 - INFO - Step time: 0.2508563995361328 seconds
+2020-05-31 04:50:33,787 - INFO - Step: 5000
+2020-05-31 04:50:33,791 - INFO - Loss: 6.063385486602783
+2020-05-31 04:50:33,791 - INFO - training_batch_WER:  24.26%
+2020-05-31 04:50:33,791 - INFO - Prediction: dawn jistgħu j-jixjieħu bil-kalma kollha u jaċċetta bla ttfixkil it-tibdil kollu li jġibulhom is-snin
+2020-05-31 04:50:33,791 - INFO - Reference: dawn jistgħu j-jixjieħu bil-kalma kollha u jaċċettaw bla tfixkil it-tibdil kollu li jġibulhom is-snin
+2020-05-31 04:50:33,791 - INFO - Step time: 0.23597502708435059 seconds
+2020-05-31 04:50:33,792 - INFO - Doing Evaluation ..............................
+2020-05-31 04:50:34,586 - INFO - ==========>>>>>>Evaluation Loss TEST: 61.58415222167969
+2020-05-31 04:50:34,586 - INFO - ==========>>>>>>Evaluation WER TEST:  58.81%
+2020-05-31 04:50:34,587 - INFO - Evaluation time: 0.7948267459869385 seconds
+2020-05-31 04:50:34,645 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5000.pt
+2020-05-31 04:50:41,174 - INFO - Step: 5025
+2020-05-31 04:50:41,179 - INFO - Loss: 7.872000694274902
+2020-05-31 04:50:41,179 - INFO - training_batch_WER:  22.39%
+2020-05-31 04:50:41,179 - INFO - Prediction: u jgħidulek li s-sistema fewdali m' għadhiex magħna
+2020-05-31 04:50:41,179 - INFO - Reference: u jgħidulek li s-sistema fewdali m' għadhiex magħna
+2020-05-31 04:50:41,179 - INFO - Step time: 0.25672388076782227 seconds
+2020-05-31 04:50:42,615 - INFO - Finished epoch 33 in 39.368812084198
+2020-05-31 04:50:42,616 - INFO - Starting epoch 34
+2020-05-31 04:50:47,437 - INFO - Step: 5050
+2020-05-31 04:50:47,441 - INFO - Loss: 12.7391357421875
+2020-05-31 04:50:47,442 - INFO - training_batch_WER:  26.21%
+2020-05-31 04:50:47,442 - INFO - Prediction: kont tidħak bija
+2020-05-31 04:50:47,442 - INFO - Reference: kont tidħak bija
+2020-05-31 04:50:47,442 - INFO - Step time: 0.25882697105407715 seconds
+2020-05-31 04:50:53,723 - INFO - Step: 5075
+2020-05-31 04:50:53,728 - INFO - Loss: 9.056282043457031
+2020-05-31 04:50:53,728 - INFO - training_batch_WER:  24.77%
+2020-05-31 04:50:53,728 - INFO - Prediction: estella ma weġbitux mill-ewwel
+2020-05-31 04:50:53,728 - INFO - Reference: estella ma weġbitux mill-ewwel
+2020-05-31 04:50:53,728 - INFO - Step time: 0.20618939399719238 seconds
+2020-05-31 04:51:00,175 - INFO - Step: 5100
+2020-05-31 04:51:00,180 - INFO - Loss: 14.840075492858887
+2020-05-31 04:51:00,180 - INFO - training_batch_WER:  31.74%
+2020-05-31 04:51:00,180 - INFO - Prediction: u tid-darba qed jirnexxielu għall-ewwel darba u ta veru jagħtru u ġġibu krema ta-bniedem
+2020-05-31 04:51:00,180 - INFO - Reference: u did-darba qed jirnexxilu għall-ewwel darba u ta' veru jagħsru u jġibu krema ta-bniedem
+2020-05-31 04:51:00,180 - INFO - Step time: 0.26392602920532227 seconds
+2020-05-31 04:51:00,236 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5100.pt
+2020-05-31 04:51:06,738 - INFO - Step: 5125
+2020-05-31 04:51:06,743 - INFO - Loss: 9.491552352905273
+2020-05-31 04:51:06,743 - INFO - training_batch_WER:  20.17%
+2020-05-31 04:51:06,743 - INFO - Prediction: ma kienx għadda ħafna żmien minn meta ħassar minn rajh kul ħelm ta' ħbiberija minnaħa ma' nada
+2020-05-31 04:51:06,743 - INFO - Reference: ma kienx għadda ħafna żmien minn mata ħassar minn rajh kull għelm ta' ħbiberija minn ma' nada
+2020-05-31 04:51:06,743 - INFO - Step time: 0.25467729568481445 seconds
+2020-05-31 04:51:12,958 - INFO - Step: 5150
+2020-05-31 04:51:12,962 - INFO - Loss: 12.21079158782959
+2020-05-31 04:51:12,962 - INFO - training_batch_WER:  26.23%
+2020-05-31 04:51:12,962 - INFO - Prediction: imma did-darba kienet vuċi ta veru mhux f' moħħu biss
+2020-05-31 04:51:12,962 - INFO - Reference: imma did-darba kienet vuċi ta' veru mhux f' moħħu biss
+2020-05-31 04:51:12,962 - INFO - Step time: 0.2375025749206543 seconds
+2020-05-31 04:51:19,073 - INFO - Step: 5175
+2020-05-31 04:51:19,077 - INFO - Loss: 8.827413558959961
+2020-05-31 04:51:19,077 - INFO - training_batch_WER:  23.99%
+2020-05-31 04:51:19,077 - INFO - Prediction: mhux biss għax kellu wisq ħsibijiet dwar ġanni għaddejjinbla waqfin f moħħu iżda ana lieġ bilqiegħda ħdejh kien hemm żagħugħ li mid-dehra dan l-aħħar kien sar awtur ta' staffa
+2020-05-31 04:51:19,077 - INFO - Reference: mhux biss għax kellu wisqm ħsibijiet dwar ġanni għaddejjin bla waqfien f moħħu iżda anke l-għaliex bilqiegħda ħdejh kien hemm żagħżugħ li mid-dehra dan l-aħħar kien sar awtur ta' stffa
+2020-05-31 04:51:19,078 - INFO - Step time: 0.252979040145874 seconds
+2020-05-31 04:51:20,085 - INFO - Finished epoch 34 in 37.46923017501831
+2020-05-31 04:51:20,086 - INFO - Starting epoch 35
+2020-05-31 04:51:25,505 - INFO - Step: 5200
+2020-05-31 04:51:25,509 - INFO - Loss: 7.6994123458862305
+2020-05-31 04:51:25,509 - INFO - training_batch_WER:  23.20%
+2020-05-31 04:51:25,509 - INFO - Prediction: fl-aħħar estella kienet sabe d mezz kif tista' tikseb dak kollu litrid kulma qal kulma qatt xtaqet u ħolmot dwaru
+2020-05-31 04:51:25,509 - INFO - Reference: fl-aħħar estella kienet sabet mezz kif tista' tikseb dak kollu li trid kulma qalet kulma qatt xtaqet u ħolmot dwaru
+2020-05-31 04:51:25,509 - INFO - Step time: 0.24100995063781738 seconds
+2020-05-31 04:51:25,565 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5200.pt
+2020-05-31 04:51:31,806 - INFO - Step: 5225
+2020-05-31 04:51:31,810 - INFO - Loss: 9.876230239868164
+2020-05-31 04:51:31,810 - INFO - training_batch_WER:  22.32%
+2020-05-31 04:51:31,810 - INFO - Prediction: għamel sinjal b'rasu lis-segretarja biex tibda
+2020-05-31 04:51:31,810 - INFO - Reference: għamel sinjal b' rasu lis-segretarja biex tibda
+2020-05-31 04:51:31,810 - INFO - Step time: 0.20358562469482422 seconds
+2020-05-31 04:51:38,162 - INFO - Step: 5250
+2020-05-31 04:51:38,166 - INFO - Loss: 17.578275680541992
+2020-05-31 04:51:38,166 - INFO - training_batch_WER:  29.01%
+2020-05-31 04:51:38,166 - INFO - Prediction: taħseb li sħabek tat-teaħtu kienu se joqogħdu kwieti fuq storja bħal dik
+2020-05-31 04:51:38,166 - INFO - Reference: taħseb li sħabek tat-teatru kienu se joqogħdu kwieti fuq storja bħal dik
+2020-05-31 04:51:38,166 - INFO - Step time: 0.27199888229370117 seconds
+2020-05-31 04:51:44,263 - INFO - Step: 5275
+2020-05-31 04:51:44,268 - INFO - Loss: 5.907393455505371
+2020-05-31 04:51:44,268 - INFO - training_batch_WER:  20.67%
+2020-05-31 04:51:44,268 - INFO - Prediction: missieri kien l-eroj ta' tfuliti u għadu hekk sal-lum
+2020-05-31 04:51:44,268 - INFO - Reference: missieri kien l-eroj ta' tfuliti u għadu hekk sal-lum
+2020-05-31 04:51:44,268 - INFO - Step time: 0.22360563278198242 seconds
+2020-05-31 04:51:50,766 - INFO - Step: 5300
+2020-05-31 04:51:50,770 - INFO - Loss: 19.21162223815918
+2020-05-31 04:51:50,770 - INFO - training_batch_WER:  26.35%
+2020-05-31 04:51:50,770 - INFO - Prediction: għax hu ma jsqx b' lilsir iżjed imma jekk ma ijekk i rid joqgħod miegħu iżommu bħal għaddej fidill
+2020-05-31 04:51:50,770 - INFO - Reference: għax hu ma jsuqx b' ilsir iżjed imma jekk ma ijkk i rid joqgħod miegħu iżommu bħal qgħaddej fidiln
+2020-05-31 04:51:50,770 - INFO - Step time: 0.22919678688049316 seconds
+2020-05-31 04:51:50,827 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5300.pt
+2020-05-31 04:51:56,969 - INFO - Step: 5325
+2020-05-31 04:51:56,974 - INFO - Loss: 6.814635276794434
+2020-05-31 04:51:56,974 - INFO - training_batch_WER:  21.78%
+2020-05-31 04:51:56,974 - INFO - Prediction: ħaw ar swit
+2020-05-31 04:51:56,974 - INFO - Reference: ħaw ar swit
+2020-05-31 04:51:56,974 - INFO - Step time: 0.2740511894226074 seconds
+2020-05-31 04:51:57,395 - INFO - Finished epoch 35 in 37.308454751968384
+2020-05-31 04:51:57,395 - INFO - Starting epoch 36
+2020-05-31 04:52:03,166 - INFO - Step: 5350
+2020-05-31 04:52:03,170 - INFO - Loss: 7.916512489318848
+2020-05-31 04:52:03,170 - INFO - training_batch_WER:  27.04%
+2020-05-31 04:52:03,170 - INFO - Prediction: kull ftit ħin kien ed iqaras wiċċu qisu għandu l-gass jew xi darxa tuġu
+2020-05-31 04:52:03,170 - INFO - Reference: kull ftit ħin kien qed iqarras wiċċu qisu għandu l-gass jew xi darsa tuġgħu
+2020-05-31 04:52:03,170 - INFO - Step time: 0.24127936363220215 seconds
+2020-05-31 04:52:09,572 - INFO - Step: 5375
+2020-05-31 04:52:09,577 - INFO - Loss: 19.429841995239258
+2020-05-31 04:52:09,577 - INFO - training_batch_WER:  23.91%
+2020-05-31 04:52:09,577 - INFO - Prediction: il-warrani tal-knisja u bisswitha il-każin tal-labur bil-bieb imbexxaq u dawl bax jidher ġewwa
+2020-05-31 04:52:09,577 - INFO - Reference: il-warrani tal-knisja u biswitha il-każin tal-labour bil-bieb imbexxaq u dawl baxx jidher ġewwa
+2020-05-31 04:52:09,577 - INFO - Step time: 0.23377537727355957 seconds
+2020-05-31 04:52:16,025 - INFO - Step: 5400
+2020-05-31 04:52:16,030 - INFO - Loss: 19.619251251220703
+2020-05-31 04:52:16,030 - INFO - training_batch_WER:  22.86%
+2020-05-31 04:52:16,030 - INFO - Prediction: kien ftihem magħhom li sħabhom tal-ixpruna jaħbtu għat-taltana ta' x-xmun
+2020-05-31 04:52:16,030 - INFO - Reference: kien ftiehem magħhom li sħabhom tal-ixpruna jaħbtu għat-taltana ta' x-xmun
+2020-05-31 04:52:16,030 - INFO - Step time: 0.2651021480560303 seconds
+2020-05-31 04:52:16,087 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5400.pt
+2020-05-31 04:52:22,362 - INFO - Step: 5425
+2020-05-31 04:52:22,366 - INFO - Loss: 11.366225242614746
+2020-05-31 04:52:22,366 - INFO - training_batch_WER:  25.56%
+2020-05-31 04:52:22,366 - INFO - Prediction: it-tielet kien hemm xi għajdut li tamy il-malti kien qatta xi snin dieħel u ħiereġ frankuni
+2020-05-31 04:52:22,366 - INFO - Reference: it-tielet kien hemm xi għajdut li tommy il-malti kien qatta' xi snin dieħel u ħiereġ frankuni
+2020-05-31 04:52:22,366 - INFO - Step time: 0.24603676795959473 seconds
+2020-05-31 04:52:28,658 - INFO - Step: 5450
+2020-05-31 04:52:28,663 - INFO - Loss: 9.337814331054688
+2020-05-31 04:52:28,663 - INFO - training_batch_WER:  24.33%
+2020-05-31 04:52:28,663 - INFO - Prediction: żgur li kien hemm ħafna xi jpattu ad-difet tassmigħ likellu
+2020-05-31 04:52:28,663 - INFO - Reference: żgur li kien hemm ħafna xi jpattu għad-difett tas-smigħ li kellu
+2020-05-31 04:52:28,663 - INFO - Step time: 0.2434687614440918 seconds
+2020-05-31 04:52:34,959 - INFO - Step: 5475
+2020-05-31 04:52:34,962 - INFO - Loss: 15.078495979309082
+2020-05-31 04:52:34,962 - INFO - training_batch_WER:  31.97%
+2020-05-31 04:52:34,962 - INFO - Prediction: waqqfu fuq il bankina quddiem il-bieb u riedha toħroġ tarah
+2020-05-31 04:52:34,962 - INFO - Reference: waqqfu fuq il-bankina quddiem il-bieb u riedha toħroġ tarah
+2020-05-31 04:52:34,963 - INFO - Step time: 0.19664454460144043 seconds
+2020-05-31 04:52:34,963 - INFO - Finished epoch 36 in 37.56755018234253
+2020-05-31 04:52:34,963 - INFO - Starting epoch 37
+2020-05-31 04:52:41,241 - INFO - Step: 5500
+2020-05-31 04:52:41,245 - INFO - Loss: 21.39609146118164
+2020-05-31 04:52:41,245 - INFO - training_batch_WER:  30.77%
+2020-05-31 04:52:41,245 - INFO - Prediction: bla ma qagħad jaħsibha xejn in-nannu ad-banduna l-logħba karti f' nofsha u ħadna f' kamarnu
+2020-05-31 04:52:41,245 - INFO - Reference: bla ma qagħad jaħsibha xejn in-nannu abbanduna l-logħba karti f' nofsha u ħadna f' kamartnu
+2020-05-31 04:52:41,245 - INFO - Step time: 0.19280362129211426 seconds
+2020-05-31 04:52:41,246 - INFO - Doing Evaluation ..............................
+2020-05-31 04:52:42,043 - INFO - ==========>>>>>>Evaluation Loss TEST: 63.70143127441406
+2020-05-31 04:52:42,043 - INFO - ==========>>>>>>Evaluation WER TEST:  60.18%
+2020-05-31 04:52:42,045 - INFO - Evaluation time: 0.7991302013397217 seconds
+2020-05-31 04:52:42,105 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5500.pt
+2020-05-31 04:52:48,404 - INFO - Step: 5525
+2020-05-31 04:52:48,408 - INFO - Loss: 13.161766052246094
+2020-05-31 04:52:48,409 - INFO - training_batch_WER:  29.18%
+2020-05-31 04:52:48,409 - INFO - Prediction: il-folla qed iġġorr magħha xiħ u żagħżuħ mexjier ħdejn xu lxin wieħed miexi pass pass kull pass isu pala diela fil-ħamrija
+2020-05-31 04:52:48,409 - INFO - Reference: il-folla qed iġġorr magħha xiħ u żagħżugħ mexjier ħdejn xulxin wieħed miexi pass pass kull pas qisu pala dieħla fil-ħamrija
+2020-05-31 04:52:48,409 - INFO - Step time: 0.23609328269958496 seconds
+2020-05-31 04:52:54,554 - INFO - Step: 5550
+2020-05-31 04:52:54,558 - INFO - Loss: 13.04922866821289
+2020-05-31 04:52:54,558 - INFO - training_batch_WER:  27.30%
+2020-05-31 04:52:54,558 - INFO - Prediction: ax ħed now a jdiha ebaw dis
+2020-05-31 04:52:54,558 - INFO - Reference: aj ħed now ajdija ebawt diż
+2020-05-31 04:52:54,559 - INFO - Step time: 0.2498030662536621 seconds
+2020-05-31 04:53:00,792 - INFO - Step: 5575
+2020-05-31 04:53:00,796 - INFO - Loss: 19.886154174804688
+2020-05-31 04:53:00,796 - INFO - training_batch_WER:  32.53%
+2020-05-31 04:53:00,796 - INFO - Prediction: taddy bead biex tilgħa bih it-tifla haux
+2020-05-31 04:53:00,796 - INFO - Reference: teddy bear biex tilgħab bih it-tifla hux
+2020-05-31 04:53:00,797 - INFO - Step time: 0.22384405136108398 seconds
+2020-05-31 04:53:07,302 - INFO - Step: 5600
+2020-05-31 04:53:07,307 - INFO - Loss: 17.359460830688477
+2020-05-31 04:53:07,307 - INFO - training_batch_WER:  30.72%
+2020-05-31 04:53:07,307 - INFO - Prediction: sakemm dak li m' għaminx oliver oliver għamlu konrad
+2020-05-31 04:53:07,307 - INFO - Reference: sakemm dak li m' għamilx oliver oliver għamlu konrad
+2020-05-31 04:53:07,307 - INFO - Step time: 0.25478625297546387 seconds
+2020-05-31 04:53:07,370 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5600.pt
+2020-05-31 04:53:13,093 - INFO - Finished epoch 37 in 38.130470991134644
+2020-05-31 04:53:13,094 - INFO - Starting epoch 38
+2020-05-31 04:53:13,573 - INFO - Step: 5625
+2020-05-31 04:53:13,577 - INFO - Loss: 9.113798141479492
+2020-05-31 04:53:13,577 - INFO - training_batch_WER:  20.50%
+2020-05-31 04:53:13,577 - INFO - Prediction: oliver xeba' jimxi bil-mod
+2020-05-31 04:53:13,577 - INFO - Reference: oliver xeba' jimxi bil-mod
+2020-05-31 04:53:13,577 - INFO - Step time: 0.2166917324066162 seconds
+2020-05-31 04:53:19,785 - INFO - Step: 5650
+2020-05-31 04:53:19,789 - INFO - Loss: 18.004493713378906
+2020-05-31 04:53:19,789 - INFO - training_batch_WER:  26.22%
+2020-05-31 04:53:19,789 - INFO - Prediction: aktar ċepċip
+2020-05-31 04:53:19,789 - INFO - Reference: aktar ċapċip
+2020-05-31 04:53:19,789 - INFO - Step time: 0.248856782913208 seconds
+2020-05-31 04:53:26,304 - INFO - Step: 5675
+2020-05-31 04:53:26,309 - INFO - Loss: 18.775375366210938
+2020-05-31 04:53:26,309 - INFO - training_batch_WER:  25.14%
+2020-05-31 04:53:26,310 - INFO - Prediction: nest qabeż darba minnhom josef minn wara l-ktieb tal-matematika
+2020-05-31 04:53:26,310 - INFO - Reference: nest qabeż darba minnhom josef minn wara l-ktieb tal-matematika
+2020-05-31 04:53:26,310 - INFO - Step time: 0.25182676315307617 seconds
+2020-05-31 04:53:32,708 - INFO - Step: 5700
+2020-05-31 04:53:32,713 - INFO - Loss: 19.30147361755371
+2020-05-31 04:53:32,713 - INFO - training_batch_WER:  31.61%
+2020-05-31 04:53:32,713 - INFO - Prediction: mitin sitta latibj ċogol tal-injem axxux alħadin lekmamtaħox distojnie
+2020-05-31 04:53:32,713 - INFO - Reference: kamra fejn naħslu idejna bi tletin sink u tletin likwit sowp dispenser
+2020-05-31 04:53:32,713 - INFO - Step time: 0.23684167861938477 seconds
+2020-05-31 04:53:32,770 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5700.pt
+2020-05-31 04:53:39,184 - INFO - Step: 5725
+2020-05-31 04:53:39,189 - INFO - Loss: 14.002524375915527
+2020-05-31 04:53:39,189 - INFO - training_batch_WER:  21.79%
+2020-05-31 04:53:39,190 - INFO - Prediction: anki jekk iż-żewġ tejjer donnhom nlm imbagħad imutu f' daqqa
+2020-05-31 04:53:39,190 - INFO - Reference: anki jhekk iż-żewġ tejjer donnhom nlimbagħad imutu f' daqqa
+2020-05-31 04:53:39,190 - INFO - Step time: 0.27326536178588867 seconds
+2020-05-31 04:53:45,547 - INFO - Step: 5750
+2020-05-31 04:53:45,552 - INFO - Loss: 15.38497543334961
+2020-05-31 04:53:45,552 - INFO - training_batch_WER:  29.86%
+2020-05-31 04:53:45,552 - INFO - Prediction: kemm jista' jkun 'il -bogħod minn dik il-preżenza -tleqq dlamijieta fid-dlamkar iżda ħ ħass saħħa barranija jżommu milli jiċċaqlaq
+2020-05-31 04:53:45,552 - INFO - Reference: kemm jista' jkun 'il -bogħod minn dik il-preżenza tleqq dlamijietha fid-dlamkar iżda ħ ħass saħħa barranija jżommu milli jiċċaqlaq
+2020-05-31 04:53:45,552 - INFO - Step time: 0.2384347915649414 seconds
+2020-05-31 04:53:50,797 - INFO - Finished epoch 38 in 37.703274965286255
+2020-05-31 04:53:50,798 - INFO - Starting epoch 39
+2020-05-31 04:53:51,858 - INFO - Step: 5775
+2020-05-31 04:53:51,862 - INFO - Loss: 6.663614273071289
+2020-05-31 04:53:51,862 - INFO - training_batch_WER:  21.85%
+2020-05-31 04:53:51,862 - INFO - Prediction: lgħabthom tajjeb hux daħak il-fidin ferħan biċ-ċajta tigħu
+2020-05-31 04:53:51,862 - INFO - Reference: lgħabthom tajjeb hux daħak il-fidin ferħan biċ-ċajta tiegħu
+2020-05-31 04:53:51,862 - INFO - Step time: 0.25602197647094727 seconds
+2020-05-31 04:53:58,286 - INFO - Step: 5800
+2020-05-31 04:53:58,290 - INFO - Loss: 20.730436325073242
+2020-05-31 04:53:58,290 - INFO - training_batch_WER:  27.68%
+2020-05-31 04:53:58,290 - INFO - Prediction: kompletament vojt
+2020-05-31 04:53:58,290 - INFO - Reference: kompletament vojt
+2020-05-31 04:53:58,290 - INFO - Step time: 0.23615288734436035 seconds
+2020-05-31 04:53:58,348 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5800.pt
+2020-05-31 04:54:04,722 - INFO - Step: 5825
+2020-05-31 04:54:04,726 - INFO - Loss: 17.00111961364746
+2020-05-31 04:54:04,726 - INFO - training_batch_WER:  28.09%
+2020-05-31 04:54:04,726 - INFO - Prediction: viktar xkembri
+2020-05-31 04:54:04,726 - INFO - Reference: viktor xkembri
+2020-05-31 04:54:04,727 - INFO - Step time: 0.23667168617248535 seconds
+2020-05-31 04:54:11,094 - INFO - Step: 5850
+2020-05-31 04:54:11,097 - INFO - Loss: 21.528789520263672
+2020-05-31 04:54:11,098 - INFO - training_batch_WER:  33.83%
+2020-05-31 04:54:11,098 - INFO - Prediction: kulħad kien qed jimbotta u jgħaffeġ fuq xulxin
+2020-05-31 04:54:11,098 - INFO - Reference: kulħadd kien qed jimbotta u jgħaffeġ fuq xulxin
+2020-05-31 04:54:11,098 - INFO - Step time: 0.22649788856506348 seconds
+2020-05-31 04:54:17,298 - INFO - Step: 5875
+2020-05-31 04:54:17,303 - INFO - Loss: 10.54232406616211
+2020-05-31 04:54:17,303 - INFO - training_batch_WER:  22.13%
+2020-05-31 04:54:17,303 - INFO - Prediction: seta' jismagħha tinża' l-flokk tħoll iċ-ċur-il-kurket tal-bra
+2020-05-31 04:54:17,303 - INFO - Reference: seta' jismagħha tinża' l-flokk tħoll il-ċur-il-kurkett tal-bra
+2020-05-31 04:54:17,303 - INFO - Step time: 0.25242090225219727 seconds
+2020-05-31 04:54:23,466 - INFO - Step: 5900
+2020-05-31 04:54:23,471 - INFO - Loss: 8.359354019165039
+2020-05-31 04:54:23,471 - INFO - training_batch_WER:  19.83%
+2020-05-31 04:54:23,471 - INFO - Prediction: dun nastas ukoll marilhom l-apptit
+2020-05-31 04:54:23,471 - INFO - Reference: dun nastas ukoll marilhom l-aptit
+2020-05-31 04:54:23,471 - INFO - Step time: 0.2194521427154541 seconds
+2020-05-31 04:54:23,528 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-5900.pt
+2020-05-31 04:54:28,403 - INFO - Finished epoch 39 in 37.5925452709198
+2020-05-31 04:54:28,404 - INFO - Starting epoch 40
+2020-05-31 04:54:29,928 - INFO - Step: 5925
+2020-05-31 04:54:29,933 - INFO - Loss: 10.502960205078125
+2020-05-31 04:54:29,933 - INFO - training_batch_WER:  22.44%
+2020-05-31 04:54:29,933 - INFO - Prediction: xena wara l-oħra ġabet ċapċib li jtarrax
+2020-05-31 04:54:29,933 - INFO - Reference: xena wara l-oħra ġabet ċapċip li jtarrax
+2020-05-31 04:54:29,933 - INFO - Step time: 0.21337080001831055 seconds
+2020-05-31 04:54:36,113 - INFO - Step: 5950
+2020-05-31 04:54:36,117 - INFO - Loss: 35.178131103515625
+2020-05-31 04:54:36,117 - INFO - training_batch_WER:  36.60%
+2020-05-31 04:54:36,117 - INFO - Prediction: għamel pass laġenba u erdġla' feraq l-ħaxix
+2020-05-31 04:54:36,117 - INFO - Reference: għamel pass laġenba u reġa' feraq il-ħaxix
+2020-05-31 04:54:36,117 - INFO - Step time: 0.21223139762878418 seconds
+2020-05-31 04:54:42,753 - INFO - Step: 5975
+2020-05-31 04:54:42,757 - INFO - Loss: 32.01976013183594
+2020-05-31 04:54:42,757 - INFO - training_batch_WER:  33.73%
+2020-05-31 04:54:42,757 - INFO - Prediction: malli dak rana dar marrieħ u ġerriena xejn anqas minn tpintax sa għax rin mil
+2020-05-31 04:54:42,757 - INFO - Reference: malli dak rana dar mar-riħ u ġerriena xejn anqas minn tmintax sa għoxrin mil
+2020-05-31 04:54:42,757 - INFO - Step time: 0.18870210647583008 seconds
+2020-05-31 04:54:48,996 - INFO - Step: 6000
+2020-05-31 04:54:49,001 - INFO - Loss: 17.405590057373047
+2020-05-31 04:54:49,001 - INFO - training_batch_WER:  29.15%
+2020-05-31 04:54:49,001 - INFO - Prediction: mort niekal
+2020-05-31 04:54:49,001 - INFO - Reference: mort niekol
+2020-05-31 04:54:49,001 - INFO - Step time: 0.272066593170166 seconds
+2020-05-31 04:54:49,001 - INFO - Doing Evaluation ..............................
+2020-05-31 04:54:49,791 - INFO - ==========>>>>>>Evaluation Loss TEST: 63.134090423583984
+2020-05-31 04:54:49,791 - INFO - ==========>>>>>>Evaluation WER TEST:  59.69%
+2020-05-31 04:54:49,792 - INFO - Evaluation time: 0.7903447151184082 seconds
+2020-05-31 04:54:49,850 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6000.pt
+2020-05-31 04:54:56,253 - INFO - Step: 6025
+2020-05-31 04:54:56,257 - INFO - Loss: 18.39382553100586
+2020-05-31 04:54:56,257 - INFO - training_batch_WER:  27.20%
+2020-05-31 04:54:56,257 - INFO - Prediction: kien iddispjaċieni li għal dik is-sena ma kont ilħaqta għamilt wieħed u kelli nikkuntenta biss bil-ftit pasturi kbar li konna xtrajna
+2020-05-31 04:54:56,257 - INFO - Reference: kien iddispjaċieni li għal dik is-sena ma kontx ilħaqt għamilt wieħed u kelli nikkuntenta biss bil-ftit pasturi kbar li konna xtrajna
+2020-05-31 04:54:56,258 - INFO - Step time: 0.24416232109069824 seconds
+2020-05-31 04:55:02,531 - INFO - Step: 6050
+2020-05-31 04:55:02,537 - INFO - Loss: 16.421369552612305
+2020-05-31 04:55:02,537 - INFO - training_batch_WER:  24.78%
+2020-05-31 04:55:02,537 - INFO - Prediction: imma missieri kien karatztru paltikolari tafint
+2020-05-31 04:55:02,537 - INFO - Reference: imma missieri kien karattru partikolari taf int
+2020-05-31 04:55:02,537 - INFO - Step time: 0.2390272617340088 seconds
+2020-05-31 04:55:06,874 - INFO - Finished epoch 40 in 38.470048666000366
+2020-05-31 04:55:06,874 - INFO - Starting epoch 41
+2020-05-31 04:55:08,892 - INFO - Step: 6075
+2020-05-31 04:55:08,897 - INFO - Loss: 29.38216781616211
+2020-05-31 04:55:08,897 - INFO - training_batch_WER:  30.11%
+2020-05-31 04:55:08,897 - INFO - Prediction: jekk għallha jrid kienua se jiħilsu mil-madmad soċjalista ta' rrġim oppressiv moralment korrott u vjolenti
+2020-05-31 04:55:08,898 - INFO - Reference: jekk allha jrid kienua se jieħilsu mill-madmad soċjalista ta' rġim oppressiv moralment korrott u vjolenti
+2020-05-31 04:55:08,898 - INFO - Step time: 0.2778446674346924 seconds
+2020-05-31 04:55:15,167 - INFO - Step: 6100
+2020-05-31 04:55:15,171 - INFO - Loss: 3.6016714572906494
+2020-05-31 04:55:15,171 - INFO - training_batch_WER:  12.94%
+2020-05-31 04:55:15,171 - INFO - Prediction: kif staqsieni l-fader
+2020-05-31 04:55:15,171 - INFO - Reference: kif staqsieni l-fader
+2020-05-31 04:55:15,171 - INFO - Step time: 0.22715163230895996 seconds
+2020-05-31 04:55:15,234 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6100.pt
+2020-05-31 04:55:21,653 - INFO - Step: 6125
+2020-05-31 04:55:21,657 - INFO - Loss: 18.59503173828125
+2020-05-31 04:55:21,658 - INFO - training_batch_WER:  23.06%
+2020-05-31 04:55:21,658 - INFO - Prediction: manwelajlenn ji now
+2020-05-31 04:55:21,658 - INFO - Reference: manwel ajlend ju now
+2020-05-31 04:55:21,658 - INFO - Step time: 0.24852991104125977 seconds
+2020-05-31 04:55:27,980 - INFO - Step: 6150
+2020-05-31 04:55:27,984 - INFO - Loss: 16.052846908569336
+2020-05-31 04:55:27,985 - INFO - training_batch_WER:  32.69%
+2020-05-31 04:55:27,985 - INFO - Prediction: imbagħaddaqqejt il-qanpiena u tfaċċat quddiemi lista ta' possibiltajiet li lanqas biss kienu għaddewli minn moħħitul il-vjaġġ
+2020-05-31 04:55:27,985 - INFO - Reference: imbagħad daqqejt il-qanpiena u tfaċċat quddiemi lista ta' possibbiltajiet li lanqas biss kienu għaddewli minn moħħi tul il-vjaġġ
+2020-05-31 04:55:27,985 - INFO - Step time: 0.2355198860168457 seconds
+2020-05-31 04:55:34,260 - INFO - Step: 6175
+2020-05-31 04:55:34,264 - INFO - Loss: 8.618946075439453
+2020-05-31 04:55:34,264 - INFO - training_batch_WER:  28.09%
+2020-05-31 04:55:34,265 - INFO - Prediction: jajtu iwerżqu u jitpaststu kemm jifil-ħ
+2020-05-31 04:55:34,265 - INFO - Reference: jgħajtu iwerżqu u jitpastsu kemm jifilħu
+2020-05-31 04:55:34,265 - INFO - Step time: 0.25481653213500977 seconds
+2020-05-31 04:55:40,620 - INFO - Step: 6200
+2020-05-31 04:55:40,624 - INFO - Loss: 8.27055835723877
+2020-05-31 04:55:40,624 - INFO - training_batch_WER:  19.95%
+2020-05-31 04:55:40,624 - INFO - Prediction: u l-eżempu tagħha sewwa għax senga wara kulħad beda jgħallem fil-lukandi f' xi ġnien u f' xi djar tax-xjuħ
+2020-05-31 04:55:40,624 - INFO - Reference: u l-eżempu tagħha sewa għax sena wara kulħadd beda jgħallem fil-lukandi f' xi ġnien u f' xi djar tax-xjuħ
+2020-05-31 04:55:40,624 - INFO - Step time: 0.23231196403503418 seconds
+2020-05-31 04:55:40,681 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6200.pt
+2020-05-31 04:55:44,451 - INFO - Finished epoch 41 in 37.57670521736145
+2020-05-31 04:55:44,452 - INFO - Starting epoch 42
+2020-05-31 04:55:46,926 - INFO - Step: 6225
+2020-05-31 04:55:46,930 - INFO - Loss: 15.400074005126953
+2020-05-31 04:55:46,930 - INFO - training_batch_WER:  23.85%
+2020-05-31 04:55:46,930 - INFO - Prediction: warajha l-bajda ħ oħra biċ-ċappa kannella tgħet i nofs wiċċha b' dik l-espessjoni ta' inċertezza umbagħad l-oħrajn l-uċuħ tas-soltu ġejjin għall-pappa ta' kuljun
+2020-05-31 04:55:46,930 - INFO - Reference: warajha l-bajda l-oħra biċ-ċappa kannella tgħatti nofs wiċċha b' dik l-espressjoni ta' inċertezza umbagħad l-oħrajn l-uċuħ tas-soltu ġejjin għall-pappa ta' kuljum
+2020-05-31 04:55:46,931 - INFO - Step time: 0.23945069313049316 seconds
+2020-05-31 04:55:53,442 - INFO - Step: 6250
+2020-05-31 04:55:53,446 - INFO - Loss: 12.252291679382324
+2020-05-31 04:55:53,455 - INFO - training_batch_WER:  26.05%
+2020-05-31 04:55:53,455 - INFO - Prediction: id-dj only semitic lanuae pereżemplu
+2020-05-31 04:55:53,455 - INFO - Reference: id-the only semitic language pereżempju
+2020-05-31 04:55:53,455 - INFO - Step time: 0.2634298801422119 seconds
+2020-05-31 04:55:59,897 - INFO - Step: 6275
+2020-05-31 04:55:59,901 - INFO - Loss: 24.713748931884766
+2020-05-31 04:55:59,901 - INFO - training_batch_WER:  31.30%
+2020-05-31 04:55:59,901 - INFO - Prediction: żabbarija tmiena u ħam-u ħamsin sena ilu telqet mid-dar ta'ġenituri tagħha biex issegri sejħa riedet tingħaqad mas-sorijiet tal-fronġiskani tal-eġittu
+2020-05-31 04:55:59,901 - INFO - Reference: żabbarija tmienja u ħam-u ħamsin sena ilu telqet mid-dar tal-ġenituri tagħha biex issegwi sejħa riedet tingħaqad mas-sorijiet tal-franġiskani tal-eġittu
+2020-05-31 04:55:59,902 - INFO - Step time: 0.26724863052368164 seconds
+2020-05-31 04:56:06,195 - INFO - Step: 6300
+2020-05-31 04:56:06,199 - INFO - Loss: 19.381752014160156
+2020-05-31 04:56:06,199 - INFO - training_batch_WER:  29.25%
+2020-05-31 04:56:06,199 - INFO - Prediction: fiddim
+2020-05-31 04:56:06,199 - INFO - Reference: fiddien
+2020-05-31 04:56:06,200 - INFO - Step time: 0.21752500534057617 seconds
+2020-05-31 04:56:06,259 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6300.pt
+2020-05-31 04:56:12,652 - INFO - Step: 6325
+2020-05-31 04:56:12,657 - INFO - Loss: 9.636480331420898
+2020-05-31 04:56:12,657 - INFO - training_batch_WER:  20.75%
+2020-05-31 04:56:12,657 - INFO - Prediction: kulju minn fuq is-swar kienu jintleħmu dħaħen ġodda tilagħain mill-belt xieda li dawk l-imġienen kienu għadhom għaddejjin bil-ħażen tagħhom
+2020-05-31 04:56:12,657 - INFO - Reference: kuljum minn fuq is-swar kienu jintleħmu dħaħen ġodda telgħin mill-belt xhieda li dawk l-imġienen kienu għadhom għaddejjin bil-ħażen tagħhom
+2020-05-31 04:56:12,657 - INFO - Step time: 0.2695937156677246 seconds
+2020-05-31 04:56:18,999 - INFO - Step: 6350
+2020-05-31 04:56:19,003 - INFO - Loss: 9.298633575439453
+2020-05-31 04:56:19,003 - INFO - training_batch_WER:  28.79%
+2020-05-31 04:56:19,003 - INFO - Prediction: e
+2020-05-31 04:56:19,003 - INFO - Reference: e
+2020-05-31 04:56:19,003 - INFO - Step time: 0.21865248680114746 seconds
+2020-05-31 04:56:22,414 - INFO - Finished epoch 42 in 37.96234607696533
+2020-05-31 04:56:22,415 - INFO - Starting epoch 43
+2020-05-31 04:56:25,384 - INFO - Step: 6375
+2020-05-31 04:56:25,389 - INFO - Loss: 11.8685302734375
+2020-05-31 04:56:25,389 - INFO - training_batch_WER:  19.60%
+2020-05-31 04:56:25,389 - INFO - Prediction: u u jisma' lin-nannu jgħidlu kemm kien gustuż u kif għandu jieħa u ħsiebu
+2020-05-31 04:56:25,389 - INFO - Reference: hu u jisma' lin-nannu jgħidlu kemm kien gustuż u kif għandu jieħ u ħsiebu
+2020-05-31 04:56:25,389 - INFO - Step time: 0.24689412117004395 seconds
+2020-05-31 04:56:31,742 - INFO - Step: 6400
+2020-05-31 04:56:31,746 - INFO - Loss: 14.84288501739502
+2020-05-31 04:56:31,746 - INFO - training_batch_WER:  24.69%
+2020-05-31 04:56:31,746 - INFO - Prediction: tin żħgħlek bil-mod
+2020-05-31 04:56:31,746 - INFO - Reference: tinżagħlek bil-mod
+2020-05-31 04:56:31,747 - INFO - Step time: 0.26096034049987793 seconds
+2020-05-31 04:56:31,804 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6400.pt
+2020-05-31 04:56:38,167 - INFO - Step: 6425
+2020-05-31 04:56:38,171 - INFO - Loss: 26.62155532836914
+2020-05-31 04:56:38,171 - INFO - training_batch_WER:  38.02%
+2020-05-31 04:56:38,171 - INFO - Prediction: kajl mela
+2020-05-31 04:56:38,171 - INFO - Reference: karl mela
+2020-05-31 04:56:38,172 - INFO - Step time: 0.2362818717956543 seconds
+2020-05-31 04:56:44,741 - INFO - Step: 6450
+2020-05-31 04:56:44,745 - INFO - Loss: 6.395709991455078
+2020-05-31 04:56:44,745 - INFO - training_batch_WER:  20.74%
+2020-05-31 04:56:44,745 - INFO - Prediction: il-biebta wara kien imsakkar
+2020-05-31 04:56:44,745 - INFO - Reference: il-bieb ta' wara kien imsakkar
+2020-05-31 04:56:44,745 - INFO - Step time: 0.2432858943939209 seconds
+2020-05-31 04:56:51,003 - INFO - Step: 6475
+2020-05-31 04:56:51,007 - INFO - Loss: 15.370491027832031
+2020-05-31 04:56:51,007 - INFO - training_batch_WER:  28.66%
+2020-05-31 04:56:51,007 - INFO - Prediction: semgħet li kin ireżenja minirnad ditta tar-riklamar u mar jgħix 'l bogħod bil-ħsieb li jiftaħstudju għal ras
+2020-05-31 04:56:51,007 - INFO - Reference: semgħet li kien irreżenja minn irnad ditta tar-reklamar u mar jgħix 'il bogħod bil-ħsieb li jiftaħ studju għal rasu
+2020-05-31 04:56:51,008 - INFO - Step time: 0.2092139720916748 seconds
+2020-05-31 04:56:57,334 - INFO - Step: 6500
+2020-05-31 04:56:57,339 - INFO - Loss: 32.942588806152344
+2020-05-31 04:56:57,339 - INFO - training_batch_WER:  32.91%
+2020-05-31 04:56:57,339 - INFO - Prediction: wasalna l-milliħa flilesż u meta s-sur fenekrana quddiemu tgħidxkemm inkwieta għax qatt ma basar li f' maltem bħal dak konna se mmorru xorta waħda
+2020-05-31 04:56:57,340 - INFO - Reference: wasalna l-mellieħa flieles u meta s-sur fenech rana quddiemu tgħidx kemm inkwieta għax qatt ma basar li f' maltemp bħal dak konna se mmorru xorta waħda
+2020-05-31 04:56:57,340 - INFO - Step time: 0.25431346893310547 seconds
+2020-05-31 04:56:57,340 - INFO - Doing Evaluation ..............................
+2020-05-31 04:56:58,235 - INFO - ==========>>>>>>Evaluation Loss TEST: 59.629798889160156
+2020-05-31 04:56:58,235 - INFO - ==========>>>>>>Evaluation WER TEST:  58.84%
+2020-05-31 04:56:58,235 - INFO - Evaluation time: 0.8952236175537109 seconds
+2020-05-31 04:56:58,293 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6500.pt
+2020-05-31 04:57:01,050 - INFO - Finished epoch 43 in 38.63467502593994
+2020-05-31 04:57:01,050 - INFO - Starting epoch 44
+2020-05-31 04:57:04,718 - INFO - Step: 6525
+2020-05-31 04:57:04,723 - INFO - Loss: 15.26858139038086
+2020-05-31 04:57:04,723 - INFO - training_batch_WER:  22.28%
+2020-05-31 04:57:04,723 - INFO - Prediction: kellie bżonn n oħroġ fit
+2020-05-31 04:57:04,723 - INFO - Reference: kelli bżonn noħroġ ftit
+2020-05-31 04:57:04,723 - INFO - Step time: 0.22023510932922363 seconds
+2020-05-31 04:57:10,888 - INFO - Step: 6550
+2020-05-31 04:57:10,892 - INFO - Loss: 15.931035995483398
+2020-05-31 04:57:10,892 - INFO - training_batch_WER:  29.67%
+2020-05-31 04:57:10,892 - INFO - Prediction: kulħadd inġaber fil-bitħa mat-tfal l-oħra
+2020-05-31 04:57:10,892 - INFO - Reference: kulħadd inġabar fil-bitħa mat-tfal l-oħra
+2020-05-31 04:57:10,892 - INFO - Step time: 0.21263384819030762 seconds
+2020-05-31 04:57:17,213 - INFO - Step: 6575
+2020-05-31 04:57:17,218 - INFO - Loss: 7.194363117218018
+2020-05-31 04:57:17,218 - INFO - training_batch_WER:  18.72%
+2020-05-31 04:57:17,218 - INFO - Prediction: u rani nħares minn ġol-mera
+2020-05-31 04:57:17,218 - INFO - Reference: u rani nħares minn ġol-mera
+2020-05-31 04:57:17,218 - INFO - Step time: 0.2620565891265869 seconds
+2020-05-31 04:57:23,450 - INFO - Step: 6600
+2020-05-31 04:57:23,454 - INFO - Loss: 23.63317108154297
+2020-05-31 04:57:23,454 - INFO - training_batch_WER:  34.68%
+2020-05-31 04:57:23,454 - INFO - Prediction: min-naħa tiegħu tomi nduna li sieħbu kien et iħares lej u b' idu għamillu sinjal ta inkuraġġiment
+2020-05-31 04:57:23,454 - INFO - Reference: min-naħa tiegħu tomi nduna li sieħbu kien ed iħares lejh u b' idu għamillu sinjal ta' inkuraġġiment
+2020-05-31 04:57:23,454 - INFO - Step time: 0.25131773948669434 seconds
+2020-05-31 04:57:23,511 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6600.pt
+2020-05-31 04:57:30,037 - INFO - Step: 6625
+2020-05-31 04:57:30,042 - INFO - Loss: 5.115076065063477
+2020-05-31 04:57:30,042 - INFO - training_batch_WER:  18.15%
+2020-05-31 04:57:30,042 - INFO - Prediction: wier loki aħna over ħier
+2020-05-31 04:57:30,042 - INFO - Reference: wier laki aħna owver ħier
+2020-05-31 04:57:30,042 - INFO - Step time: 0.2549605369567871 seconds
+2020-05-31 04:57:36,455 - INFO - Step: 6650
+2020-05-31 04:57:36,461 - INFO - Loss: 24.60922622680664
+2020-05-31 04:57:36,461 - INFO - training_batch_WER:  28.61%
+2020-05-31 04:57:36,461 - INFO - Prediction: issa dil-kwotazzjoni ta' xijkspil kellek storjella ħelwa marbuta magħha
+2020-05-31 04:57:36,461 - INFO - Reference: issa dil-kwotazzjoni ta' xejkspir kellek storjella ħelwa marbuta magħha
+2020-05-31 04:57:36,461 - INFO - Step time: 0.26389169692993164 seconds
+2020-05-31 04:57:38,721 - INFO - Finished epoch 44 in 37.67095685005188
+2020-05-31 04:57:38,722 - INFO - Starting epoch 45
+2020-05-31 04:57:42,738 - INFO - Step: 6675
+2020-05-31 04:57:42,743 - INFO - Loss: 12.853580474853516
+2020-05-31 04:57:42,743 - INFO - training_batch_WER:  18.79%
+2020-05-31 04:57:42,743 - INFO - Prediction: kollox kien jinteressaħ
+2020-05-31 04:57:42,743 - INFO - Reference: kollox kien jinteressah
+2020-05-31 04:57:42,743 - INFO - Step time: 0.2372572422027588 seconds
+2020-05-31 04:57:49,182 - INFO - Step: 6700
+2020-05-31 04:57:49,186 - INFO - Loss: 11.445440292358398
+2020-05-31 04:57:49,186 - INFO - training_batch_WER:  20.67%
+2020-05-31 04:57:49,186 - INFO - Prediction: kienet tixtrihom mingħant wieħed dulċier magħruf bħala ta' fenku
+2020-05-31 04:57:49,186 - INFO - Reference: kienet tixtrihom mingħand wieħed dolċier magħruf bħala ta' fenku
+2020-05-31 04:57:49,186 - INFO - Step time: 0.2684292793273926 seconds
+2020-05-31 04:57:49,244 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6700.pt
+2020-05-31 04:57:55,539 - INFO - Step: 6725
+2020-05-31 04:57:55,543 - INFO - Loss: 14.670455932617188
+2020-05-31 04:57:55,543 - INFO - training_batch_WER:  25.00%
+2020-05-31 04:57:55,543 - INFO - Prediction: u jħallu ħ imur jissokta jaħdem għall-ġid tagħhom u ta'kulħadd
+2020-05-31 04:57:55,544 - INFO - Reference: u jħalluħ imur jissokta jaħdem għall-ġid tagħhom u ta'kulħadd
+2020-05-31 04:57:55,544 - INFO - Step time: 0.2215898036956787 seconds
+2020-05-31 04:58:01,837 - INFO - Step: 6750
+2020-05-31 04:58:01,841 - INFO - Loss: 14.058395385742188
+2020-05-31 04:58:01,841 - INFO - training_batch_WER:  21.19%
+2020-05-31 04:58:01,841 - INFO - Prediction: u kulħad beda jċapċap kemm jifla għax kulħadd kien jaf li hekk trid tagħmel meta jitkelle minfiddien
+2020-05-31 04:58:01,841 - INFO - Reference: u kulħad beda jċapċap kemm jifla għax kulħadd kien jaf li hekk t rid tagħmel meata jitkella minfiddien
+2020-05-31 04:58:01,842 - INFO - Step time: 0.24069666862487793 seconds
+2020-05-31 04:58:08,225 - INFO - Step: 6775
+2020-05-31 04:58:08,229 - INFO - Loss: 13.901522636413574
+2020-05-31 04:58:08,229 - INFO - training_batch_WER:  28.53%
+2020-05-31 04:58:08,229 - INFO - Prediction: ima sita jw sebrad elif senaza' ċuvikargnidzat' gkadhom li kaeru ġi-gidbin il-judieta'stintitialaeżeik
+2020-05-31 04:58:08,229 - INFO - Reference: imma sitta jew sebat elef ss sena ta' ċavilità organizzata għadhom ma ħassrux il-gidbiet il-ġibdiet istintivi għal għas-sess
+2020-05-31 04:58:08,230 - INFO - Step time: 0.25260257720947266 seconds
+2020-05-31 04:58:14,500 - INFO - Step: 6800
+2020-05-31 04:58:14,504 - INFO - Loss: 23.221826553344727
+2020-05-31 04:58:14,504 - INFO - training_batch_WER:  29.29%
+2020-05-31 04:58:14,505 - INFO - Prediction: reġa' dar lura u kompla jsegwi r-riħa sakemm wasal quddiem il-bieb tal-librerija li kien ftit imbexxaq
+2020-05-31 04:58:14,505 - INFO - Reference: reġa' dar lura u kompla jsegwi r-riħa sakemm wasal quddiem il-bieb tal-librerija li kien ftit imbexxaq
+2020-05-31 04:58:14,505 - INFO - Step time: 0.22273039817810059 seconds
+2020-05-31 04:58:14,561 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6800.pt
+2020-05-31 04:58:16,327 - INFO - Finished epoch 45 in 37.60474419593811
+2020-05-31 04:58:16,327 - INFO - Starting epoch 46
+2020-05-31 04:58:20,919 - INFO - Step: 6825
+2020-05-31 04:58:20,923 - INFO - Loss: 11.24183464050293
+2020-05-31 04:58:20,923 - INFO - training_batch_WER:  23.93%
+2020-05-31 04:58:20,923 - INFO - Prediction: grzzja kienetħadet in-nar
+2020-05-31 04:58:20,923 - INFO - Reference: grazzja kienet ħadet in-nar
+2020-05-31 04:58:20,923 - INFO - Step time: 0.2665221691131592 seconds
+2020-05-31 04:58:27,042 - INFO - Step: 6850
+2020-05-31 04:58:27,046 - INFO - Loss: 12.221946716308594
+2020-05-31 04:58:27,046 - INFO - training_batch_WER:  21.91%
+2020-05-31 04:58:27,046 - INFO - Prediction: rajt ftit karozzi jsuqu lejn l-istess direzzjoni tiegħi
+2020-05-31 04:58:27,046 - INFO - Reference: rajt ftit karozzi jsuqu lejn l-istess direzzjoni tiegħi
+2020-05-31 04:58:27,046 - INFO - Step time: 0.20484638214111328 seconds
+2020-05-31 04:58:33,440 - INFO - Step: 6875
+2020-05-31 04:58:33,445 - INFO - Loss: 7.743924140930176
+2020-05-31 04:58:33,445 - INFO - training_batch_WER:  18.77%
+2020-05-31 04:58:33,445 - INFO - Prediction: jistkenn taħtl-unika siġra taz-zuntier li til-li til-qagħlu r-raġġi sħan tax-xemx mimlija ħajja
+2020-05-31 04:58:33,445 - INFO - Reference: jistkenn taħt l-unika siġra taz-zuntier li til-li tilqagħlu r-raġġi sħan tax-xemx mimlija ħajja
+2020-05-31 04:58:33,445 - INFO - Step time: 0.27044081687927246 seconds
+2020-05-31 04:58:39,698 - INFO - Step: 6900
+2020-05-31 04:58:39,703 - INFO - Loss: 17.174903869628906
+2020-05-31 04:58:39,703 - INFO - training_batch_WER:  31.97%
+2020-05-31 04:58:39,703 - INFO - Prediction: wara sirt naf li kienu resquhielil quddiem għax kienu qed jibżgħu li seta' jagħtini attakk tal-qalb
+2020-05-31 04:58:39,703 - INFO - Reference: wara sirt naf li kienu resquhieli 'l quddiem għax kienu qed jibżgħu li seta' jagħtini attakk tal-qalb
+2020-05-31 04:58:39,703 - INFO - Step time: 0.252591609954834 seconds
+2020-05-31 04:58:39,761 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-6900.pt
+2020-05-31 04:58:46,075 - INFO - Step: 6925
+2020-05-31 04:58:46,080 - INFO - Loss: 9.033538818359375
+2020-05-31 04:58:46,080 - INFO - training_batch_WER:  18.86%
+2020-05-31 04:58:46,080 - INFO - Prediction: iżda l-bieb ma riedx jaf
+2020-05-31 04:58:46,080 - INFO - Reference: iżda l-bieb ma riedx jaf
+2020-05-31 04:58:46,080 - INFO - Step time: 0.24879741668701172 seconds
+2020-05-31 04:58:52,500 - INFO - Step: 6950
+2020-05-31 04:58:52,504 - INFO - Loss: 20.457717895507812
+2020-05-31 04:58:52,504 - INFO - training_batch_WER:  30.50%
+2020-05-31 04:58:52,504 - INFO - Prediction: u kien bis meta ċeda li bdiet tassew taħdem l-azzjoni ta' vitanova
+2020-05-31 04:58:52,504 - INFO - Reference: u kien biss meta ċeda li bdiet tassew taħdem l-azzjoni ta' vitanova
+2020-05-31 04:58:52,504 - INFO - Step time: 0.2565286159515381 seconds
+2020-05-31 04:58:53,712 - INFO - Finished epoch 46 in 37.38519835472107
+2020-05-31 04:58:53,713 - INFO - Starting epoch 47
+2020-05-31 04:58:58,802 - INFO - Step: 6975
+2020-05-31 04:58:58,806 - INFO - Loss: 6.632021427154541
+2020-05-31 04:58:58,807 - INFO - training_batch_WER:  20.40%
+2020-05-31 04:58:58,807 - INFO - Prediction: sadanittan salvu tar-razzett kien ġa ħejja l-gidja u kien sejjer biha l-kun vent
+2020-05-31 04:58:58,807 - INFO - Reference: sadanittant salvu tar-razzett kien ġa ħejja l-gidja u kien sejjer biha l-kunvent
+2020-05-31 04:58:58,807 - INFO - Step time: 0.2525296211242676 seconds
+2020-05-31 04:59:05,145 - INFO - Step: 7000
+2020-05-31 04:59:05,150 - INFO - Loss: 13.325420379638672
+2020-05-31 04:59:05,150 - INFO - training_batch_WER:  22.62%
+2020-05-31 04:59:05,150 - INFO - Prediction: u alber daħħalil-first qala' siequ -ellugija bil-mod il-mod minn fuq il-kluc u bil-leminija għafas il-gass
+2020-05-31 04:59:05,150 - INFO - Reference: u albert daħħal il-first qala' siequ x-xellugija bil-mod il-mod minn fuq il-clutch u bil-leminija għafas il-gass
+2020-05-31 04:59:05,150 - INFO - Step time: 0.23901748657226562 seconds
+2020-05-31 04:59:05,150 - INFO - Doing Evaluation ..............................
+2020-05-31 04:59:06,043 - INFO - ==========>>>>>>Evaluation Loss TEST: 61.57604217529297
+2020-05-31 04:59:06,043 - INFO - ==========>>>>>>Evaluation WER TEST:  58.46%
+2020-05-31 04:59:06,043 - INFO - Evaluation time: 0.8929646015167236 seconds
+2020-05-31 04:59:06,102 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-7000.pt
+2020-05-31 04:59:12,329 - INFO - Step: 7025
+2020-05-31 04:59:12,334 - INFO - Loss: 12.845850944519043
+2020-05-31 04:59:12,334 - INFO - training_batch_WER:  26.70%
+2020-05-31 04:59:12,334 - INFO - Prediction: hekk hu
+2020-05-31 04:59:12,334 - INFO - Reference: hekk hu
+2020-05-31 04:59:12,334 - INFO - Step time: 0.27472901344299316 seconds
+2020-05-31 04:59:18,820 - INFO - Step: 7050
+2020-05-31 04:59:18,824 - INFO - Loss: 8.028199195861816
+2020-05-31 04:59:18,824 - INFO - training_batch_WER:  21.13%
+2020-05-31 04:59:18,824 - INFO - Prediction: l-is-suldat
+2020-05-31 04:59:18,824 - INFO - Reference: lis-suldat
+2020-05-31 04:59:18,824 - INFO - Step time: 0.2530038356781006 seconds
+2020-05-31 04:59:25,057 - INFO - Step: 7075
+2020-05-31 04:59:25,061 - INFO - Loss: 14.467434883117676
+2020-05-31 04:59:25,061 - INFO - training_batch_WER:  24.04%
+2020-05-31 04:59:25,062 - INFO - Prediction: ritmu wieħed
+2020-05-31 04:59:25,062 - INFO - Reference: ritmu wieħed
+2020-05-31 04:59:25,062 - INFO - Step time: 0.23323369026184082 seconds
+2020-05-31 04:59:31,361 - INFO - Step: 7100
+2020-05-31 04:59:31,366 - INFO - Loss: 28.5943603515625
+2020-05-31 04:59:31,366 - INFO - training_batch_WER:  27.57%
+2020-05-31 04:59:31,366 - INFO - Prediction: nina sister antonja sister antwanett
+2020-05-31 04:59:31,366 - INFO - Reference: nina sister antonja sister antwanett
+2020-05-31 04:59:31,366 - INFO - Step time: 0.2528722286224365 seconds
+2020-05-31 04:59:31,422 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-7100.pt
+2020-05-31 04:59:32,144 - INFO - Finished epoch 47 in 38.43048286437988
+2020-05-31 04:59:32,144 - INFO - Starting epoch 48
+2020-05-31 04:59:37,653 - INFO - Step: 7125
+2020-05-31 04:59:37,657 - INFO - Loss: 15.099563598632812
+2020-05-31 04:59:37,657 - INFO - training_batch_WER:  20.87%
+2020-05-31 04:59:37,657 - INFO - Prediction: sab ma' wiċċu f daqqa waħda wieħed li dejjem kien jagħmel ħiltu biex jevitah f' dawn l-avvenimenti
+2020-05-31 04:59:37,657 - INFO - Reference: sab ma' wiċċu f daqqa waħda wieħed li dejjem kien jagħmel ħiltu biex jevitah f dawn l-avvenimenti
+2020-05-31 04:59:37,658 - INFO - Step time: 0.2510561943054199 seconds
+2020-05-31 04:59:44,021 - INFO - Step: 7150
+2020-05-31 04:59:44,026 - INFO - Loss: 13.360902786254883
+2020-05-31 04:59:44,026 - INFO - training_batch_WER:  25.88%
+2020-05-31 04:59:44,026 - INFO - Prediction: f' lima skolut uttendi u meta nkun min għali jaġbart it-tagħrif kollu dwarha x' aktarx nibagħdilha id tra je messaġġ ma' xi ħad
+2020-05-31 04:59:44,026 - INFO - Reference: f' liema skolu tattendi u meta nkun mingħalija ġbart it-tagħrif kollu dwarha x' aktarx nibagħdilha ittra jew messaġġ ma' xi ħad
+2020-05-31 04:59:44,026 - INFO - Step time: 0.23985648155212402 seconds
+2020-05-31 04:59:50,341 - INFO - Step: 7175
+2020-05-31 04:59:50,346 - INFO - Loss: 32.27750015258789
+2020-05-31 04:59:50,346 - INFO - training_batch_WER:  35.84%
+2020-05-31 04:59:50,346 - INFO - Prediction: ara dan it-trab se nħalli hawn żid jgħid lil martu
+2020-05-31 04:59:50,346 - INFO - Reference: ara dan it-trab se nħallih hawn żied jgħid lil martu
+2020-05-31 04:59:50,346 - INFO - Step time: 0.22985434532165527 seconds
+2020-05-31 04:59:56,646 - INFO - Step: 7200
+2020-05-31 04:59:56,650 - INFO - Loss: 15.265843391418457
+2020-05-31 04:59:56,650 - INFO - training_batch_WER:  24.24%
+2020-05-31 04:59:56,650 - INFO - Prediction: iltan ta ana ma kient tafa filtman tad im-attajid a linasma kinnalajnam bajnina
+2020-05-31 04:59:56,650 - INFO - Reference: il-vann tagħna ma kienx safa' vittma ta' daw l-attakki u lanqas ma konna rajniehom b' għajnejna
+2020-05-31 04:59:56,651 - INFO - Step time: 0.21692228317260742 seconds
+2020-05-31 04:59:56,708 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-7200.pt
+2020-05-31 05:00:03,164 - INFO - Step: 7225
+2020-05-31 05:00:03,170 - INFO - Loss: 15.171168327331543
+2020-05-31 05:00:03,170 - INFO - training_batch_WER:  25.26%
+2020-05-31 05:00:03,170 - INFO - Prediction: soltu sandro kien iqatta' dan il-lejl ma' sħabu jixrob u jitħanser u jekk ma jiskiċaxx jaqla' fwiedu kien jispiċċaħ bejn saqajar
+2020-05-31 05:00:03,170 - INFO - Reference: soltu sandro kien iqatta' dan il-lejl ma' sħabu jixrob u jitħanser u jekk ma jispiċċax jaqla' fwiedu kien jispiċċah bejn saqajar
+2020-05-31 05:00:03,170 - INFO - Step time: 0.2705109119415283 seconds
+2020-05-31 05:00:09,524 - INFO - Step: 7250
+2020-05-31 05:00:09,529 - INFO - Loss: 12.728828430175781
+2020-05-31 05:00:09,529 - INFO - training_batch_WER:  21.02%
+2020-05-31 05:00:09,529 - INFO - Prediction: u jekk la waħda u lanqas l-oħra
+2020-05-31 05:00:09,529 - INFO - Reference: u jekk la waħda u lanqas l-oħra
+2020-05-31 05:00:09,529 - INFO - Step time: 0.21730709075927734 seconds
+2020-05-31 05:00:09,709 - INFO - Finished epoch 48 in 37.56468081474304
+2020-05-31 05:00:09,709 - INFO - Starting epoch 49
+2020-05-31 05:00:15,803 - INFO - Step: 7275
+2020-05-31 05:00:15,808 - INFO - Loss: 21.472213745117188
+2020-05-31 05:00:15,808 - INFO - training_batch_WER:  28.41%
+2020-05-31 05:00:15,808 - INFO - Prediction: lillmami u d-debi jista' jgħidilhom kollox imma xorta ma jgħidilhomx
+2020-05-31 05:00:15,808 - INFO - Reference: lill-mami u d-dedi jista' jgħidilhom kollox imma xorta ma jgħidilhomx
+2020-05-31 05:00:15,808 - INFO - Step time: 0.2392892837524414 seconds
+2020-05-31 05:00:22,046 - INFO - Step: 7300
+2020-05-31 05:00:22,051 - INFO - Loss: 5.323001384735107
+2020-05-31 05:00:22,051 - INFO - training_batch_WER:  17.48%
+2020-05-31 05:00:22,051 - INFO - Prediction: bqajt inħares lejhom u rripetew l-istess ħaġa  għaljerba darbied wieħed iħaffer u l-ieħor jerga jimla l-ħofra bl-istessradam
+2020-05-31 05:00:22,051 - INFO - Reference: bqajt inħares lejhom u rripetew l-istess ħaġa għal erba' darbiet wieħed iħaffer u l-ieħor jerġa' jimla l-ħofra bl-istess radam
+2020-05-31 05:00:22,051 - INFO - Step time: 0.21112704277038574 seconds
+2020-05-31 05:00:22,108 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-7300.pt
+2020-05-31 05:00:28,631 - INFO - Step: 7325
+2020-05-31 05:00:28,635 - INFO - Loss: 10.81874942779541
+2020-05-31 05:00:28,635 - INFO - training_batch_WER:  23.14%
+2020-05-31 05:00:28,635 - INFO - Prediction: li ħassu ħażin meta kien magħhom ma kienu qatt iniżżluh u jħalluh f' nofsai' triq mi-mixħu fl-art
+2020-05-31 05:00:28,635 - INFO - Reference: li ħassu ħażin meta kien magħhom ma kienu qatt iniżżluh u jħalluh f' nofs ta' triq mi-mixħut fl-art
+2020-05-31 05:00:28,636 - INFO - Step time: 0.25988149642944336 seconds
+2020-05-31 05:00:35,087 - INFO - Step: 7350
+2020-05-31 05:00:35,092 - INFO - Loss: 7.876698017120361
+2020-05-31 05:00:35,092 - INFO - training_batch_WER:  20.05%
+2020-05-31 05:00:35,092 - INFO - Prediction: ajn mast kol e keb
+2020-05-31 05:00:35,092 - INFO - Reference: aj mast kol e keb
+2020-05-31 05:00:35,092 - INFO - Step time: 0.25074315071105957 seconds
+2020-05-31 05:00:41,420 - INFO - Step: 7375
+2020-05-31 05:00:41,424 - INFO - Loss: 18.550682067871094
+2020-05-31 05:00:41,424 - INFO - training_batch_WER:  24.92%
+2020-05-31 05:00:41,424 - INFO - Prediction: hija biss kwistjoni ta' kuraġġ
+2020-05-31 05:00:41,424 - INFO - Reference: hija biss kwistjoni ta' kuraġġ
+2020-05-31 05:00:41,424 - INFO - Step time: 0.20676326751708984 seconds
+2020-05-31 05:00:47,644 - INFO - Finished epoch 49 in 37.93462300300598
+2020-05-31 05:00:47,645 - INFO - Done in 1886.2463371753693
+2020-05-31 05:00:47,645 - INFO - Final Evaluation ..............................
+2020-05-31 05:00:48,439 - INFO - ==========>>>>>>Evaluation Loss TEST: 60.063228607177734
+2020-05-31 05:00:48,439 - INFO - ==========>>>>>>Evaluation WER TEST:  58.15%
+2020-05-31 05:00:48,441 - INFO - Evaluation time: 0.7964489459991455 seconds
+2020-05-31 05:00:48,501 - INFO - Saved checkpoint: CHECKPOINTS/trainer-STEP-7400.pt

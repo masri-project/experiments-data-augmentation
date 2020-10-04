@@ -1,0 +1,73 @@
+2020-09-19 06:47:08,662 - INFO - Dataset loaded with 0.33 hours. Filtered 0.00 hours.
+2020-09-19 06:47:08,662 - INFO - Evaluating 250 examples
+2020-09-19 06:47:08,662 - INFO - PADDING: 16
+2020-09-19 06:47:08,662 - INFO - STFT using conv
+2020-09-19 06:47:09,819 - INFO - ================================
+2020-09-19 06:47:09,819 - INFO - Number of parameters in encoder: 9937920
+2020-09-19 06:47:09,819 - INFO - Number of parameters in decoder: 39975
+2020-09-19 06:47:09,820 - INFO - Total number of parameters in model: 9977895
+2020-09-19 06:47:09,820 - INFO - ================================
+2020-09-19 06:47:09,821 - INFO - Restoring JasperEncoder from /home/carlos/Desktop/EXPERIMENTS/0_NO_LM/WER_Measure_Scripts/Baseline_CHECKPOINTS/JasperEncoder-STEP-7400.pt
+2020-09-19 06:47:09,837 - INFO - Restoring JasperDecoderForCTC from /home/carlos/Desktop/EXPERIMENTS/0_NO_LM/WER_Measure_Scripts/Baseline_CHECKPOINTS/JasperDecoderForCTC-STEP-7400.pt
+Selected optimization level O1:  Insert automatic casts around Pytorch functions and Tensor methods.
+
+Defaults for this optimization level are:
+enabled                : True
+opt_level              : O1
+cast_model_type        : None
+patch_torch_functions  : True
+keep_batchnorm_fp32    : None
+master_weights         : None
+loss_scale             : dynamic
+Processing user overrides (additional kwargs that are not None)...
+After processing overrides, optimization options are:
+enabled                : True
+opt_level              : O1
+cast_model_type        : None
+patch_torch_functions  : True
+keep_batchnorm_fp32    : None
+master_weights         : None
+loss_scale             : dynamic
+Warning:  multi_tensor_applier fused unscale kernel is unavailable, possibly because apex was installed without --cuda_ext --cpp_ext. Using Python fallback.  Original ImportError was: ImportError('/home/carlos/anaconda3/lib/python3.7/site-packages/amp_C.cpython-37m-x86_64-linux-gnu.so: undefined symbol: _ZN6caffe26detail37_typeMetaDataInstance_preallocated_32E')
+2020-09-19 06:47:09,859 - INFO - Evaluating batch 0 out of 8
+2020-09-19 06:47:10,565 - INFO - Evaluating batch 1 out of 8
+2020-09-19 06:47:11,111 - INFO - Evaluating batch 2 out of 8
+2020-09-19 06:47:11,561 - INFO - Evaluating batch 3 out of 8
+2020-09-19 06:47:12,111 - INFO - Evaluating batch 4 out of 8
+2020-09-19 06:47:12,588 - INFO - Evaluating batch 5 out of 8
+2020-09-19 06:47:13,059 - INFO - Evaluating batch 6 out of 8
+2020-09-19 06:47:13,503 - INFO - Evaluating batch 7 out of 8
+2020-09-19 06:47:13,946 - INFO - Greedy WER 63.71%
+2020-09-19 06:47:13,946 - INFO - ================================
+2020-09-19 06:47:13,946 - INFO - Infering with (alpha, beta): (2.0, 1.5)
+Selected optimization level O1:  Insert automatic casts around Pytorch functions and Tensor methods.
+
+Defaults for this optimization level are:
+enabled                : True
+opt_level              : O1
+cast_model_type        : None
+patch_torch_functions  : True
+keep_batchnorm_fp32    : None
+master_weights         : None
+loss_scale             : dynamic
+Processing user overrides (additional kwargs that are not None)...
+After processing overrides, optimization options are:
+enabled                : True
+opt_level              : O1
+cast_model_type        : None
+patch_torch_functions  : True
+keep_batchnorm_fp32    : None
+master_weights         : None
+loss_scale             : dynamic
+2020-09-19 06:47:16,136 - INFO - Beam WER 59.04%
+2020-09-19 06:47:16,136 - INFO - Beam WER for (alpha, beta)
+2020-09-19 06:47:16,137 - INFO - ================================
+2020-09-19 06:47:16,137 - INFO - 
+((2.0, 1.5), 59.03522205206738)
+2020-09-19 06:47:16,137 - INFO - ================================
+2020-09-19 06:47:16,137 - INFO - Best (alpha, beta): (2.0, 1.5), WER: 59.04%
+
+real	0m9.091s
+user	0m29.615s
+sys	0m1.344s
+
