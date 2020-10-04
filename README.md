@@ -1,6 +1,6 @@
 
-#Experiments
-##For the paper: Combination of distinct types of data augmentation to improve speech recognition of Maltese
+# Experiments
+## For the paper: Combination of distinct types of data augmentation to improve speech recognition of Maltese
 
 Authors:
 
